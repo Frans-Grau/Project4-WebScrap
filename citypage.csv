@@ -1,0 +1,1349 @@
+,city,1
+0,lisbon,
+1,chiang-mai,
+2,canggu, Bali
+3,bangkok,
+4,madeira,
+5,buenos-aires,
+6,mexico-city,
+7,timisoara,
+8,berlin,
+9,bengaluru,
+10,gran-canaria, Canary Islands
+11,cape-town,
+12,medellín,
+13,penang,
+14,portimão,
+15,lagos, Algarve
+16,fuerteventura, Canary Islands
+17,ho-chi-minh-city,
+18,porto,
+19,kuala-lumpur,
+20,tenerife, Canary Islands
+21,ko-pha-ngan,
+22,brasov,
+23,nairobi,
+24,kathmandu,
+25,istanbul,
+26,ubud, Bali
+27,varna,
+28,tbilisi,
+29,warsaw,
+30,cluj,
+31,belgrade,
+32,seseh, Bali
+33,delhi,
+34,da-nang,
+35,phuket,
+36,seminyak, Bali
+37,cebu,
+38,hyderabad,
+39,davao,
+40,guadalajara,
+41,azores,
+42,sofia,
+43,tallinn,
+44,manila,
+45,zadar,
+46,lima,
+47,san-antonio, TX
+48,luang-prabang,
+49,wrocław,
+50,atlanta, GA
+51,kraków,
+52,london,
+53,cuenca,
+54,mallorca,
+55,dresden,
+56,ploiesti,
+57,perth,
+58,taghazout,
+59,antalya,
+60,brno,
+61,munich,
+62,austin, TX
+63,hanoi,
+64,haikou,
+65,zagreb,
+66,gdansk,
+67,dallas, TX
+68,plovdiv,
+69,constanta,
+70,siem-reap,
+71,puerto-escondido,
+72,palawan,
+73,nis,
+74,phu-quoc,
+75,cancun,
+76,havana,
+77,tampa, FL
+78,krabi,
+79,ericeira,
+80,port-louis,
+81,bucharest,
+82,barcelona,
+83,seoul,
+84,monterrey,
+85,queretaro,
+86,novi-sad,
+87,amritsar,
+88,skopje,
+89,prague,
+90,são-paulo,
+91,jodhpur,
+92,pokhara,
+93,mumbai,
+94,oaxaca,
+95,marrakesh,
+96,hoi-an,
+97,leipzig,
+98,agra,
+99,new-york-city, NY
+100,phnom-penh,
+101,senggigi, Lombok
+102,antigua,
+103,siargao,
+104,colombo,
+105,johannesburg,
+106,playa-del-carmen,
+107,salt-lake-city, UT
+108,makati,
+109,stockholm,
+110,la-plata,
+111,ljubljana,
+112,goa,
+113,jakarta,
+114,busan,
+115,galapagos-islands,
+116,dubrovnik,
+117,athens,
+118,mysore,
+119,porto-alegre,
+120,guangzhou,
+121,braga,
+122,minneapolis, MN
+123,general-santos,
+124,quito,
+125,sydney,
+126,sarajevo,
+127,jaipur,
+128,nakhon-ratchasima,
+129,taipei,
+130,split,
+131,nha-trang,
+132,seville,
+133,bratislava,
+134,kota-kinabalu,
+135,tucson, AZ
+136,vancouver,
+137,szczecin,
+138,rijeka,
+139,kanpur,
+140,yerevan,
+141,poznan,
+142,arugam-bay,
+143,galle,
+144,aveiro,
+145,madurai,
+146,portland, OR
+147,groningen,
+148,cordoba,
+149,rio-de-janeiro,
+150,lublin,
+151,beaumont, TX
+152,adana,
+153,ahmedabad,
+154,merida,
+155,toronto,
+156,noida,
+157,bansko,
+158,faro,
+159,beirut,
+160,hamburg,
+161,santiago,
+162,coimbra,
+163,mostar,
+164,kuching,
+165,pattaya,
+166,costa-da-caparica,
+167,fayetteville, NC
+168,riga,
+169,brownsville, TX
+170,lucknow,
+171,kandy,
+172,port-elizabeth,
+173,melbourne,
+174,ko-samui,
+175,jimbaran, Bali
+176,amsterdam,
+177,singapore,
+178,paramaribo,
+179,hubli,
+180,copenhagen,
+181,lagos,
+182,johor-bahru,
+183,los-angeles, CA
+184,bandung,
+185,winnipeg,
+186,tampere,
+187,harare,
+188,mcallen, TX
+189,chisinau,
+190,waterloo, IA
+191,gainesville, FL
+192,jeju-island,
+193,louisville, KY
+194,las-vegas, NV
+195,paphos,
+196,el-jadida,
+197,auckland,
+198,columbus, OH
+199,bareilly,
+200,asuncion,
+201,harlingen, TX
+202,pretoria,
+203,alicante,
+204,ipoh,
+205,lodz,
+206,burgas,
+207,la-paz,
+208,decatur, IL
+209,pai,
+210,honolulu, Hawaii
+211,malmö,
+212,tirana,
+213,sanur, Bali
+214,laredo, TX
+215,izmir,
+216,youngstown, OH
+217,hong-kong,
+218,buffalo, NY
+219,chiang-rai,
+220,changzhou,
+221,tashkent,
+222,davenport, IA
+223,grande-prairie,
+224,bogota,
+225,kochi,
+226,kozhikode,
+227,da-lat,
+228,craiova,
+229,tyler, TX
+230,conroe, TX
+231,la-union,
+232,menorca, Menorca
+233,lancaster, CA
+234,malappuram,
+235,battle-creek, MI
+236,guanajuato,
+237,amed, Bali
+238,san-josé,
+239,baguio,
+240,valencia,
+241,jamshedpur,
+242,syracuse, NY
+243,roanoke, VA
+244,kansas-city, MO
+245,ankara,
+246,regina,
+247,bowling-green, KY
+248,boston, MA
+249,washington, DC
+250,cartagena,
+251,kota,
+252,malacca,
+253,madison, WI
+254,jacksonville, NC
+255,cincinnati, OH
+256,dothan, AL
+257,luxor,
+258,tokyo,
+259,columbus, GA
+260,malang,
+261,aligarh,
+262,gwalior,
+263,hermosillo,
+264,san-diego, CA
+265,visakhapatnam,
+266,nagpur,
+267,thrissur,
+268,macon, GA
+269,chittagong,
+270,indianapolis, IN
+271,turku,
+272,ko-lanta,
+273,ludhiana,
+274,aachen,
+275,tirupur,
+276,meerut,
+277,minca,
+278,arequipa,
+279,calgary,
+280,mission, TX
+281,gurgaon,
+282,jabalpur,
+283,san-miguel-de-allende,
+284,almaty,
+285,kalyan,
+286,iasi,
+287,osijek,
+288,livingstone,
+289,moradabad,
+290,aurangabad,
+291,pocatello, ID
+292,patna,
+293,port-arthur, TX
+294,chandigarh,
+295,gothenburg,
+296,wellington,
+297,langkawi,
+298,queenstown,
+299,denver, CO
+300,hue,
+301,north-little-rock, AR
+302,mcleod-ganj,
+303,surabaya,
+304,fortaleza,
+305,ramallah,
+306,coimbatore,
+307,bryan, TX
+308,lake-balaton,
+309,pekanbaru, Sumatra
+310,nuremberg,
+311,montpellier,
+312,matara,
+313,vadodara,
+314,vijayawada,
+315,mui-ne,
+316,panama-city,
+317,quebec-city,
+318,palembang, Sumatra
+319,denpasar, Bali
+320,houston, TX
+321,pristina,
+322,richmond, VA
+323,varkala,
+324,daegu,
+325,wichita, KS
+326,las-cruces, NM
+327,banja-luka,
+328,muncie, IN
+329,leiden,
+330,seattle, WA
+331,cairo,
+332,norfolk, VA
+333,huizhou,
+334,pittsburgh, PA
+335,rosario,
+336,kaohsiung,
+337,jacksonville, FL
+338,saskatoon,
+339,cirebon,
+340,katowice,
+341,flint, MI
+342,rocky-mount, NC
+343,gori,
+344,goiania,
+345,longview, TX
+346,burlington, NC
+347,dubai,
+348,kokomo, IN
+349,santo-domingo,
+350,la-paz,
+351,sa-pa,
+352,kitchener,
+353,rochester, NY
+354,gili-air,
+355,jonesboro, AR
+356,chatham,
+357,pharr, TX
+358,tunis,
+359,kolkata,
+360,gaziantep,
+361,aguascalientes,
+362,huaibei,
+363,curitiba,
+364,new-orleans, LA
+365,killeen, TX
+366,guwahati,
+367,giza,
+368,santa-cruz,
+369,christchurch,
+370,raleigh, NC
+371,fes,
+372,tijuana,
+373,frankfurt,
+374,batumi,
+375,odessa, TX
+376,dakar,
+377,rajkot,
+378,el-gouna,
+379,durg,
+380,albuquerque, NM
+381,yuma, AZ
+382,palmdale, CA
+383,valdosta, GA
+384,bossier-city, LA
+385,ko-tao,
+386,daejeon,
+387,lahore,
+388,lawton, OK
+389,vilnius,
+390,victoria,
+391,surakarta,
+392,gwangju,
+393,chico, CA
+394,yogyakarta,
+395,medan, Sumatra
+396,tainan,
+397,salem, OR
+398,amarillo, TX
+399,asheville, NC
+400,victorville, CA
+401,semarang,
+402,helsinki,
+403,cochabamba,
+404,windhoek,
+405,guiyang,
+406,aurora, IL
+407,makassar,
+408,fargo, ND
+409,florianopolis,
+410,tulsa, OK
+411,surat,
+412,suva,
+413,cusco,
+414,srinagar,
+415,mataram, Lombok
+416,nashville, TN
+417,apia,
+418,evansville, IN
+419,chicago, IL
+420,victoria, TX
+421,khulna,
+422,albany, OR
+423,bethlehem, PA
+424,san-francisco, CA
+425,windsor,
+426,chattanooga, TN
+427,varanasi,
+428,rishikesh,
+429,des-moines, IA
+430,jiamusi,
+431,oulu,
+432,kampala,
+433,udon-thani,
+434,bedford, OH
+435,oklahoma-city, OK
+436,newcastle-upon-tyne,
+437,jiaxing,
+438,edinburgh,
+439,lethbridge,
+440,terre-haute, IN
+441,edinburg, TX
+442,miami, FL
+443,reykjavik,
+444,owensboro, KY
+445,jinan,
+446,eau-claire, WI
+447,intag-valley,
+448,chania, Crete
+449,fort-smith, AR
+450,dongying,
+451,amman,
+452,natal,
+453,providence, RI
+454,huai'an,
+455,alexandria,
+456,bhubaneswar,
+457,montreal,
+458,hohhot,
+459,enid, OK
+460,shantou,
+461,birmingham, AL
+462,bismarck, ND
+463,guatemala-city,
+464,grand-rapids, MI
+465,delano, CA
+466,northampton,
+467,fort-wayne, IN
+468,ibadan,
+469,st.-louis, MO
+470,bloomington, IN
+471,lianyungang,
+472,lubbock, TX
+473,hagen,
+474,fresno, CA
+475,joplin, MO
+476,minot, ND
+477,kannur,
+478,constantine,
+479,lafayette, LA
+480,reading, PA
+481,mombasa,
+482,temple, TX
+483,tangier,
+484,waco, TX
+485,kingsport, TN
+486,birmingham,
+487,surrey,
+488,casablanca,
+489,benin-city,
+490,san-cristóbal-de-las-casas,
+491,karlsruhe,
+492,ocala, FL
+493,erie, PA
+494,graz,
+495,lawrence, KS
+496,kuta, Bali
+497,huainan,
+498,kaduna,
+499,alanya,
+500,cologne,
+501,elkhart, IN
+502,belo-horizonte,
+503,naha, Okinawa
+504,stuttgart,
+505,cedar-rapids, IA
+506,bath,
+507,toluca,
+508,san-luis-potosi,
+509,vasai,
+510,leicester,
+511,idaho-falls, ID
+512,el-alto,
+513,cixi,
+514,dahab,
+515,campinas,
+516,malaga,
+517,aberdeen,
+518,baku,
+519,panajachel,
+520,colorado-springs, CO
+521,kollam,
+522,uluwatu, Bali
+523,jilin,
+524,johnson-city, TN
+525,abbotsford,
+526,limassol,
+527,shreveport, LA
+528,brisbane,
+529,dongguan,
+530,beijing,
+531,quanzhou,
+532,shanghai,
+533,willemstad,
+534,antananarivo,
+535,springfield, IL
+536,porterville, CA
+537,bucaramanga,
+538,sioux-falls, SD
+539,dubuque, IA
+540,kosice,
+541,kaunas,
+542,ashland, OR
+543,jena,
+544,billings, MT
+545,belem,
+546,fredericton,
+547,st.-cloud, MN
+548,oshawa,
+549,agadir,
+550,hua-hin,
+551,huntsville, AL
+552,grand-junction, CO
+553,lincoln, NE
+554,jiangmen,
+555,utica, NY
+556,provo, UT
+557,montgomery, AL
+558,rabat,
+559,taichung,
+560,durban,
+561,springdale, AR
+562,puebla,
+563,college-station, TX
+564,modesto, CA
+565,rotterdam,
+566,rochester, MN
+567,wilmington, NC
+568,multan,
+569,turlock, CA
+570,great-falls, MT
+571,toledo, OH
+572,uberlandia,
+573,hesperia, CA
+574,port-harcourt,
+575,dublin,
+576,spokane-valley, WA
+577,manchester,
+578,liuzhou,
+579,chachapoyas,
+580,suwon,
+581,guayaquil,
+582,bremen,
+583,casper, WY
+584,greensboro, NC
+585,kigali,
+586,conway, AR
+587,bishkek,
+588,pasto,
+589,zhanjiang,
+590,kenosha, WI
+591,oslo,
+592,baton-rouge, LA
+593,scranton, PA
+594,cleveland, OH
+595,nottingham,
+596,weifang,
+597,rogers, AR
+598,corpus-christi, TX
+599,konya,
+600,brazzaville,
+601,oregon-city, OR
+602,georgetown,
+603,león,
+604,barranquilla,
+605,ao-nang,
+606,madrid,
+607,luton,
+608,bridgeton, MO
+609,anyang,
+610,virginia-beach, VA
+611,augusta, GA
+612,clarksville, TN
+613,yakima, WA
+614,rzeszow,
+615,changshu,
+616,ko-chang,
+617,bahawalpur,
+618,jyvaskyla,
+619,cozumel,
+620,charlotte, NC
+621,recife,
+622,lille,
+623,nanning,
+624,san-juan-del-sur,
+625,hangzhou,
+626,rockford, IL
+627,astana,
+628,st.-george, UT
+629,taizhou,
+630,taiyuan,
+631,port-said,
+632,campos-dos-goytacazes,
+633,st.-joseph, MO
+634,liberia,
+635,asansol,
+636,little-rock, AR
+637,bridgeport, CT
+638,nanaimo,
+639,kumasi,
+640,zurich,
+641,zhongshan,
+642,topeka, KS
+643,visalia, CA
+644,boulder, CO
+645,tianjin,
+646,liverpool,
+647,gulfport, MS
+648,lyon,
+649,knoxville, TN
+650,pune,
+651,tangshan,
+652,boumerdas,
+653,grand-forks, ND
+654,bloomington, IL
+655,anchorage, AK
+656,fukuoka,
+657,budva,
+658,rapid-city, SD
+659,changchun,
+660,apple-valley, CA
+661,zhengzhou,
+662,toulouse,
+663,banjul,
+664,wenling,
+665,lodi, CA
+666,geneva,
+667,la-crosse, WI
+668,high-point, NC
+669,ouagadougou,
+670,bandar-seri-begawan,
+671,bakersfield, CA
+672,a-coruna,
+673,allahabad,
+674,bournemouth,
+675,lome,
+676,linyi,
+677,kisangani,
+678,casa-grande, AZ
+679,normal, IL
+680,yantai,
+681,yangshuo,
+682,brasilia,
+683,salento,
+684,vientiane,
+685,peoria, IL
+686,algiers,
+687,scottsdale, AZ
+688,st.-catharines,
+689,maracaibo,
+690,sioux-city, IA
+691,tel-aviv,
+692,hannover,
+693,oakland, CA
+694,jackson, TN
+695,nanchang,
+696,xi-an,
+697,salta,
+698,bodrum,
+699,palermo,
+700,indore,
+701,janesville, WI
+702,olympia, WA
+703,kirkuk,
+704,chennai,
+705,shijiazhuang,
+706,boracay,
+707,portsmouth,
+708,lansing, MI
+709,pueblo, CO
+710,pensacola, FL
+711,utrecht,
+712,joliet, IL
+713,oxnard, CA
+714,raipur,
+715,jundiaí,
+716,mobile, AL
+717,phoenix, AZ
+718,la-serena,
+719,abidjan,
+720,podgorica,
+721,zunyi,
+722,ann-arbor, MI
+723,ningbo,
+724,lubumbashi,
+725,lexington, KY
+726,lynchburg, VA
+727,venice,
+728,lanzhou,
+729,coventry,
+730,warner-robins, GA
+731,iowa-city, IA
+732,barrie,
+733,duhok,
+734,abuja,
+735,datong,
+736,mar-del-plata,
+737,vang-vieng,
+738,san-salvador,
+739,vienna,
+740,corvallis, OR
+741,huambo,
+742,merced, CA
+743,erlangen,
+744,milwaukee, WI
+745,sargodha,
+746,kunming,
+747,cork,
+748,fuzhou,
+749,zhoukou,
+750,carson-city, NV
+751,baoding,
+752,thane,
+753,javea,
+754,columbia, MO
+755,nicosia,
+756,klaipeda,
+757,cali,
+758,guelph,
+759,tulare, CA
+760,gujranwala,
+761,anderson, IN
+762,riverside, CA
+763,xining,
+764,ranchi,
+765,caye-caulker,
+766,sao-luis,
+767,shaoxing,
+768,aalborg,
+769,dhaka,
+770,hoover, AL
+771,patras,
+772,maracay,
+773,manchester, NH
+774,waukegan, IL
+775,nijmegen,
+776,kearney, NE
+777,luoyang,
+778,quetta,
+779,medford, OR
+780,essaouira,
+781,sorocaba,
+782,moncton,
+783,vitória,
+784,praia,
+785,nuku'alofa,
+786,harbin,
+787,mamaia,
+788,shenyang,
+789,granada,
+790,abilene, TX
+791,allentown, PA
+792,xuzhou,
+793,zibo,
+794,handan,
+795,soweto,
+796,ghent,
+797,douala,
+798,omaha, NE
+799,cheyenne, WY
+800,qiqihar,
+801,managua,
+802,conakry,
+803,nantes,
+804,lake-como,
+805,kunshan,
+806,niamey,
+807,cody, WY
+808,sulaymaniyah,
+809,kinmen,
+810,oran,
+811,dortmund,
+812,manama,
+813,port-st.-lucie, FL
+814,sihanoukville,
+815,espoo,
+816,san-juan,
+817,mendoza,
+818,stockton, CA
+819,dili,
+820,yuba-city, CA
+821,anápolis,
+822,sendai,
+823,qinhuangdao,
+824,zaria,
+825,hemet, CA
+826,reno, NV
+827,pyongyang,
+828,nashua, NH
+829,rawalpindi,
+830,putian,
+831,ushuaia,
+832,yichang,
+833,nanyang,
+834,ko-lipe,
+835,yinchuan,
+836,budapest,
+837,tallahassee, FL
+838,xiangtan,
+839,thiruvananthapuram,
+840,peshawar,
+841,islamabad,
+842,bocas-del-toro,
+843,logan, UT
+844,yamoussoukro,
+845,urumqi,
+846,hvar,
+847,vineland, NJ
+848,são-josé-dos-campos,
+849,greenville, SC
+850,rennes,
+851,wonsan,
+852,juarez,
+853,manhattan, KS
+854,bhopal,
+855,kano,
+856,nantong,
+857,helena, MT
+858,brampton,
+859,orlando, FL
+860,hartford, CT
+861,bristol,
+862,greeley, CO
+863,tehran,
+864,karachi,
+865,daytona-beach, FL
+866,princeton, NJ
+867,qingdao,
+868,campo-grande,
+869,huddersfield,
+870,zhangjiakou,
+871,sialkot,
+872,hagatna,
+873,montevideo,
+874,cordoba,
+875,adelaide,
+876,kananga,
+877,flagstaff, AZ
+878,memphis, TN
+879,spokane, WA
+880,dushanbe,
+881,enterprise, NV
+882,glasgow,
+883,mbuji-mayi,
+884,salvador,
+885,auburn, AL
+886,the-hague,
+887,port-au-prince,
+888,schenectady, NY
+889,tegucigalpa,
+890,kelowna,
+891,dayton, OH
+892,leeds,
+893,nice,
+894,dalian,
+895,pamplona,
+896,qom,
+897,lusaka,
+898,wuhu,
+899,onitsha,
+900,maseru,
+901,boise, ID
+902,weston, FL
+903,bradenton, FL
+904,tracy, CA
+905,champaign, IL
+906,beacon, NY
+907,grand-island, NE
+908,kotor,
+909,kingston,
+910,sharjah,
+911,marbella,
+912,southampton,
+913,puerto-vallarta,
+914,santa-marta,
+915,bielefeld,
+916,tebessa,
+917,frederick, MD
+918,hilo, Hawaii
+919,leeuwarden,
+920,nashik,
+921,zhuzhou,
+922,kauai, Hawaii
+923,missoula, MT
+924,brussels,
+925,sandpoint, ID
+926,joao-pessoa,
+927,manteca, CA
+928,hobart,
+929,canton, OH
+930,tabriz,
+931,ithaca, NY
+932,marysville, WA
+933,breda,
+934,harrisonburg, VA
+935,nanjing,
+936,fairfield, CA
+937,canberra,
+938,philadelphia, PA
+939,winston, NC
+940,new-haven, CT
+941,marseille,
+942,rhodes,
+943,hof,
+944,dhanbad,
+945,bern,
+946,kassel,
+947,wichita-falls, TX
+948,ko-phi-phi,
+949,macau,
+950,nagoya,
+951,galway,
+952,baltimore, MD
+953,oxford,
+954,key-west, FL
+955,chifeng,
+956,ottawa,
+957,zhucheng,
+958,wollongong,
+959,san-jose, CA
+960,thessaloniki,
+961,bellingham, WA
+962,york,
+963,nouakchott,
+964,norwich,
+965,fort-lauderdale, FL
+966,valparaíso,
+967,šumperk,
+968,redding, CA
+969,dunedin,
+970,aarhus,
+971,port-of-spain,
+972,florence,
+973,hull,
+974,eindhoven,
+975,ulaanbaatar,
+976,torreon,
+977,eugene, OR
+978,halifax,
+979,palm-bay, FL
+980,paris,
+981,fairfax, VA
+982,byron-bay,
+983,fort-mcmurray,
+984,mashhad,
+985,montanita,
+986,bar,
+987,worcester, MA
+988,richland, WA
+989,santa-barbara, CA
+990,sheffield,
+991,charleston, SC
+992,san-ignacio,
+993,oranjestad,
+994,kuwait-city,
+995,tanchon,
+996,larnaca,
+997,dammam,
+998,rome,
+999,kaesong,
+1000,newport-beach, CA
+1001,detroit, MI
+1002,fushun,
+1003,okinawa-city, Okinawa
+1004,luanda,
+1005,darwin,
+1006,cambridge,
+1007,chengdu,
+1008,gaborone,
+1009,palo-alto, CA
+1010,wuhan,
+1011,beersheba,
+1012,bellevue, NE
+1013,west-palm-beach, FL
+1014,laayoune,
+1015,appleton, WI
+1016,cardiff,
+1017,revelstoke,
+1018,tromso,
+1019,mountain-view, CA
+1020,grenoble,
+1021,wanaka,
+1022,freetown,
+1023,portland, ME
+1024,puerto-viejo,
+1025,sacramento, CA
+1026,comporta,
+1027,cairns,
+1028,copan,
+1029,mexicali,
+1030,lilongwe,
+1031,santa-fe, NM
+1032,funafuti,
+1033,zandvoort,
+1034,monterey, CA
+1035,doha,
+1036,cavtat,
+1037,strasbourg,
+1038,ogden, UT
+1039,shenzhen,
+1040,stamford, CT
+1041,san-pedro-sula,
+1042,san-mateo, CA
+1043,port-vila,
+1044,kaechon,
+1045,zwolle,
+1046,faisalabad,
+1047,edmonton,
+1048,bend, OR
+1049,pasco, WA
+1050,antwerp,
+1051,scheveningen,
+1052,sliema,
+1053,iquique,
+1054,lanzarote, Canary Islands
+1055,deventer,
+1056,cheltenham,
+1057,lake-tahoe, CA
+1058,belize-city,
+1059,savannah, GA
+1060,oshkosh, WI
+1061,muscat,
+1062,texel,
+1063,shiraz,
+1064,trondheim,
+1065,fort-myers, FL
+1066,melbourne, FL
+1067,dededo,
+1068,milan,
+1069,kitakyushu,
+1070,haarlem,
+1071,monaco,
+1072,lake-havasu-city, AZ
+1073,lelystad,
+1074,xiamen,
+1075,cannes,
+1076,whistler,
+1077,reading,
+1078,george-town,
+1079,park-city, UT
+1080,pisa,
+1081,guilin,
+1082,indio, CA
+1083,ube,
+1084,temecula, CA
+1085,okayama,
+1086,arnhem,
+1087,galveston, TX
+1088,menlo-park, CA
+1089,leuven,
+1090,carlsbad, CA
+1091,coeur-d'alene, ID
+1092,oceanside, CA
+1093,midland, TX
+1094,sarasota, FL
+1095,port-orange, FL
+1096,elgin, IL
+1097,accra,
+1098,caracas,
+1099,hefei,
+1100,sinuiju,
+1101,cape-coral, FL
+1102,zhuhai,
+1103,abu-dhabi,
+1104,bruges,
+1105,taos, NM
+1106,palm-coast, FL
+1107,vista, CA
+1108,shrewsbury,
+1109,tartu,
+1110,sayulita,
+1111,gibraltar,
+1112,wenzhou,
+1113,manaus,
+1114,henderson, NV
+1115,alesund,
+1116,san-clemente, CA
+1117,fort-collins, CO
+1118,palm-desert, CA
+1119,yaounde,
+1120,petaluma, CA
+1121,green-bay, WI
+1122,sparks, NV
+1123,bursa,
+1124,plantation, FL
+1125,annecy,
+1126,nagasaki,
+1127,cathedral-city, CA
+1128,santa-maria, CA
+1129,bordeaux,
+1130,bergen,
+1131,murrieta, CA
+1132,bonita-springs, FL
+1133,tuscaloosa, AL
+1134,honiara,
+1135,ibiza,
+1136,lugano,
+1137,rui'an,
+1138,lake-charles, LA
+1139,antofagasta,
+1140,santa-rosa, CA
+1141,waterloo,
+1142,salem, MA
+1143,heidelberg,
+1144,road-town,
+1145,salzburg,
+1146,duluth, MN
+1147,isfahan,
+1148,chamonix,
+1149,san-angelo, TX
+1150,kennewick, WA
+1151,kamiyama,
+1152,haifa,
+1153,banff,
+1154,avignon,
+1155,tulum,
+1156,brentwood, CA
+1157,jamestown,
+1158,kralendijk,
+1159,beaverton, OR
+1160,saint-helier,
+1161,genoa,
+1162,tilburg,
+1163,lausanne,
+1164,baotou,
+1165,basel,
+1166,puning,
+1167,centennial, CO
+1168,hamhung,
+1169,montego-bay,
+1170,darmstadt,
+1171,almere,
+1172,padova,
+1173,bologna,
+1174,incline-village, NV
+1175,erbil,
+1176,avarua,
+1177,verdi, NV
+1178,rethymno,
+1179,stanley,
+1180,bozeman, MT
+1181,osaka,
+1182,foshan,
+1183,viña-del-mar,
+1184,santa-teresa,
+1185,arendal,
+1186,trieste,
+1187,naples,
+1188,mcmurdo-station,
+1189,hamilton,
+1190,zhangzhou,
+1191,dijon,
+1192,luxembourg,
+1193,riyadh,
+1194,yiwu,
+1195,san-sebastian,
+1196,innsbruck,
+1197,ferrara,
+1198,amundsen-scott,
+1199,kyoto,
+1200,yangzhou,
+1201,biarritz,
+1202,napa, CA
+1203,jarabacoa,
+1204,anshan,
+1205,chongjin,
+1206,itapema,
+1207,rovaniemi,
+1208,kobe,
+1209,nassau,
+1210,torshavn, Faroe Islands
+1211,dusseldorf,
+1212,bilbao,
+1213,santorini,
+1214,mykonos,
+1215,cabo-san-lucas,
+1216,modena,
+1217,gold-coast,
+1218,jeddah,
+1219,charlotte-amalie,
+1220,interlaken,
+1221,tsushima-island,
+1222,cagliari,
+1223,brighton,
+1224,kagoshima,
+1225,mecca,
+1226,zhangjiagang,
+1227,treviso,
+1228,belfast,
+1229,suzhou,
+1230,sariwon,
+1231,libreville,
+1232,changsha,
+1233,jerusalem,
+1234,nampo,
+1235,ashgabat,
+1236,kinshasa,
+1237,tarifa,
+1238,st.-gallen,
+1239,trier,
+1240,monza,
+1241,medina,
+1242,trento,
+1243,weihai,
+1244,verona,
+1245,rimini,
+1246,huzhou,
+1247,tengzhou,
+1248,bari,
+1249,lucca,
+1250,rouen,
+1251,philipsburg,
+1252,ahvaz,
+1253,bay-islands,
+1254,male,
+1255,wuxi,
+1256,avellino,
+1257,mancora,
+1258,hiroshima,
+1259,yokohama,
+1260,king-edward-point,
+1261,bridgetown,
+1262,amalfi,
+1263,xiangyang,
+1264,basse-terre,
+1265,vatican-city,
+1266,port-moresby,
+1267,ajaccio, Corsica
+1268,victoria,
+1269,cayenne,
+1270,nuuk,
+1271,siena,
+1272,st-john's,
+1273,cabarete,
+1274,nago, Okinawa
+1275,san-pedro,
+1276,isla-mujeres,
+1277,dorobō,
+1278,sapporo,
+1279,hamamatsu,
+1280,turin,
+1281,san-pedro-de-atacama,
+1282,andorra-la-vella,
+1283,tamarindo,
+1284,martinique,
+1285,punta-del-este,
+1286,punta-cana,
+1287,monrovia,
+1288,chongqing,
+1289,exeter,
+1290,nouméa,
+1291,djibouti,
+1292,tabaranã-do-norte,
+1293,n'djamena,
+1294,obninsk,
+1295,tripoli,
+1296,novocherkassk,
+1297,juba,
+1298,ivano-frankivsk,
+1299,sochi,
+1300,kaliningrad,
+1301,tomsk,
+1302,vladivostok,
+1303,ulyanovsk,
+1304,izhevsk,
+1305,benghazi,
+1306,krivoy-rog,
+1307,khartoum,
+1308,mosul,
+1309,lviv,
+1310,bangui,
+1311,krasnodar,
+1312,homs,
+1313,asmara,
+1314,saratov,
+1315,hama,
+1316,naypyidaw,
+1317,dnipro,
+1318,odessa,
+1319,krasnoyarsk,
+1320,volgograd,
+1321,ufa,
+1322,rostov-on-don,
+1323,chelyabinsk,
+1324,omsk,
+1325,kazan,
+1326,samara,
+1327,maputo,
+1328,mandalay,
+1329,nizhny,
+1330,mogadishu,
+1331,kharkiv,
+1332,yekaterinburg,
+1333,novosibirsk,
+1334,sana'a,
+1335,damascus,
+1336,minsk,
+1337,aleppo,
+1338,basra,
+1339,addis-ababa,
+1340,kyiv,
+1341,kabul,
+1342,bamako,
+1343,dar-es-salaam,
+1344,saint-petersburg,
+1345,yangon,
+1346,baghdad,
+1347,moscow,
