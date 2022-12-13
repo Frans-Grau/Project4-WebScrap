@@ -1,0 +1,1267 @@
+,Name,Country,Industry,Valuation ($ Billion)
+0,Bytedance,China,Artificial intelligence,140.0
+1,SpaceX,United States,Other,100.3
+2,Shein,China,E-commerce & direct-to-consumer,100.0
+3,Stripe,United States,Fintech,95.0
+4,Klarna,Sweden,Fintech,45.6
+5,Canva,Australia,Internet software & services,40.0
+6,Checkout.Com,United Kingdom,Fintech,40.0
+7,Instacart,United States,"Supply chain, logistics, & delivery",39.0
+8,Databricks,United States,Data management & analytics,38.0
+9,Revolut,United Kingdom,Fintech,33.0
+10,Epic Games,United States,Other,31.5
+11,Ftx,Bahamas,Fintech,32.0
+12,Fanatics,United States,E-commerce & direct-to-consumer,27.0
+13,Chime,United States,Fintech,25.0
+14,Byju'S,India,Edtech,22.0
+15,Xiaohongshu,China,E-commerce & direct-to-consumer,20.0
+16,J&T Express,Indonesia,"Supply chain, logistics, & delivery",20.0
+17,Miro,United States,Internet software & services,17.5
+18,Yuanfudao,China,Edtech,15.5
+19,Dji Innovations,China,Hardware,15.0
+20,Discord,United States,Internet software & services,15.0
+21,Gopuff,United States,E-commerce & direct-to-consumer,15.0
+22,Yuanqi Senlin,China,Consumer & retail,15.0
+23,Ripple,United States,Fintech,15.0
+24,Blockchain.Com,United Kingdom,Fintech,14.0
+25,Plaid,United States,Fintech,13.5
+26,Opensea,United States,E-commerce & direct-to-consumer,13.3
+27,Grammarly,United States,Internet software & services,13.0
+28,Devoted Health,United States,Health,12.6
+29,Faire,United States,Artificial intelligence,12.4
+30,Brex,United States,Fintech,12.3
+31,Juul Labs,United States,Consumer & retail,12.0
+32,Bitmain Technologies,China,Hardware,12.0
+33,Biosplice Therapeutics,United States,Health,12.0
+34,Goodleap,United States,Internet software & services,12.0
+35,Xingsheng Selected,China,E-commerce & direct-to-consumer,12.0
+36,Getir,Turkey,E-commerce & direct-to-consumer,11.8
+37,Airtable,United States,Internet software & services,11.7
+38,Zongmu Technology,China,Auto & transportation,11.4
+39,Global Switch,United Kingdom,Hardware,11.1
+40,Celonis,Germany,Data management & analytics,11.0
+41,Bolt,United States,Fintech,11.0
+42,Alchemy,United States,Fintech,10.2
+43,Weilong,China,Consumer & retail,10.88
+44,Swiggy,India,"Supply chain, logistics, & delivery",10.7
+45,Lalamove,Hong Kong,"Supply chain, logistics, & delivery",10.0
+46,Figma,United States,Internet software & services,10.0
+47,Gusto,United States,Fintech,10.0
+48,Chehaoduo,China,E-commerce & direct-to-consumer,10.0
+49,Reddit,United States,Internet software & services,10.0
+50,Talkdesk,United States,Internet software & services,10.0
+51,Notion Labs,United States,Internet software & services,10.0
+52,Thrasio,United States,Other,10.0
+53,Digital Currency Group,United States,Fintech,10.0
+54,Outsystems,United States,Internet software & services,9.5
+55,Servicetitan,United States,Internet software & services,9.5
+56,Heytea,China,Other,9.28
+57,N26,Germany,Fintech,9.23
+58,Klaviyo,United States,Internet software & services,9.2
+59,Northvolt,Sweden,Other,9.08
+60,Tanium,United States,Cybersecurity,9.0
+61,Niantic,United States,Mobile & telecommunications,9.0
+62,Oyo Rooms,India,Travel,9.0
+63,Rapyd,United Kingdom,Fintech,8.75
+64,Kavak,Mexico,E-commerce & direct-to-consumer,8.7
+65,Snyk,United States,Cybersecurity,8.6
+66,Nuro,United States,Auto & transportation,8.6
+67,Pony.Ai,United States,Artificial intelligence,8.5
+68,Lacework,United States,Cybersecurity,8.3
+69,Tipalti,United States,Fintech,8.3
+70,Tempus,United States,Health,8.1
+71,Ramp,United States,Fintech,8.1
+72,Dream11,India,Internet software & services,8.0
+73,Fireblocks,United States,Fintech,8.0
+74,Flexport,United States,"Supply chain, logistics, & delivery",8.0
+75,Caris Life Sciences,United States,Health,7.83
+76,Dapper Labs,Canada,Fintech,7.6
+77,Hopin,United Kingdom,Internet software & services,7.75
+78,Netskope,United States,Cybersecurity,7.5
+79,Razorpay,India,Fintech,7.5
+80,Automattic,United States,Internet software & services,7.5
+81,Toss,South Korea,Fintech,7.4
+82,Carta,United States,Fintech,7.4
+83,Scale Ai,United States,Artificial intelligence,7.3
+84,Argo Ai,United States,Artificial intelligence,7.25
+85,Gong,United States,Artificial intelligence,7.25
+86,Tripactions,United States,Travel,7.25
+87,Gemini,United States,Fintech,7.1
+88,We Doctor,China,Health,7.0
+89,Ro,United States,Health,7.0
+90,Consensys,United States,Fintech,7.0
+91,Automation Anywhere,United States,Artificial intelligence,6.8
+92,1Password,Canada,Cybersecurity,6.8
+93,Ziroom,China,E-commerce & direct-to-consumer,6.6
+94,Svolt,China,Auto & transportation,6.51
+95,National Stock Exchange Of India,India,Fintech,6.5
+96,Mollie,Netherlands,Fintech,6.5
+97,Rippling,United States,Internet software & services,6.5
+98,Ola Cabs,India,Auto & transportation,7.5
+99,Doctolib,France,Health,6.4
+100,Datarobot,United States,Artificial intelligence,6.3
+101,Personio,Germany,Internet software & services,6.3
+102,Upgrade,United States,Fintech,6.28
+103,Hinge Health,United States,Health,6.2
+104,Black Unicorn Factory,United States,Other,6.1
+105,Benchling,United States,Internet software & services,6.1
+106,Royole Corporation,China,Hardware,6.0
+107,Better.Com,United States,Fintech,6.0
+108,Wiz,Israel,Cybersecurity,6.0
+109,Icapital Network,United States,Fintech,6.0
+110,6Sense,United States,Artificial intelligence,5.2
+111,Attentive,United States,Mobile & telecommunications,5.99
+112,Easyhome,China,Consumer & retail,5.78
+113,Lianjia,China,E-commerce & direct-to-consumer,5.77
+114,Vice Media,United States,Internet software & services,5.7
+115,Cityblock Health,United States,Health,5.7
+116,Workato,United States,Internet software & services,5.7
+117,Back Market,France,E-commerce & direct-to-consumer,5.7
+118,Relex Solutions,Finland,"Supply chain, logistics, & delivery",5.7
+119,The Boring Company,United States,Other,5.7
+120,Postman,United States,Internet software & services,5.6
+121,Fivetran,United States,Data management & analytics,5.6
+122,Trade Republic,Germany,Fintech,5.3
+123,Rappi,Colombia,"Supply chain, logistics, & delivery",5.25
+124,Collibra,Belgium,Data management & analytics,5.25
+125,Onetrust,United States,Internet software & services,5.1
+126,Quintoandar,Brazil,E-commerce & direct-to-consumer,5.1
+127,C6 Bank,Brazil,Fintech,5.05
+128,United Imaging Healthcare,China,Health,5.0
+129,Hello Transtech,China,Auto & transportation,5.0
+130,Deel,United States,Fintech,5.5
+131,Airwallex,Australia,Fintech,5.5
+132,Mambu,Netherlands,Fintech,5.5
+133,Horizon Robotics,China,Artificial intelligence,5.0
+134,Wm Motor,China,Auto & transportation,5.0
+135,Howden Group Holdings,United Kingdom,Other,5.0
+136,Sambanova Systems,United States,Data management & analytics,5.0
+137,Zepz,United Kingdom,Fintech,5.0
+138,Oaknorth Bank,United Kingdom,Fintech,5.0
+139,Moon Active,Israel,Mobile & telecommunications,5.0
+140,Ofbusiness,India,E-commerce & direct-to-consumer,5.0
+141,Cockroach Labs,United States,Data management & analytics,5.0
+142,Pine Labs,India,Fintech,5.0
+143,Qonto,France,Fintech,5.0
+144,Ola Electric Mobility,India,Auto & transportation,5.0
+145,Icertis,United States,Artificial intelligence,5.0
+146,Hopper,Canada,Travel,5.0
+147,Verse Innovation(Dailyhunt),India,Internet software & services,5.0
+148,Meesho,India,Internet software & services,4.9
+149,Cerebral,United States,Health,4.8
+150,Creditas,Brazil,Fintech,4.8
+151,Reify Health,United States,Health,4.8
+152,Chipone,China,Hardware,4.73
+153,Pleo,Denmark,Fintech,4.7
+154,Sonarsource,Switzerland,Internet software & services,4.7
+155,Anduril,United States,Artificial intelligence,4.6
+156,Lyra Health,United States,Health,5.85
+157,Dataiku,United States,Internet software & services,4.6
+158,Checkr,United States,Internet software & services,4.6
+159,Color,United States,Health,4.6
+160,Meizu Technology,China,Hardware,4.58
+161,Lendable,United Kingdom,Fintech,4.58
+162,Vinted,Lithuania,E-commerce & direct-to-consumer,4.53
+163,Vipkid,China,Edtech,4.5
+164,Socure,United States,Cybersecurity,4.5
+165,Monzo,United Kingdom,Fintech,4.5
+166,Ubtech Robotics,China,Hardware,4.58
+167,Outreach,United States,Internet software & services,4.4
+168,Weride,China,Auto & transportation,4.4
+169,Betterup,United States,Internet software & services,4.7
+170,Arctic Wolf Networks,United States,Cybersecurity,4.3
+171,Sorare,France,E-commerce & direct-to-consumer,4.3
+172,Relativity Space,United States,Other,4.2
+173,Miaoshou Doctor,China,E-commerce & direct-to-consumer,4.25
+174,Chainalysis,United States,Fintech,4.2
+175,Thoughtspot,United States,Internet software & services,4.2
+176,Globalization Partners,United States,Internet software & services,4.2
+177,Dbt Labs,United States,Data management & analytics,4.2
+178,Ssense,Canada,E-commerce & direct-to-consumer,4.15
+179,Dataminr,United States,Artificial intelligence,4.1
+180,Bitpanda,Austria,Fintech,4.11
+181,Weee!,United States,"Supply chain, logistics, & delivery",4.1
+182,Houzz,United States,E-commerce & direct-to-consumer,4.0
+183,Cred,India,Fintech,4.01
+184,Yello Mobile,South Korea,Mobile & telecommunications,4.0
+185,Megvii,China,Artificial intelligence,4.0
+186,Greensill,United Kingdom,Fintech,4.0
+187,Impossible Foods,United States,Consumer & retail,4.0
+188,Radiology Partners,United States,Health,4.0
+189,Next Insurance,United States,Fintech,4.0
+190,Patreon,United States,Internet software & services,4.0
+191,Pointclickcare,Canada,Internet software & services,4.0
+192,Zapier,United States,Internet software & services,4.0
+193,Clubhouse,United States,Mobile & telecommunications,4.0
+194,Browserstack,Ireland,Internet software & services,4.0
+195,Olive,United States,Internet software & services,4.0
+196,Rubrik,United States,Data management & analytics,4.0
+197,Melio,United States,Fintech,4.0
+198,Vuori,United States,E-commerce & direct-to-consumer,4.0
+199,Clickup,United States,Internet software & services,4.0
+200,Cerebras Systems,United States,Hardware,4.0
+201,Farmers Business Network,United States,Other,4.0
+202,Branch,United States,Mobile & telecommunications,4.0
+203,Aurora Solar,United States,Internet software & services,4.0
+204,Webflow,United States,Internet software & services,4.0
+205,Yuga Labs,United States,Fintech,4.0
+206,Digit Insurance,India,Fintech,4.0
+207,Medlinker,China,Health,3.92
+208,Intarcia Therapeutics,United States,Health,3.8
+209,Stockx,United States,E-commerce & direct-to-consumer,3.8
+210,Messagebird,Netherlands,Mobile & telecommunications,3.8
+211,Convoy,United States,"Supply chain, logistics, & delivery",3.8
+212,Guild Education,United States,Internet software & services,3.75
+213,Articulate,United States,Edtech,3.75
+214,Falconx,United States,Fintech,3.75
+215,Dutchie,United States,E-commerce & direct-to-consumer,3.75
+216,Cohesity,United States,Data management & analytics,3.7
+217,Vast Data,United States,Data management & analytics,3.7
+218,Goat,United States,E-commerce & direct-to-consumer,3.7
+219,Noom,United States,Health,3.7
+220,Redwood Materials,United States,Other,3.7
+221,Papaya Global,United States,Internet software & services,3.7
+222,Sharechat,India,Internet software & services,3.7
+223,Abogen,China,Health,3.7
+224,Harness,United States,Artificial intelligence,3.7
+225,Relativity,United States,Internet software & services,3.6
+226,Whoop,United States,E-commerce & direct-to-consumer,3.6
+227,Applied Intuition,United States,Data management & analytics,3.6
+228,Course Hero,United States,Edtech,3.6
+229,Otto Bock Healthcare,Germany,Health,3.52
+230,Indigo Ag,United States,Artificial intelligence,3.5
+231,Hyalroute,Singapore,Mobile & telecommunications,3.5
+232,Rec Room,United States,Internet software & services,3.5
+233,Commure,United States,Internet software & services,3.5
+234,Mirakl,France,E-commerce & direct-to-consumer,3.5
+235,Coalition,United States,Cybersecurity,3.5
+236,Tekion,United States,Internet software & services,3.5
+237,Celsius Network,United States,Fintech,3.5
+238,Gostudent,Austria,Edtech,3.5
+239,Highspot,United States,Internet software & services,3.5
+240,Handshake,United States,Internet software & services,3.5
+241,Chargebee Technologies,United States,Fintech,3.5
+242,Flock Safety,United States,Hardware,3.5
+243,Unacademy,India,Edtech,3.44
+244,Moonpay,United States,Fintech,3.4
+245,Upstox,India,Fintech,3.4
+246,Youxia Motors,China,Auto & transportation,3.35
+247,Ownbackup,United States,Data management & analytics,3.35
+248,Starburst,United States,Data management & analytics,3.35
+249,Starling Bank,United Kingdom,Fintech,3.34
+250,Cloudwalk,China,Artificial intelligence,3.32
+251,Ecarx,China,Auto & transportation,3.31
+252,Sila Nanotechnologies,United States,Other,3.3
+253,Scopely,United States,Mobile & telecommunications,3.3
+254,Komodo Health,United States,Health,3.3
+255,Kurly,South Korea,"Supply chain, logistics, & delivery",3.3
+256,Cars24,India,E-commerce & direct-to-consumer,3.3
+257,Blockdaemon,United States,Fintech,3.25
+258,Dadi Cinema,China,Other,3.24
+259,Thumbtack,United States,E-commerce & direct-to-consumer,3.2
+260,Cedar,United States,Fintech,3.2
+261,Eruditus Executive Education,India,Edtech,3.2
+262,Blockstream,Canada,Fintech,3.2
+263,Innovaccer,United States,Health,3.2
+264,Ironclad,United States,Internet software & services,3.2
+265,Skims,United States,E-commerce & direct-to-consumer,3.2
+266,Psiquantum,United States,Hardware,3.15
+267,Spoton,United States,Fintech,3.15
+268,Udaan,India,"Supply chain, logistics, & delivery",3.1
+269,Highradius,United States,Fintech,3.1
+270,Nuvemshop,Brazil,E-commerce & direct-to-consumer,3.1
+271,Yixia,China,Mobile & telecommunications,3.0
+272,Traveloka,Indonesia,Travel,3.0
+273,Souche Holdings,China,E-commerce & direct-to-consumer,3.0
+274,Bgl Group,United Kingdom,Fintech,3.0
+275,Circle,United States,Fintech,3.0
+276,Zuoyebang,China,Edtech,3.0
+277,Delhivery,India,"Supply chain, logistics, & delivery",3.0
+278,Flixmobility,Germany,Auto & transportation,3.0
+279,Wildlife Studios,Brazil,Other,3.0
+280,Applyboard,Canada,Edtech,3.2
+281,Forter,United States,Cybersecurity,3.0
+282,Calendly,United States,Internet software & services,3.0
+283,Blockfi,United States,Fintech,3.0
+284,Activecampaign,United States,Internet software & services,3.0
+285,Cmr Surgical,United Kingdom,Health,3.0
+286,Lucid Software,United States,Internet software & services,3.0
+287,Age Of Learning,United States,Edtech,3.0
+288,Carbon Health,United States,Health,3.0
+289,Contentful,Germany,Internet software & services,3.0
+290,Launchdarkly,United States,Internet software & services,3.0
+291,Seismic,United States,Internet software & services,3.0
+292,Grafana Labs,United States,Internet software & services,3.0
+293,Gorillas,Germany,E-commerce & direct-to-consumer,3.1
+294,Sky Mavis,Vietnam,Internet software & services,3.0
+295,Outschool,United States,Edtech,3.0
+296,Tradingview,United States,Fintech,3.0
+297,Groww,India,Fintech,3.0
+298,Podium,United States,Internet software & services,3.0
+299,Via,United States,Auto & transportation,3.3
+300,Anchorage Digital,United States,Fintech,3.0
+301,Inxeption,United States,Fintech,3.0
+302,Lattice,United States,Internet software & services,3.0
+303,Flutterwave,United States,Fintech,3.0
+304,Amber Group,Hong Kong,Fintech,3.0
+305,Wefox,Germany,Fintech,3.0
+306,Cross River Bank,United States,Fintech,3.0
+307,Remote,United States,Fintech,3.0
+308,Kraken,United States,Fintech,2.92
+309,Openai,United States,Artificial intelligence,2.92
+310,Workrise,United States,Internet software & services,2.9
+311,Loft,Brazil,E-commerce & direct-to-consumer,2.9
+312,Bharatpe,India,Fintech,2.85
+313,Drivewealth,United States,Fintech,2.85
+314,Flink,Germany,E-commerce & direct-to-consumer,2.85
+315,Meicai,China,Mobile & telecommunications,2.8
+316,Contentsquare,France,Internet software & services,2.8
+317,Zipline,United States,"Supply chain, logistics, & delivery",2.8
+318,Graphcore,United Kingdom,Artificial intelligence,2.77
+319,Illumio,United States,Cybersecurity,2.75
+320,Masterclass,United States,Edtech,2.75
+321,Dream Games,Turkey,Mobile & telecommunications,2.75
+322,Transmit Security,Israel,Cybersecurity,2.74
+323,Hozon Auto,China,Auto & transportation,3.95
+324,Tradeshift,United States,Fintech,2.7
+325,Nextiva,United States,Internet software & services,2.7
+326,O9 Solutions,United States,Artificial intelligence,2.7
+327,Manomano,France,E-commerce & direct-to-consumer,2.6
+328,Sourcegraph,United States,Internet software & services,2.62
+329,Pendo,United States,Internet software & services,2.6
+330,Plume,United States,Internet software & services,2.6
+331,Moglix,Singapore,E-commerce & direct-to-consumer,2.6
+332,Axonius,United States,Cybersecurity,2.6
+333,Xinchao Media,China,Internet software & services,2.0
+334,Jumpcloud,United States,Data management & analytics,2.62
+335,Unico,Brazil,Artificial intelligence,2.6
+336,Oura,Finland,Health,2.55
+337,Eat Just,United States,Consumer & retail,2.59
+338,Vista Global,United Arab Emirates,Other,2.5
+339,Byton,China,Auto & transportation,2.5
+340,Acronis,Switzerland,Cybersecurity,2.5
+341,Side,United States,Internet software & services,2.5
+342,Lenskart,India,E-commerce & direct-to-consumer,2.5
+343,Infra.Market,India,E-commerce & direct-to-consumer,2.5
+344,Varo Bank,United States,Fintech,2.5
+345,Cato Networks,Israel,Cybersecurity,2.5
+346,Aura,United States,Cybersecurity,2.5
+347,Vercel,United States,Internet software & services,2.5
+348,Sysdig,United States,Cybersecurity,2.5
+349,Zetwerk,India,Internet software & services,2.68
+350,Uniphore,United States,Artificial Intelligence,2.5
+351,Somatus,United States,Health,2.5
+352,Immutable,Australia,Fintech,2.5
+353,A24 Films,United States,Other,2.5
+354,Sifive,United States,Hardware,2.5
+355,Games24X7,India,Internet software & services,2.5
+356,Fetch Rewards,United States,E-commerce & direct-to-consumer,2.5
+357,Coda Payments,Singapore,Fintech,2.5
+358,Uala,Argentina,Fintech,2.45
+359,Mobile Premier League,India,Internet software & services,2.45
+360,Cybereason,United States,Cybersecurity,2.44
+361,Cgtz,China,Fintech,2.41
+362,Star Charge,China,Auto & transportation,2.41
+363,Carbon,United States,Hardware,2.4
+364,Policybazaar,India,Fintech,2.4
+365,Paxos,United States,Fintech,2.4
+366,Exabeam,United States,Cybersecurity,2.4
+367,Bitsight Technologies,United States,Cybersecurity,2.4
+368,Trumid,United States,Fintech,2.4
+369,Abl Space Systems,United States,Other,2.4
+370,Honeybook,United States,Internet software & services,2.4
+371,Beta Technologies,United States,Other,2.4
+372,Project44,United States,"Supply chain, logistics, & delivery",2.62
+373,Bought By Many,United Kingdom,Fintech,2.35
+374,Jobandtalent,Spain,Internet software & services,2.35
+375,Wemakeprice,South Korea,E-commerce & direct-to-consumer,2.34
+376,Biren Technology,China,Hardware,2.32
+377,Voodoo,France,Other,2.31
+378,Uptake,United States,Artificial intelligence,2.3
+379,Keeptruckin,United States,"Supply chain, logistics, & delivery",2.3
+380,Skydance Media,United States,Other,2.3
+381,Greenlight,United States,Fintech,2.3
+382,Bowery Farming,United States,Other,2.3
+383,Odoo,Belgium,Internet software & services,2.3
+384,Momo,Vietnam,Fintech,2.27
+385,Zume,United States,Consumer & retail,2.25
+386,Algolia,United States,Internet software & services,2.25
+387,Pattern,United States,Internet software & services,2.25
+388,Newfront Insurance,United States,Fintech,2.2
+389,Nucom Group,Germany,Other,2.2
+390,Musinsa,South Korea,E-commerce & direct-to-consumer,2.2
+391,Current,United States,Fintech,2.2
+392,Bitso,Mexico,Fintech,2.2
+393,Gympass,United States,Internet software & services,2.2
+394,Dialpad,United States,Internet software & services,2.2
+395,G7 Networks,China,"Supply chain, logistics, & delivery",2.2
+396,Bloomreach,United States,Artificial intelligence,2.2
+397,Huaqin Telecom Technology,China,Mobile & telecommunications,2.19
+398,Accelerant,United Kingdom,Other,2.19
+399,Hesai Tech,China,Artificial intelligence,2.18
+400,Yitu Technology,China,Artificial intelligence,2.17
+401,Addepar,United States,Fintech,2.17
+402,Qualia,United States,Fintech,2.17
+403,Neo4J,United States,Data management & analytics,2.0
+404,Coindcx,India,Fintech,2.15
+405,Firstcry,India,E-commerce & direct-to-consumer,2.1
+406,Eightfold.Ai,United States,Internet software & services,2.1
+407,Urban Company,India,E-commerce & direct-to-consumer,2.1
+408,Recharge,United States,Fintech,2.1
+409,Moveworks,United States,Artificial intelligence,2.1
+410,Medable,United States,Internet software & services,2.1
+411,Gocardless,United Kingdom,Fintech,2.1
+412,Forto,Germany,"Supply chain, logistics, & delivery",2.1
+413,Jeeves,United States,Fintech,2.1
+414,Trendy Group International,Hong Kong,Consumer & retail,2.0
+415,Avant,United States,Artificial intelligence,2.0
+416,Tubatu.Com,China,E-commerce & direct-to-consumer,2.0
+417,Blablacar,France,Auto & transportation,2.0
+418,Huimin,China,E-commerce & direct-to-consumer,2.0
+419,Quora,United States,Internet software & services,2.0
+420,Improbable,United Kingdom,Other,1.0
+421,Preferred Networks,Japan,Artificial intelligence,2.0
+422,Formlabs,United States,Hardware,2.0
+423,4Paradigm,China,Artificial intelligence,2.0
+424,Calm,United States,Consumer & retail,2.0
+425,Kaseya,United States,Cybersecurity,2.0
+426,Mafengwo,China,Travel,2.0
+427,Druva,United States,Data management & analytics,2.0
+428,Kujiale,China,Internet software & services,2.0
+429,Appsflyer,United States,Mobile & telecommunications,2.0
+430,Keep,China,Mobile & telecommunications,2.0
+431,Redis Labs,United States,Data management & analytics,2.0
+432,Xingyun Group,China,E-commerce & direct-to-consumer,2.0
+433,Unqork,United States,Fintech,2.0
+434,Virta Health,United States,Health,2.0
+435,Isn,United States,"Supply chain, logistics, & delivery",2.0
+436,Earnix,Israel,Fintech,2.0
+437,Guoquan Shihui,China,Consumer & retail,2.0
+438,Clearco,Canada,Fintech,2.0
+439,Hive,United States,Artificial intelligence,2.0
+440,Kry,Sweden,Health,2.0
+441,Kajabi,United States,Internet software & services,2.0
+442,Ethos,United States,Fintech,2.7
+443,Payfit,United Kingdom,Fintech,2.1
+444,Beisen,China,Internet software & services,2.0
+445,Pipe,United States,Fintech,2.0
+446,Iterable,United States,Internet software & services,2.0
+447,Bunq,Netherlands,Fintech,2.0
+448,Clip,Mexico,Fintech,2.0
+449,Loggi,Brazil,"Supply chain, logistics, & delivery",2.0
+450,Mural,United States,Internet software & services,2.0
+451,Pagaya,Israel,Fintech,2.0
+452,Ocsial,Luxembourg,Other,2.0
+453,Xtalpi,China,Artificial intelligence,2.0
+454,Divvy Homes,United States,Fintech,2.0
+455,Apeel Sciences,United States,Other,2.0
+456,Opay,Nigeria,Fintech,2.0
+457,Aviatrix,United States,Internet software & services,2.0
+458,Smartnews,Japan,Mobile & telecommunications,2.0
+459,Misfits Market,United States,E-commerce & direct-to-consumer,2.0
+460,Spring Health,United States,Health,2.0
+461,Black Sesame Technologies,China,Artificial intelligence,2.0
+462,Advance Intelligence Group,Singapore,Artificial intelligence,2.0
+463,Modern Treasury,United States,Fintech,2.0
+464,Magic Leap,United States,Hardware,2.0
+465,Tier,Germany,Travel,2.0
+466,Aiven,Finland,Internet software & services,2.0
+467,Clickhouse,United States,Data management & analytics,2.0
+468,Mynt,Philippines,Fintech,2.0
+469,Everlaw,United States,Internet software & services,2.0
+470,Zilch,United Kingdom,Fintech,2.0
+471,Verbit,United States,Artificial intelligence,2.0
+472,Starkware,Israel,Cybersecurity,2.0
+473,Netlify,United States,Internet software & services,2.0
+474,Deliverr,United States,"Supply chain, logistics, & delivery",2.0
+475,Sword Health,United States,Health,2.0
+476,Ltk,United States,Internet software & services,2.0
+477,Trax,Singapore,Artificial intelligence,2.0
+478,Exotec,France,Hardware,2.0
+479,Dremio,United States,Data management & analytics,2.0
+480,Akulaku,Indonesia,E-commerce & direct-to-consumer,2.0
+481,Cloudinary,United States,Internet software & services,2.0
+482,Lunar,Denmark,Fintech,2.0
+483,Upgrad,India,Edtech,2.0
+484,Salsify,United States,Internet software & services,2.0
+485,Certik,United States,Cybersecurity,2.0
+486,Rox Motor,China,Auto & transportation,2.0
+487,Ankorstore,France,E-commerce & direct-to-consumer,1.98
+488,Fenbi Education,China,Edtech,1.95
+489,Rokt,United States,Internet software & services,1.95
+490,Invision,United States,Internet software & services,1.9
+491,Edaili,China,E-commerce & direct-to-consumer,1.9
+492,Mx Technologies,United States,Fintech,1.9
+493,Aledade,United States,Health,1.9
+494,Coinswitch Kuber,India,Fintech,1.9
+495,Acorns,United States,Fintech,1.9
+496,Roofstock,United States,Fintech,1.94
+497,Concertai,United States,Artificial Intelligence,1.9
+498,Material Bank,United States,E-commerce & direct-to-consumer,1.9
+499,Volocopter,Germany,Auto & transportation,1.87
+500,Enovate,China,Auto & transportation,1.85
+501,Cfgi,United States,Fintech,1.85
+502,Retool,United States,Internet software & services,1.85
+503,Zocdoc,United States,Health,1.8
+504,Diamond Foundry,United States,Other,1.8
+505,Fullstory,United States,Internet software & services,1.8
+506,Lightricks,Israel,Artificial intelligence,1.8
+507,Opentrons,United States,Hardware,1.8
+508,Aiways,China,Auto & transportation,1.78
+509,Trulioo,Canada,Cybersecurity,1.75
+510,Spinny,India,E-commerce & direct-to-consumer,1.75
+511,Crusoe,United States,Internet software & services,1.75
+512,Orca Security,United States,Cybersecurity,1.8
+513,Apus Group,China,Mobile & telecommunications,1.73
+514,Harry'S,United States,Consumer & retail,1.7
+515,Pax,United States,Consumer & retail,1.7
+516,Dispatchhealth,United States,Health,1.7
+517,Saliogen Therapeutics,United States,Health,1.7
+518,Pax8,United States,Internet software & services,1.7
+519,Unite Us,United States,Health,1.6
+520,Circleci,United States,Internet software & services,1.7
+521,Wave,Senegal,Fintech,1.7
+522,Vestiaire Collective,France,E-commerce & direct-to-consumer,1.7
+523,Dragos,United States,Cybersecurity,1.7
+524,Reltio,United States,Data management & analytics,1.7
+525,H2O.Ai,United States,Artificial intelligence,1.7
+526,Zenbusiness,United States,Fintech,1.7
+527,Carsome,Malaysia,E-commerce & direct-to-consumer,1.7
+528,Productboard,United States,Internet software & services,1.7
+529,Spotter,United States,Fintech,1.7
+530,Alan,France,Fintech,1.68
+531,Hibob,Israel,Internet software & services,1.65
+532,Optimism,United States,Internet software & services,1.65
+533,Trader Interactive,United States,Other,1.63
+534,Jusfoun Big Data,China,Data management & analytics,1.62
+535,Transcarent,United States,Health,1.62
+536,Dealshare,India,E-commerce & direct-to-consumer,1.7
+537,Zhubajie,China,Internet software & services,1.61
+538,Solarisbank,Germany,Fintech,1.65
+539,Infinidat,United States,Hardware,1.6
+540,Afiniti,Bermuda,Artificial intelligence,1.6
+541,Cao Cao Mobility,China,Auto & transportation,1.6
+542,Verkada,United States,Cybersecurity,1.6
+543,Clari,United States,Internet software & services,2.6
+544,Tonal,United States,E-commerce & direct-to-consumer,1.6
+545,Clio,Canada,Internet software & services,1.6
+546,Safetyculture,Australia,Internet software & services,1.6
+547,Cresta,United States,Artificial Intelligence,1.6
+548,Extend,United States,Fintech,1.36
+549,Cognite,Norway,Data management & analytics,1.5
+550,Asapp,United States,Artificial intelligence,1.6
+551,Smarthr,Japan,Fintech,1.6
+552,Mercury,United States,Fintech,1.6
+553,Homelight,United States,Fintech,1.6
+554,Truepill,United States,Health,1.6
+555,Ezcater,United States,"Supply chain, logistics, & delivery",1.6
+556,Wayflyer,Ireland,Fintech,1.6
+557,Capitolis,United States,Fintech,1.6
+558,Nord Security,Lithuania,Cybersecurity,1.6
+559,Promasidor Holdings,South Africa,Consumer & retail,1.59
+560,Baiwang,China,Fintech,1.55
+561,Iluvatar Corex,China,Hardware,1.55
+562,Wenheyou,China,Other,1.55
+563,Loom,United States,Internet software & services,1.53
+564,Ximalaya Fm,China,Mobile & telecommunications,1.52
+565,Carzone,China,E-commerce & direct-to-consumer,1.52
+566,Mu Sigma,United States,Data management & analytics,1.5
+567,Tujia,China,Travel,1.5
+568,Mofang Living,China,E-commerce & direct-to-consumer,1.5
+569,Gett,United Kingdom,Auto & transportation,1.5
+570,Dt Dream,China,Data management & analytics,1.5
+571,Changingedu,China,Edtech,1.5
+572,Xiaozhu,China,Travel,1.5
+573,Jolly Information Technology,China,E-commerce & direct-to-consumer,1.5
+574,Yijiupi,China,Consumer & retail,1.5
+575,Cambridge Mobile Telematics,United States,Mobile & telecommunications,1.5
+576,Collective Health,United States,Fintech,1.5
+577,Strava,United States,Internet software & services,1.5
+578,Zenoti,United States,Internet software & services,1.5
+579,K Health,United States,Health,1.5
+580,Uplight,United States,Other,1.5
+581,Id.Me,United States,Cybersecurity,1.5
+582,Snapdocs,United States,Fintech,1.5
+583,Chipper Cash,United States,Fintech,2.0
+584,Ledger,France,Hardware,1.5
+585,Next Silicon,Israel,Hardware,1.5
+586,Yunquna,China,"Supply chain, logistics, & delivery",1.5
+587,Impact.Com,United States,Internet software & services,1.5
+588,Smartrecruiters,United States,Internet software & services,1.5
+589,Notco,Chile,Artificial Intelligence,1.5
+590,Culture Amp,Australia,Internet software & services,1.5
+591,Taxbit,United States,Fintech,1.5
+592,Pacaso,United States,Fintech,1.5
+593,1047 Games,United States,Internet software & services,1.5
+594,Matillion,United Kingdom,Data management & analytics,1.5
+595,Persona,United States,Cybersecurity,1.5
+596,Whatnot,United States,E-commerce & direct-to-consumer,1.5
+597,Ascend Money,Thailand,Fintech,1.5
+598,Andela,United States,Internet software & services,1.5
+599,Built,United States,Internet software & services,1.5
+600,Candy.Com,United States,Fintech,1.5
+601,Devo,United States,Data management & analytics,1.5
+602,Coinlist,United States,Fintech,1.5
+603,Lusha,United States,Internet software & services,1.5
+604,Curefit,India,Health,1.5
+605,Solugen,United States,Other,1.5
+606,Olist,Brazil,E-commerce & direct-to-consumer,1.5
+607,Paradox,United States,Internet software & services,1.5
+608,Airbyte,United States,Internet software & services,1.5
+609,Storedot,Israel,Other,1.5
+610,Il Makiage,United States,E-commerce & direct-to-consumer,1.5
+611,Spendesk,France,Fintech,1.5
+612,Veriff,Estonia,Artificial intelligence,1.5
+613,Athelas,United States,Health,1.5
+614,Elasticrun,India,"Supply chain, logistics, & delivery",1.5
+615,Veho,United States,"Supply chain, logistics, & delivery",1.5
+616,Temporal,United States,Internet software & services,1.5
+617,Fabric,United States,E-commerce & direct-to-consumer,1.5
+618,Zeta,United States,Fintech,1.5
+619,Boba,United States,Fintech,1.5
+620,Upside,United States,Mobile & telecommunications,1.5
+621,Yipin Shengxian,China,E-commerce & direct-to-consumer,1.49
+622,Bordrin Motors,China,Auto & transportation,1.48
+623,Shukun Technology,China,Artificial Intelligence,1.46
+624,Coocaa,China,Hardware,1.45
+625,Juma Peisong,China,"Supply chain, logistics, & delivery",1.45
+626,Ouyeel,China,Internet software & services,1.45
+627,Gymshark,United Kingdom,E-commerce & direct-to-consumer,1.45
+628,M1 Finance,United States,Fintech,1.45
+629,Aleo,United States,Cybersecurity,1.45
+630,Einride,Sweden,Auto & transportation,1.44
+631,Justworks,United States,Internet software & services,1.43
+632,Valgen Medtech,China,Health,1.43
+633,Sondermind,United States,Health,1.42
+634,Papa,United States,Health,1.4
+635,Figment,Canada,Internet software & services,1.4
+636,Envoy,United States,Internet software & services,1.4
+637,Deliverect,Belgium,Fintech,1.4
+638,Sparkcognition,United States,Artificial intelligence,1.4
+639,Firebolt,Israel,Data management & analytics,1.4
+640,Koudai,China,E-commerce & direct-to-consumer,1.4
+641,Symphony,United States,Fintech,1.4
+642,Yidian Zixun,China,Mobile & telecommunications,1.4
+643,Cabify,Spain,Auto & transportation,1.4
+644,Hive Box,China,"Supply chain, logistics, & delivery",1.4
+645,Deezer,France,Internet software & services,1.4
+646,Away,United States,E-commerce & direct-to-consumer,1.4
+647,Kong,United States,Internet software & services,1.4
+648,Epidemic Sound,Sweden,Internet software & services,1.4
+649,Yotpo,United States,Internet software & services,1.4
+650,Rebel Foods,India,E-commerce & direct-to-consumer,1.4
+651,Coda,United States,Internet software & services,1.4
+652,Five Star Business Finance,India,Other,1.4
+653,Stash,United States,Fintech,1.4
+654,Rad Power Bikes,United States,Auto & transportation,1.4
+655,Clarify Health,United States,Health,1.4
+656,Phenom People,United States,Internet software & services,1.4
+657,Gupshup,United States,Internet software & services,1.4
+658,Degreed,United States,Edtech,1.4
+659,Astranis Space Technologies,United States,Mobile & telecommunications,1.4
+660,Scalable Capital,Germany,Fintech,1.4
+661,Videoamp,United States,Internet software & services,1.4
+662,Panther Labs,United States,Cybersecurity,1.4
+663,Salt Security,United States,Cybersecurity,1.4
+664,Tripledot,United Kingdom,Mobile & telecommunications,1.4
+665,Veepee,France,E-commerce & direct-to-consumer,1.38
+666,Neon,Brazil,Fintech,1.38
+667,Movable Ink,United States,Internet Software Services,1.36
+668,Deepblue Technology,China,Artificial intelligence,1.35
+669,Klook,Hong Kong,Travel,1.35
+670,Yaoshibang,China,Health,1.35
+671,Alloy,United States,Fintech,1.35
+672,Epirus,United States,Other,1.35
+673,Signifyd,United States,Fintech,1.34
+674,Motorway,United Kingdom,E-commerce & direct-to-consumer,1.33
+675,Ridi,South Korea,E-commerce & direct-to-consumer,1.33
+676,Flipboard,United States,Internet software & services,1.32
+677,Grove Collaborative,United States,E-commerce & direct-to-consumer,1.32
+678,Gpclub,South Korea,Other,1.32
+679,Tongdun Technology,China,Cybersecurity,1.32
+680,Athletic Greens,United States,Health,1.32
+681,Unisound,China,Artificial intelligence,1.31
+682,Alzheon,United States,Health,1.31
+683,Heartflow,United States,Health,1.3
+684,The Brandtech Group,United States,Other,1.3
+685,Insightec,Israel,Health,1.3
+686,Everly Health,United States,E-commerce & direct-to-consumer,1.3
+687,Manner,China,Other,1.3
+688,Talkingdata,China,Mobile & telecommunications,1.3
+689,Distrokid,United States,Internet software & services,1.3
+690,Konfio,Mexico,Fintech,1.3
+691,Betterment,United States,Fintech,1.3
+692,Flock Freight,United States,"Supply chain, logistics, & delivery",1.3
+693,Yugabyte,United States,Data management & analytics,1.3
+694,Lukka,United States,Fintech,1.3
+695,Travelperk,Spain,Travel,1.3
+696,Itrustcapital,United States,Fintech,1.3
+697,Domestika,United States,Internet software & services,1.3
+698,Cointracker,United States,Fintech,1.3
+699,Loadsmart,United States,"Supply chain, logistics, & delivery",1.3
+700,Tungee,China,Artificial Intelligence,1.3
+701,Credavenue,India,Fintech,1.3
+702,Linktree,Australia,Internet software & services,1.3
+703,Island,United States,Internet software & services,1.3
+704,Clipboard Health,United States,Internet software & services,1.3
+705,Biofourmis,United States,Health,1.3
+706,Intercom,United States,Internet software & services,1.28
+707,Ovo Energy,United Kingdom,Other,1.28
+708,Huisuanzhang,China,Fintech,1.28
+709,Wtoip,China,Internet software & services,1.27
+710,Bigid,United States,Cybersecurity,1.25
+711,Kuaikan Manhua,China,Internet software & services,1.25
+712,Marshmallow,United Kingdom,Fintech,1.25
+713,Honor Technology,United States,Internet software & services,1.25
+714,Mythical Games,United States,Internet software & services,1.25
+715,Incode Technologies,United States,Cybersecurity,1.25
+716,Tackle.Io,United States,Internet software & services,1.25
+717,Flipdish,Ireland,Internet software & services,1.25
+718,Route,United States,"Supply chain, logistics, & delivery",1.25
+719,Captivateiq,United States,Fintech,1.25
+720,Brewdog,United Kingdom,Consumer & retail,1.24
+721,Enflame,China,Hardware,1.24
+722,Shulan Health,China,Health,1.24
+723,Eqrx,United States,Health,1.23
+724,Nexii,Canada,Other,1.23
+725,Galaxyspace,China,Mobile & telecommunications,1.22
+726,Spiber,Japan,Other,1.22
+727,Insider,Turkey,Internet software & services,1.22
+728,Yiguo,China,"Supply chain, logistics, & delivery",1.2
+729,Fair,United States,Auto & transportation,1.2
+730,Glossier,United States,Consumer & retail,1.65
+731,Workhuman,Ireland,Internet software & services,1.2
+732,Qumulo,United States,Data management & analytics,1.2
+733,Tealium,United States,Internet software & services,1.2
+734,Public,United States,Fintech,1.2
+735,Pipa Coding,China,Edtech,1.2
+736,Pilot.Com,United States,Fintech,1.2
+737,Aibee,China,Artificial intelligence,1.0
+738,Cava Group,United States,Other,1.3
+739,Vectra Networks,United States,Artificial intelligence,1.2
+740,Ada Support,Canada,Artificial intelligence,1.2
+741,Inari,United States,Other,1.2
+742,Alation,United States,Internet software & services,1.2
+743,Smartmore,China,Artificial Intelligence,1.2
+744,Rohlik,Czech Republic,"Supply chain, logistics, & delivery",1.2
+745,Prime Medicine,United States,Health,1.2
+746,Floqast,United States,Fintech,1.2
+747,Mindtickle,United States,Internet software & services,1.2
+748,Dailypay,United States,Fintech,1.2
+749,Oda,Norway,E-commerce & direct-to-consumer,1.2
+750,Offchain Labs,United States,Internet software & services,1.2
+751,Copado,United States,Data management & analytics,1.2
+752,Gem,United States,Internet software & services,1.2
+753,Cardekho,India,E-commerce & direct-to-consumer,1.2
+754,Myglamm,India,E-commerce & direct-to-consumer,1.2
+755,Agentsync,United States,Fintech,1.2
+756,Pristyn Care,India,Health,1.4
+757,Jokr,United States,E-commerce & direct-to-consumer,1.2
+758,Merama,Mexico,E-commerce & direct-to-consumer,1.2
+759,Seekout,United States,Internet software & services,1.2
+760,Bigpanda,United States,Artificial intelligence,1.2
+761,Phantom,United States,Fintech,1.2
+762,Livspace,India,E-commerce & direct-to-consumer,1.2
+763,Xpressbees,India,"Supply chain, logistics, & delivery",1.2
+764,Helium Systems,United States,Internet software & services,1.2
+765,Choco,Germany,E-commerce & direct-to-consumer,1.2
+766,Viz.Ai,United States,Artificial Intelligence,1.2
+767,Cloudbees,United States,Data management & analytics,1.15
+768,L&P Cosmetic,South Korea,Consumer & retail,1.19
+769,Mininglamp Technology,China,Artificial intelligence,1.19
+770,Luoji Siwei,China,Edtech,1.18
+771,Yimidida,China,"Supply chain, logistics, & delivery",1.17
+772,Modern Health,United States,Health,1.17
+773,Irl,United States,Internet software & services,1.17
+774,Tuhu,China,Auto & transportation,1.16
+775,Lifemiles,Colombia,Other,1.15
+776,Venafi,United States,Cybersecurity,1.15
+777,Guideline,United States,Fintech,1.15
+778,Rebellion Defense,United States,Artificial intelligence,1.15
+779,Elemy,United States,Health,1.15
+780,Happy Money,United States,Fintech,1.15
+781,Stord,United States,"Supply chain, logistics, & delivery",1.13
+782,Teld,China,Fintech,1.12
+783,At-Bay,United States,Fintech,1.12
+784,Tangome,United States,Mobile & telecommunications,1.1
+785,Appdirect,United States,E-commerce & direct-to-consumer,1.1
+786,Juanpi,China,E-commerce & direct-to-consumer,1.1
+787,Ovh,France,Other,1.1
+788,Getyourguide,Germany,Travel,1.1
+789,Ivalua,United States,Fintech,1.1
+790,Sisense,United States,Data management & analytics,1.1
+791,Pharmapacks,United States,E-commerce & direct-to-consumer,1.1
+792,Sennder,Germany,"Supply chain, logistics, & delivery",1.1
+793,Nexthink,Switzerland,Data management & analytics,1.1
+794,Zego,United Kingdom,Fintech,1.1
+795,Rightway,United States,Health,1.1
+796,Sunbit,United States,Fintech,1.1
+797,Qingting Fm,China,Internet software & services,1.1
+798,G2,United States,Internet software & services,1.1
+799,Hailo,Israel,Artificial intelligence,1.0
+800,People.Ai,United States,Internet software & services,1.1
+801,Carousell,Singapore,E-commerce & direct-to-consumer,1.1
+802,Apna,India,Internet software & services,1.1
+803,Karat,United States,Internet software & services,1.1
+804,Enpal,Germany,Internet software & services,1.1
+805,Acko General Insurance,India,Fintech,1.1
+806,Daily Harvest,United States,E-commerce & direct-to-consumer,1.1
+807,The Bank Of London,United Kingdom,Fintech,1.1
+808,Fundbox,United States,Fintech,1.1
+809,Turing,United States,Internet software & services,1.1
+810,Globalbees,India,E-commerce & direct-to-consumer,1.1
+811,Lead School,India,Edtech,1.1
+812,Esentire,Canada,Cybersecurity,1.1
+813,Beyond Identity,United States,Cybersecurity,1.1
+814,Staffbase,Germany,Internet software & services,1.1
+815,Chief,United States,Other,1.1
+816,Intelycare,United States,Health,1.1
+817,Teleport,United States,Cybersecurity,1.1
+818,Nxin,China,Internet software & services,1.08
+819,Uisee Technology,China,"Supply chain, logistics, & delivery",1.08
+820,56Pingtai,China,"Supply chain, logistics, & delivery",1.08
+821,Rubicon,United States,Other,1.07
+822,Radius Payment Solutions,United Kingdom,Fintech,1.07
+823,Rivigo,India,"Supply chain, logistics, & delivery",1.07
+824,Mamaearth,India,E-commerce & direct-to-consumer,1.07
+825,Jiuxian,China,E-commerce & direct-to-consumer,1.05
+826,Instabase,United States,Data management & analytics,1.05
+827,Sendbird,United States,Mobile & telecommunications,1.05
+828,Density,United States,Hardware,1.05
+829,Mixpanel,United States,Internet software & services,1.05
+830,Aprogen,South Korea,Health,1.04
+831,Orcam Technologies,Israel,Artificial intelligence,1.03
+832,Leap Motor,China,Auto & transportation,1.01
+833,Lookout,United States,Cybersecurity,1.0
+834,Snapdeal,India,E-commerce & direct-to-consumer,1.0
+835,Techstyle Fashion Group,United States,E-commerce & direct-to-consumer,1.0
+836,Inmobi,India,Mobile & telecommunications,1.0
+837,Linksure Network,China,Mobile & telecommunications,1.0
+838,Red Ventures,United States,Other,1.0
+839,Beibei,China,E-commerce & direct-to-consumer,1.0
+840,Lamabang,China,E-commerce & direct-to-consumer,1.0
+841,Jimubox,China,Fintech,1.0
+842,Fxiaoke,China,Mobile & telecommunications,1.0
+843,Vox Media,United States,Internet software & services,1.0
+844,Mia.Com,China,E-commerce & direct-to-consumer,1.0
+845,58 Daojia,China,Internet software & services,1.0
+846,Womai,China,E-commerce & direct-to-consumer,1.0
+847,Hujiang,China,Edtech,1.0
+848,Itutorgroup,China,Edtech,1.0
+849,Mindmaze,Switzerland,Health,1.0
+850,Icarbonx,China,Artificial intelligence,1.0
+851,Sms Assist,United States,Internet software & services,1.0
+852,Kendra Scott,United States,Consumer & retail,1.0
+853,Mobvoi,China,Consumer & retail,1.0
+854,Zhuan Zhuan,China,E-commerce & direct-to-consumer,1.0
+855,Modernizing Medicine,United States,Health,1.0
+856,Zhaogang,China,E-commerce & direct-to-consumer,1.0
+857,Dianrong,China,E-commerce & direct-to-consumer,1.0
+858,Cell C,South Africa,Mobile & telecommunications,1.0
+859,Yh Global,China,"Supply chain, logistics, & delivery",1.0
+860,Revolution Precrafted,Philippines,Other,1.0
+861,Welab,Hong Kong,Fintech,1.0
+862,Maimai,China,Mobile & telecommunications,1.0
+863,Dxy.Cn,China,Health,1.0
+864,Orbbec Technology,China,Hardware,1.0
+865,Hmd Global,Finland,Mobile & telecommunications,1.0
+866,Huike Group,China,Edtech,1.0
+867,China Cloud,China,Hardware,1.0
+868,Soundhound,United States,Artificial intelligence,1.0
+869,Linkdoc Technology,China,Health,1.0
+870,Mediamath,United States,Internet software & services,1.0
+871,Movile,Brazil,Mobile & telecommunications,1.0
+872,Kuaigou Dache,China,"Supply chain, logistics, & delivery",1.0
+873,Pat Mcgrath Labs,United States,Consumer & retail,1.0
+874,Wacai,China,Mobile & telecommunications,1.0
+875,Flashex,China,"Supply chain, logistics, & delivery",1.0
+876,Banma Network Technologies,China,Auto & transportation,1.0
+877,Tresata,United States,Fintech,1.0
+878,Momenta,China,Artificial intelligence,1.0
+879,Hosjoy,China,E-commerce & direct-to-consumer,1.0
+880,Omio,Germany,Travel,1.0
+881,Terminus Technology,China,Hardware,1.0
+882,Bitfury,Netherlands,Hardware,1.0
+883,Ifood,Brazil,"Supply chain, logistics, & delivery",1.0
+884,Geek+,China,Hardware,1.0
+885,Reef Technology,United States,"Supply chain, logistics, & delivery",1.0
+886,Globality,United States,Artificial intelligence,1.0
+887,Ynsect,France,Other,1.0
+888,Intellifusion,China,Artificial intelligence,1.0
+889,Poizon,China,Mobile & telecommunications,1.0
+890,Vts,United States,Internet software & services,1.0
+891,Sitech Dev,China,Other,1.0
+892,Knowbox,China,Edtech,1.0
+893,Yanolja,South Korea,Travel,1.0
+894,Meero,France,Artificial intelligence,1.0
+895,Sumup,United Kingdom,Fintech,1.0
+896,Ibotta,United States,Fintech,1.0
+897,C2Fo,United States,Fintech,1.0
+898,Numbrs,Switzerland,Fintech,1.0
+899,Ebanx,Brazil,Fintech,1.0
+900,Kk Group,China,E-commerce & direct-to-consumer,3.0
+901,Alto Pharmacy,United States,Health,1.0
+902,Hotmart,Netherlands,E-commerce & direct-to-consumer,1.0
+903,Emerging Markets Property Group,United Arab Emirates,Other,1.0
+904,Quizlet,United States,Edtech,1.0
+905,Orca Bio,United States,Health,1.0
+906,Newlink Group,China,E-commerce & direct-to-consumer,1.0
+907,Infobip,Croatia,Mobile & telecommunications,1.0
+908,Zwift,United States,E-commerce & direct-to-consumer,1.0
+909,Playco,Japan,Other,1.0
+910,Socar,South Korea,Auto & transportation,1.07
+911,Gousto,United Kingdom,"Supply chain, logistics, & delivery",1.7
+912,Boom Supersonic,United States,Other,1.0
+913,Quantum Metric,United States,Data management & analytics,1.0
+914,News Break,United States,Internet software & services,1.0
+915,Madeiramadeira,Brazil,E-commerce & direct-to-consumer,1.0
+916,Ppro,United Kingdom,Fintech,1.0
+917,Splashtop,United States,Internet software & services,1.0
+918,Drivenets,Israel,Internet software & services,1.0
+919,Flash Express,Thailand,"Supply chain, logistics, & delivery",1.0
+920,Axiom Space,United States,Other,1.0
+921,Locus Robotics,United States,Hardware,1.0
+922,Standard,United States,Artificial intelligence,1.0
+923,Sentry,United States,Other,1.0
+924,Webull,China,Fintech,1.0
+925,Skydio,United States,"Supply chain, logistics, & delivery",1.0
+926,Newsela,United States,Internet software & services,1.0
+927,Aqua Security,Israel,Cybersecurity,1.0
+928,Patsnap,Singapore,Internet software & services,1.0
+929,Evidation,United States,Health,1.0
+930,Sidecar Health,United States,Fintech,1.0
+931,Feedzai,United States,Artificial intelligence,1.0
+932,Yunxuetang,China,Edtech,1.0
+933,Cameo,United States,Internet software & services,1.0
+934,Hyperchain,China,Fintech,1.0
+935,The Zebra,United States,E-commerce & direct-to-consumer,1.0
+936,Clearcover,United States,Fintech,1.0
+937,Groq,United States,Artificial intelligence,1.0
+938,Fiture,China,Health,1.0
+939,Injective Protocol,United States,Fintech,1.0
+940,Sift,United States,Artificial intelligence,1.0
+941,Saltpay,United Kingdom,Fintech,1.0
+942,Capsule,United States,Health,1.0
+943,Moloco,United States,Artificial intelligence,1.5
+944,Mux,United States,Internet software & services,1.0
+945,Xforceplus,China,Internet software & services,1.0
+946,Firefly Aerospace,United States,Other,1.1
+947,Shift Technology,France,Artificial intelligence,1.0
+948,Tenstorrent,Canada,Artificial intelligence,1.0
+949,Zihaiguo,China,Consumer & retail,1.0
+950,Forte Labs,United States,Fintech,1.73
+951,Axtria,United States,Data management & analytics,1.0
+952,Amount,United States,Fintech,1.0
+953,Vise,United States,Fintech,1.0
+954,Printful,United States,Other,1.0
+955,Matrixport,Singapore,Fintech,1.05
+956,Shippo,United States,"Supply chain, logistics, & delivery",1.0
+957,Thirty Madison,United States,Health,1.0
+958,Letsgetchecked,Ireland,Health,1.0
+959,Ecoflow,China,Hardware,1.0
+960,Carro,Singapore,E-commerce & direct-to-consumer,1.0
+961,Tractable,United Kingdom,Artificial intelligence,1.0
+962,Xiaoe Tech,China,Internet software & services,1.0
+963,Bringg,Israel,"Supply chain, logistics, & delivery",1.0
+964,Claroty,United States,Cybersecurity,1.0
+965,Joytunes,Israel,Edtech,1.0
+966,Aircall,United States,Internet software & services,1.0
+967,Worldcoin,United States,Fintech,1.0
+968,Smartasset,United States,Fintech,1.0
+969,Morning Consult,United States,Internet software & services,1.0
+970,Visier,Canada,Internet software & services,1.0
+971,Shipbob,United States,"Supply chain, logistics, & delivery",1.0
+972,Kitopi,United Arab Emirates,"Supply chain, logistics, & delivery",1.0
+973,Bolttech,Singapore,Fintech,1.0
+974,Mobilecoin,United States,Fintech,1.06
+975,Amperity,United States,Artificial intelligence,1.0
+976,Pantheon Systems,United States,Internet software & services,1.0
+977,Xiaobing,China,Fintech,1.0
+978,Dmed Biopharmaceutical,China,Health,1.0
+979,Carson Group,United States,Fintech,1.0
+980,Go1,Australia,Internet software & services,1.0
+981,Interos,United States,Fintech,1.0
+982,Blackbuck,India,"Supply chain, logistics, & delivery",1.0
+983,Nium,Singapore,Fintech,1.0
+984,Human Interest,United States,Fintech,1.0
+985,Bluecore,United States,Artificial intelligence,1.0
+986,Freshbooks,Canada,Fintech,1.0
+987,Snorkel Ai,United States,Artificial intelligence,1.0
+988,Gelato,Norway,E-commerce & direct-to-consumer,1.0
+989,Maven Clinic,United States,Health,1.0
+990,Dunamu,South Korea,Fintech,1.0
+991,Shield Ai,United States,Artificial intelligence,1.0
+992,Picsart,United States,Mobile & telecommunications,1.0
+993,1Kmxc,China,Hardware,1.0
+994,Cider,Hong Kong,E-commerce & direct-to-consumer,1.0
+995,Berlin Brands Group,Germany,E-commerce & direct-to-consumer,1.0
+996,Agile Robots,Germany,Hardware,1.0
+997,Grubmarket,United States,E-commerce & direct-to-consumer,1.2
+998,Mammoth Biosciences,United States,Health,1.0
+999,Orchard,United States,Fintech,1.0
+1000,Xendit,Indonesia,Fintech,1.0
+1001,Truelayer,United Kingdom,Fintech,1.0
+1002,Assembly,United States,Internet software & services,1.0
+1003,Pandadoc,United States,Internet software & services,1.0
+1004,Keenon Robotics,China,"Supply chain, logistics, & delivery",1.0
+1005,Haydon,China,Consumer & retail,1.0
+1006,Ninja Van,Singapore,"Supply chain, logistics, & delivery",1.0
+1007,Vedantu,India,Edtech,1.0
+1008,Trialspark,United States,Health,1.0
+1009,Ajaib,Indonesia,Fintech,1.0
+1010,Licious,India,E-commerce & direct-to-consumer,1.0
+1011,Masterworks,United States,Fintech,1.0
+1012,Chronosphere,United States,Data management & analytics,1.0
+1013,Solo.Io,United States,Internet software & services,1.0
+1014,Savage X Fenty,United States,E-commerce & direct-to-consumer,1.0
+1015,Swile,France,Fintech,1.0
+1016,Mobikwik,India,Fintech,1.0
+1017,Weights & Biases,United States,Internet software & services,1.0
+1018,Zopa,United Kingdom,Fintech,1.0
+1019,Dental Monitoring,France,Health,1.0
+1020,Cargox,Brazil,"Supply chain, logistics, & delivery",1.0
+1021,Augury,United States,Artificial intelligence,1.0
+1022,Moka,China,Internet software & services,1.0
+1023,Tezign,China,Internet software & services,1.0
+1024,Vagaro,United States,Internet software & services,1.0
+1025,Drata,United States,Cybersecurity,1.0
+1026,Razor,Germany,Consumer & retail,1.0
+1027,Openweb,United States,Internet software & services,1.0
+1028,Contrast Security,United States,Cybersecurity,1.0
+1029,Wrapbook,United States,Fintech,1.0
+1030,Gaussian Robotics,China,Hardware,1.1
+1031,Mensa Brands,India,Other,1.0
+1032,Heyday,United States,E-commerce & direct-to-consumer,1.0
+1033,Place,United States,Internet software & services,1.0
+1034,Stytch,United States,Cybersecurity,1.0
+1035,Owkin,United States,Artificial Intelligence,1.0
+1036,Expel,United States,Cybersecurity,1.0
+1037,Nobroker,India,Internet software & services,1.0
+1038,Slice,India,Fintech,1.0
+1039,Thought Machine,United Kingdom,Fintech,1.0
+1040,Lessen,United States,Internet software & services,1.0
+1041,Clara,Mexico,Fintech,1.0
+1042,Yipitdata,United States,Internet software & services,1.0
+1043,Anyscale,United States,Artificial Intelligence,1.0
+1044,Iodine Software,United States,Data management & analytics,1.0
+1045,Reliaquest,United States,Cybersecurity,1.0
+1046,Pet Circle,Australia,E-commerce & direct-to-consumer,1.0
+1047,Nature'S Fynd,United States,Other,1.0
+1048,Lydia,France,Fintech,1.0
+1049,Sellerx,Germany,E-commerce & direct-to-consumer,1.0
+1050,Snaplogic,United States,Internet software & services,1.0
+1051,Cadence,United States,Health,1.0
+1052,Noname Security,United States,Cybersecurity,1.0
+1053,Rothy'S,United States,Consumer & retail,1.0
+1054,Voi,Sweden,Travel,1.0
+1055,Haomao.Ai,China,Artificial Intelligence,1.0
+1056,Kopi Kenangan,Indonesia,Consumer & retail,1.0
+1057,Infarm,Germany,Other,1.0
+1058,One,Singapore,Internet software & services,1.0
+1059,Fractal Analytics,India,Data management & analytics,1.0
+1060,Assent,Canada,"Supply chain, logistics, & delivery",1.0
+1061,Cais,United States,Fintech,1.0
+1062,Placer.Ai,United States,Artificial intelligence,1.0
+1063,Pentera,Israel,Cybersecurity,1.0
+1064,Darwinbox,India,Internet software & services,1.0
+1065,Minio,United States,Data management & analytics,1.0
+1066,Fever Labs,United States,Internet software & services,1.0
+1067,Esusu,United States,Fintech,1.0
+1068,Betterfly,Chile,Artificial intelligence,1.0
+1069,Dune Analytics,Norway,Data management & analytics,1.0
+1070,Scandit,Switzerland,"Supply chain, logistics, & delivery",1.0
+1071,Payhawk,United Kingdom,Fintech,1.0
+1072,Watershed,United States,Internet software & services,1.0
+1073,Axelar,Canada,Internet software & services,1.0
+1074,Cheq,United States,Cybersecurity,1.0
+1075,Hasura,India,Internet software & services,1.0
+1076,Timescale,United States,Internet software & services,1.0
+1077,Scalapay,Italy,Fintech,1.0
+1078,Omada Health,United States,Health,1.0
+1079,Bluevoyant,United States,Cybersecurity,1.0
+1080,Veev,United States,Internet software & services,1.0
+1081,Gauntlet Networks,United States,Fintech,1.0
+1082,Aptos,United States,Internet software & services,1.0
+1083,Amagi,India,Internet software & services,1.0
+1084,Glia,United States,Fintech,1.0
+1085,Commerceiq,United States,Artificial Intelligence,1.0
+1086,Rapidapi,United States,Internet software & services,1.0
+1087,Tarana Wireless,United States,Mobile & telecommunications,1.0
+1088,Flash,United States,Fintech,1.0
+1089,Electric,United States,Cybersecurity,1.0
+1090,Layerzero Labs,United States,Internet software & services,1.0
+1091,Bostongene,United States,Health,1.0
+1092,Grover,Germany,E-commerce & direct-to-consumer,1.0
+1093,Genies,United States,Internet software & services,1.0
+1094,Oyster,United States,Fintech,1.0
+1095,Nexhealth,United States,Health,1.0
+1096,Instabox,Sweden,"Supply chain, logistics, & delivery",1.0
+1097,Upside Foods,United States,Other,1.0
+1098,Divergent 3D,United States,Auto & transportation,1.0
+1099,Taxfix,Germany,Fintech,1.0
+1100,Open,India,Fintech,1.0
+1101,Polarium,Sweden,Other,1.0
+1102,Telegram,UK / UAE,Internet,30.0
+1103,Trendyol,Turkey,E-commerce,16.5
+1104,Dji,China,Technology,15.0
+1105,Bitmain,China,Cryptocurrency,12.0
+1106,Sensetime,China / Hong Kong,Artificial intelligence,12.0
+1107,Bolt Financial,US,Financial technology,11.0
+1108,Aurora,US,Self-driving cars,10.0
+1109,Kucoin,Seychelles,Cryptocurrency,10.0
+1110,Oyo,India,Hospitality,9.6
+1111,Starkware Industries,Israel,Blockchain,8.0
+1112,Wedoctor,China,Healthcare,6.8
+1113,Lianjia (Homelink),China,Real estate,6.04
+1114,Xingsheng Youxuan,China,Retail,6.0
+1115,Pharmeasy,India,Health technology,5.6
+1116,Phonepe,India,Financial technology,5.5
+1117,Viva Republica (Toss),South Korea,Financial technology,5.48
+1118,Sambanova,US,Artificial intelligence,5.1
+1119,Cloudkitchens,US,Ghost kitchen,5.0
+1120,Ola Electric,India,Electric vehicles,5.0
+1121,Royole,China / US,Flexible electronics,5.0
+1122,Animoca Brands,Hong Kong,Blockchain gaming,5.0
+1123,Octopus Energy,UK,Energy supply,5.0
+1124,Anduril Industries,US,Defense technology,4.6
+1125,Zenefits,US,Human resource management,4.5
+1126,Meizu,China,Consumer electronics,4.4
+1127,Branch Metrics,US,Marketing,4.0
+1128,Quintoandar [Pt],Brazil,Real estate,4.0
+1129,Shouqi,China,Transportation,3.55
+1130,Plus.Ai,US,Self-driving trucks,3.3
+1131,Starburst Data,US,Data analytics,3.3
+1132,Eruditus,India,Educational technology,3.2
+1133,Tiendanube,Argentina,E-commerce,3.1
+1134,Sentinelone,US,Cybersecurity,3.1
+1135,Wildlife,Brazil,Mobile gaming,3.0
+1136,"Age Of Learning, Inc.",US,Education,3.0
+1137,Souche,China,Marketplace,3.0
+1138,Vancl,China,E-commerce,3.0
+1139,Warby Parker,US,Retail,3.0
+1140,Yixia Technology,China,Internet media,3.0
+1141,"New York General Group, Inc.",US,"Superintelligence, Quantum computing, Metaverse",3.0
+1142,Ovo,Indonesia,Financial technology,2.9
+1143,Oaknorth,UK,Finance,2.8
+1144,Unionpay,China,Finance,2.8
+1145,Bird,US,Transportation,2.78
+1146,Daangn Market,South Korea,E-commerce,2.7
+1147,Tridge,South Korea,Software as a service,2.7
+1148,Amwins Group,US,Insurance,2.6
+1149,Etoro,Israel,Financial technology,2.5
+1150,Ualá,Argentina,Personal finance,2.45
+1151,Bitsight,US,Cybersecurity,2.4
+1152,Mozido,US,E-commerce,2.39
+1153,Mpl,India,Mobile gaming,2.3
+1154,Via Transportation,US,Transportation,2.25
+1155,C6 Bank [Pt],Brazil,Financial services,2.1
+1156,Nextdoor,US,Social network,2.1
+1157,Bkash,Bangladesh,Mobile financial services,2.0
+1158,Babylon Health,UK,Healthcare,2.0
+1159,Beijing Weiying Technology,China,"E-commerce, movie ticket distributor",2.0
+1160,Firstp2P,China,Financial services,2.0
+1161,Huimin.Cn,China,B2B e-commerce,2.0
+1162,Meicai.Cn,China,"Agriculture, E-commerce",2.0
+1163,Oxford Nanopore Technologies,UK,Nanopore sequencing,2.0
+1164,Taopiaopiao,China,"E-commerce, movie ticket distributor",2.0
+1165,Trendy International Group,China / Hong Kong,"Fashion, Retail",2.0
+1166,Zerodha,India,Financial technology,2.0
+1167,Yinlong Group,China,Energy,1.95
+1168,Sanpower Group,China,Holding company,1.93
+1169,Zigbang,South Korea,Property technology,1.93
+1170,Dfinity,Switzerland,Cloud computing,1.9
+1171,Prosper Marketplace,US,Financial technology,1.9
+1172,Benevolentai,UK,Drug discovery,1.85
+1173,Megazone,South Korea,Cloud computing,1.83
+1174,Billdesk,India,Financial technology,1.8
+1175,Landa Digital Printing,Israel,Printing,1.8
+1176,Nantomics,US,Biotechnology,1.8
+1177,Creditas [Pt],Brazil,Financial services,1.75
+1178,Alphasense,US,Software,1.7
+1179,Pax Labs,US,Cannabis,1.7
+1180,Taihe Music Group,China,,1.7
+1181,Vtex [Pt],Brazil,Technology,1.7
+1182,Caocao Zhuanche,China,,1.6
+1183,Judo Bank,Australia,Financial services,1.6
+1184,Aihuishou,China,,1.5
+1185,Devo Inc,Spain,Software,1.5
+1186,Nextsilicon,Israel,Semiconductors,1.5
+1187,Spring Rain Software,China,,1.5
+1188,Tujia.Com,China,,1.5
+1189,Zbj.Com,China,,1.5
+1190,Hellobike,China,,1.47
+1191,Suning Sports,China,Holding company,1.47
+1192,Koudai Gouwu,China,,1.45
+1193,Bucketplace,South Korea,Interior design,1.4
+1194,Chargebee,India / US,Financial technology,1.4
+1195,Fiscalnote,US,Data analytics,1.4
+1196,Five Star Finance,India,Financial services,1.4
+1197,Iad,France,Real estate,1.4
+1198,Netdocuments,US,Software,1.4
+1199,"Panther Labs, Inc.",US,Computer security,1.4
+1200,"Qomplx, Inc.",US,Computer security,1.4
+1201,Voyager,Philippines,Financial technology,1.4
+1202,Etcp,China,,1.3
+1203,Knotel,US,,1.3
+1204,Kr Space,China,,1.3
+1205,Incode,Mexico,Technology,1.25
+1206,Iwjw,China,,1.25
+1207,Ada,Canada,Software,1.2
+1208,Apotea,Sweden,E-commerce,1.2
+1209,Dada,China,,1.2
+1210,Deutsche Health,Germany / Russia,,1.2
+1211,Droom,India,Marketplace,1.2
+1212,Kyriba,France,Cloud software,1.2
+1213,Acko,India,Insurance,1.1
+1214,Benevity,Canada,Software as a service,1.1
+1215,Emplifi,"US, UK and Europe",Technology,1.0
+1216,Asia First Media,Japan,Media,1.0
+1217,Assent Compliance,Canada,Supply chain management,1.0
+1218,"Cadence Solutions, Inc.",US,Healthcare,1.0
+1219,Calabrio,US,Software,1.0
+1220,Chubao Technology,China,,1.0
+1221,Dxy,China,,1.0
+1222,Empg,UAE,Real estate technology,1.0
+1223,Flexe,US,Logistics,1.0
+1224,Fractal,India/ US,Artificial intelligence,1.0
+1225,Frontline Education,US,,1.0
+1226,Geocomply,Canada,Cybersecurity,1.0
+1227,Glance,India,Artificial intelligence,1.0
+1228,Gogovan,Hong Kong,Technology,1.0
+1229,Blinkit,India,Retail,1.0
+1230,Jd.Id,Indonesia / China,E-commerce,1.0
+1231,Huikedu Group,China,,1.0
+1232,Igaworks,South Korea,Advertising technology,1.0
+1233,Injective,US,Financial technology,1.0
+1234,Jollychic,China,,1.0
+1235,Lilium Gmbh,Germany,Transportation,1.0
+1236,Linksure Network (Wifi Master Key),China,,1.0
+1237,Liquid Group,Japan,Cryptocurrency,1.0
+1238,Lmax Group,UK,Financial technology,1.0
+1239,Loft Brazil Technology [Pt],Brazil,Real estate,1.0
+1240,Loggi [Pt],Brazil,Logistics,1.0
+1241,Tiket.Com,Indonesia,Travel,1.0
+1242,Madeiramadeira [Pt],Brazil,Furniture,1.0
+1243,Mofang Apartment,China,,1.0
+1244,Kredivo,Indonesia,Financial technology,1.0
+1245,Opn (Synqa),Japan,Financial technology,1.0
+1246,Orcam,Israel,Health,1.0
+1247,Pantheon,US,WebOps,1.0
+1248,Perimeter 81,Israel,Network security,1.0
+1249,Pipedrive,Estonia / US,CRM,1.0
+1250,Rubicon Global,US,Waste management,1.0
+1251,Trustly,Sweden,Financial technology,1.0
+1252,Turo,US,Car sharing,1.0
+1253,Udacity,US,Education,1.0
+1254,Blibli,Indonesia,E-commerce,1.0
+1255,Verse Innovation,India,Technology,1.0
+1256,Wacai.Com,China,,1.0
+1257,Xiaozhu.Com,China,,1.0
+1258,Zhaogang.Com,China,,1.0
+1259,Zhuanzhuan,China,,1.0
+1260,Bitkub,Thailand,Financial technology,1.0
+1261,Dana,Indonesia,Financial technology,1.0
+1262,Neo Financial,Canada,Financial technology,1.0
+1263,Physicswallah,India,Educational technology,1.1
+1264,Onecard,India,Financial technology,1.4
+1265,5Ire,India,Technology,1.5
