@@ -49,11 +49,11 @@
 47,Gusto,United States,Fintech,10.0
 48,Chehaoduo,China,E-commerce & direct-to-consumer,10.0
 49,Reddit,United States,Internet software & services,10.0
-50,Talkdesk,United States,Internet software & services,10.0
+50,Talkdesk,Portugal,Internet software & services,10.0
 51,Notion Labs,United States,Internet software & services,10.0
 52,Thrasio,United States,Other,10.0
 53,Digital Currency Group,United States,Fintech,10.0
-54,Outsystems,United States,Internet software & services,9.5
+54,Outsystems,Portugal,Internet software & services,9.5
 55,Servicetitan,United States,Internet software & services,9.5
 56,Heytea,China,Other,9.28
 57,N26,Germany,Fintech,9.23
@@ -299,14 +299,14 @@
 297,Groww,India,Fintech,3.0
 298,Podium,United States,Internet software & services,3.0
 299,Via,United States,Auto & transportation,3.3
-300,Anchorage Digital,United States,Fintech,3.0
+300,Anchorage Digital,Portugal,Fintech,3.0
 301,Inxeption,United States,Fintech,3.0
 302,Lattice,United States,Internet software & services,3.0
 303,Flutterwave,United States,Fintech,3.0
 304,Amber Group,Hong Kong,Fintech,3.0
 305,Wefox,Germany,Fintech,3.0
 306,Cross River Bank,United States,Fintech,3.0
-307,Remote,United States,Fintech,3.0
+307,Remote,Portugal,Fintech,3.0
 308,Kraken,United States,Fintech,2.92
 309,Openai,United States,Artificial Intelligence,2.92
 310,Workrise,United States,Internet software & services,2.9
@@ -474,7 +474,7 @@
 472,Starkware,Israel,Cybersecurity,2.0
 473,Netlify,United States,Internet software & services,2.0
 474,Deliverr,United States,"Supply chain, logistics, & delivery",2.0
-475,Sword Health,United States,Health,2.0
+475,Sword Health,Portugal,Health,2.0
 476,Ltk,United States,Internet software & services,2.0
 477,Trax,Singapore,Artificial Intelligence,2.0
 478,Exotec,France,Hardware,2.0
@@ -930,7 +930,7 @@
 928,Patsnap,Singapore,Internet software & services,1.0
 929,Evidation,United States,Health,1.0
 930,Sidecar Health,United States,Fintech,1.0
-931,Feedzai,United States,Artificial Intelligence,1.0
+931,Feedzai,Portugal,Artificial Intelligence,1.0
 932,Yunxuetang,China,Edtech,1.0
 933,Cameo,United States,Internet software & services,1.0
 934,Hyperchain,China,Fintech,1.0
@@ -940,7 +940,7 @@
 938,Fiture,China,Health,1.0
 939,Injective Protocol,United States,Fintech,1.0
 940,Sift,United States,Artificial Intelligence,1.0
-941,Saltpay,United Kingdom,Fintech,1.0
+941,Saltpay,Portugal,Fintech,1.0
 942,Capsule,United States,Health,1.0
 943,Moloco,United States,Artificial Intelligence,1.5
 944,Mux,United States,Internet software & services,1.0
@@ -1122,7 +1122,7 @@
 1120,Ola Electric,India,Electric vehicles,5.0
 1121,Royole,China / US,Flexible electronics,5.0
 1122,Animoca Brands,Hong Kong,Blockchain gaming,5.0
-1123,Octopus Energy,UK,Energy supply,5.0
+1123,Octopus Energy,UK,Energy,5.0
 1124,Anduril Industries,US,Defense technology,4.6
 1125,Zenefits,US,Human resource management,4.5
 1126,Meizu,China,Consumer electronics,4.4
@@ -1156,14 +1156,14 @@
 1154,Via Transportation,US,Transportation,2.25
 1155,C6 Bank [Pt],Brazil,Financial services,2.1
 1156,Nextdoor,US,Social network,2.1
-1157,Bkash,Bangladesh,Mobile financial services,2.0
+1157,Bkash,Bangladesh,Fintech,2.0
 1158,Babylon Health,UK,Healthcare,2.0
-1159,Beijing Weiying Technology,China,"E-commerce, movie ticket distributor",2.0
+1159,Beijing Weiying Technology,China,E-commerce,2.0
 1160,Firstp2P,China,Financial services,2.0
-1161,Huimin.Cn,China,B2B e-commerce,2.0
-1162,Meicai.Cn,China,"Agriculture, E-commerce",2.0
+1161,Huimin.Cn,China,E-commerce,2.0
+1162,Meicai.Cn,China,E-commerce,2.0
 1163,Oxford Nanopore Technologies,UK,Nanopore sequencing,2.0
-1164,Taopiaopiao,China,"E-commerce, movie ticket distributor",2.0
+1164,Taopiaopiao,China,E-commerce,2.0
 1165,Trendy International Group,China / Hong Kong,"Fashion, Retail",2.0
 1166,Zerodha,India,Financial technology,2.0
 1167,Yinlong Group,China,Energy,1.95
@@ -1211,7 +1211,7 @@
 1209,Dada,China,,1.2
 1210,Deutsche Health,Germany / Russia,,1.2
 1211,Droom,India,Marketplace,1.2
-1212,Kyriba,France,Cloud software,1.2
+1212,Kyriba,France,Cloud computing,1.2
 1213,Acko,India,Insurance,1.1
 1214,Benevity,Canada,Software as a service,1.1
 1215,Emplifi,"US, UK and Europe",Technology,1.0
