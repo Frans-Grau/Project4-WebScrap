@@ -1,0 +1,202 @@
+,Country,classification,Number of unicorns
+189,United States,good,615
+37,China,bad,218
+82,India,good,85
+188,United Kingdom,bad,48
+67,Germany,good,31
+87,Israel,bad,26
+62,France,bad,26
+30,Canada,bad,24
+23,Brazil,bad,23
+164,South Korea,bad,19
+156,Singapore,bad,13
+83,Indonesia,good,12
+170,Sweden,bad,10
+10,Australia,bad,9
+90,Japan,bad,8
+79,Hong Kong,bad,8
+171,Switzerland,bad,7
+116,Mexico,good,7
+144,Portugal,good,7
+126,Netherlands,bad,6
+86,Ireland,bad,5
+182,Turkey,good,4
+166,Spain,good,4
+187,United Arab Emirates,bad,4
+61,Finland,bad,4
+134,Norway,bad,4
+176,Thailand,good,3
+17,Belgium,bad,3
+7,Argentina,good,3
+142,Philippines,good,3
+49,Denmark,bad,2
+162,South Africa,good,2
+105,Lithuania,bad,2
+38,Colombia,bad,2
+36,Chile,bad,2
+57,Estonia,bad,2
+196,Vietnam,good,2
+11,Austria,bad,2
+14,Bangladesh,bad,1
+106,Luxembourg,bad,1
+19,Bermuda,bad,1
+153,Senegal,bad,1
+88,Italy,bad,1
+47,Czechia,bad,1
+43,Croatia,bad,1
+109,Malaysia,good,1
+177,The Bahamas,bad,1
+131,Nigeria,bad,1
+193,Vanuatu,bad,0
+138,Panama,bad,0
+133,North Macedonia,bad,0
+137,Palestine,bad,0
+194,Vatican City,bad,0
+195,Venezuela,bad,0
+136,Pakistan,bad,0
+139,Papua New Guinea,bad,0
+140,Paraguay,bad,0
+135,Oman,bad,0
+197,Western Sahara,bad,0
+129,Nicaragua,bad,0
+132,North Korea,bad,0
+122,Mozambique,bad,0
+117,Moldova,bad,0
+118,Monaco,bad,0
+119,Mongolia,bad,0
+120,Montenegro,bad,0
+121,Morocco,bad,0
+199,Zambia,bad,0
+123,Myanmar,bad,0
+130,Niger,bad,0
+124,Namibia,bad,0
+125,Nepal,bad,0
+198,Yemen,bad,0
+127,New Caledonia,bad,0
+128,New Zealand,bad,0
+141,Peru,bad,0
+192,Uzbekistan,bad,0
+174,Tajikistan,bad,0
+191,Uruguay,bad,0
+143,Poland,good,0
+160,Solomon Islands,bad,0
+161,Somalia,bad,0
+184,Tuvalu,bad,0
+163,South Georgia and the South Sandwich Islands,bad,0
+183,Turkmenistan,bad,0
+165,South Sudan,bad,0
+181,Tunisia,bad,0
+180,Trinidad and Tobago,bad,0
+167,Sri Lanka,bad,0
+168,Sudan,bad,0
+169,Suriname,bad,0
+179,Tonga,bad,0
+178,Togo,bad,0
+172,Syria,bad,0
+173,Taiwan,bad,0
+159,Slovenia,bad,0
+115,Mauritius,bad,0
+158,Slovakia,bad,0
+150,Saint Helena,bad,0
+175,Tanzania,bad,0
+145,Puerto Rico,bad,0
+146,Qatar,bad,0
+147,Romania,good,0
+148,Russia,bad,0
+149,Rwanda,bad,0
+151,Samoa,bad,0
+157,Sint Maarten,bad,0
+190,United States Virgin Islands,bad,0
+152,Saudi Arabia,bad,0
+154,Serbia,bad,0
+155,Sierra Leone,bad,0
+186,Ukraine,bad,0
+185,Uganda,bad,0
+0,Afghanistan,bad,0
+100,Latvia,bad,0
+114,Mauritania,bad,0
+44,Cuba,bad,0
+32,Caribbean Netherlands,bad,0
+33,Cayman Islands,good,0
+34,Central African Republic,bad,0
+35,Chad,bad,0
+39,Congo,bad,0
+40,Cook Islands,bad,0
+41,Costa Rica,bad,0
+42,Cote d'Ivoire,bad,0
+45,Curaçao,bad,0
+29,Cameroon,bad,0
+46,Cyprus,bad,0
+48,DR Congo,bad,0
+50,Djibouti,bad,0
+51,Dominican Republic,bad,0
+52,East Timor,bad,0
+53,Ecuador,bad,0
+54,Egypt,bad,0
+55,El Salvador,bad,0
+31,Cape Verde,bad,0
+28,Cambodia,bad,0
+113,Martinique,bad,0
+13,Bahrain,bad,0
+2,Algeria,bad,0
+3,Andorra,bad,0
+4,Angola,bad,0
+5,Antarctica,bad,0
+6,Antigua and Barbuda,bad,0
+8,Armenia,bad,0
+9,Aruba,bad,0
+12,Azerbaijan,bad,0
+15,Barbados,bad,0
+27,Burkina Faso,bad,0
+16,Belarus,bad,0
+18,Belize,bad,0
+20,Bolivia,bad,0
+21,Bosnia,bad,0
+22,Botswana,bad,0
+24,British Virgin Islands,bad,0
+25,Brunei,bad,0
+26,Bulgaria,good,0
+56,Eritrea,bad,0
+58,Ethiopia,bad,0
+59,Falkland Islands,bad,0
+1,Albania,bad,0
+92,Jordan,bad,0
+93,Kazakhstan,bad,0
+94,Kenya,bad,0
+95,Kosovo,bad,0
+96,Kurdistan,bad,0
+97,Kuwait,bad,0
+98,Kyrgyzstan,bad,0
+99,Laos,bad,0
+101,Lebanon,bad,0
+60,Fiji,bad,0
+102,Lesotho,bad,0
+103,Liberia,bad,0
+104,Libya,bad,0
+107,Madagascar,bad,0
+108,Malawi,bad,0
+110,Maldives,bad,0
+111,Mali,bad,0
+112,Malta,bad,0
+91,Jersey,bad,0
+89,Jamaica,bad,0
+85,Iraq,bad,0
+84,Iran,bad,0
+63,French Guiana,bad,0
+64,Gabon,bad,0
+65,Gambia,bad,0
+66,Georgia,bad,0
+68,Ghana,bad,0
+69,Gibraltar,bad,0
+70,Greece,bad,0
+71,Greenland,bad,0
+72,Guadeloupe,bad,0
+73,Guam,bad,0
+74,Guatemala,bad,0
+75,Guinea,bad,0
+76,Guyana,bad,0
+77,Haiti,bad,0
+78,Honduras,bad,0
+80,Hungary,bad,0
+81,Iceland,bad,0
+200,Zimbabwe,bad,0
