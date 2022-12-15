@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt 
 from PIL import Image
-
+import numpy as np
 
 ### Import Data
 #unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
@@ -93,6 +93,7 @@ with tab1:
 
 with tab2:
     st.set_option('deprecation.showPyplotGlobalUse', False)
+    st.title('Take a closer look at each country')
     col1,col2 = st.columns(2)
     with col1:
         ### Insert Filter 
@@ -104,10 +105,11 @@ with tab2:
         TopUxV = TopUxV1[TopUxV1['Country']==ChooseCountry1][:5]
         # Plot
         fig01, ax = plt.subplots(figsize = (10, 7))
-        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'Green')
+        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'mediumseagreen')
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
+        ax.set_yticks(np.arange(0, 110, 10))
         st.pyplot(fig01)
 
         ### Top Industries x Num of unicorns
@@ -151,10 +153,11 @@ with tab2:
         TopUxV = TopUxV1[TopUxV1['Country']==ChooseCountry2][:5]
         # Plot
         fig01, ax = plt.subplots(figsize = (10, 7))
-        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'Green')
+        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'mediumseagreen')
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
+        ax.set_yticks(np.arange(0, 110, 10))
         st.pyplot(fig01)
 
         ### Top Industries x Num of unicorns
@@ -186,3 +189,10 @@ with tab2:
         plt.show()
         st.pyplot()
         st.empty()
+    
+    col1,col2 = st.columns(2)
+    with col1:
+        st.table(cities)
+    with col2:
+        st.table(cities)
+    
