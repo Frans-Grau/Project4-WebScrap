@@ -18,7 +18,7 @@ nb_uni_country = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Proje
 ### Set Page Format
 base = 'light'
 st.set_page_config(page_title='NomadVsUnicorns', page_icon=None, layout='wide', menu_items=None)
-palette=['lightgreen','mediumseagreen','seagreen']
+palette=['lightgreen','palegreen','mediumseagreen','seagreen', 'forestgreen', 'green']
 
 tab1, tab2 = st.tabs(["Overview", "Country Study"])
 #st.title('The unicorns of the world')
@@ -59,7 +59,7 @@ with tab1:
         data = TopIxU.values
         # Plot
         fig04, ax = plt.subplots(figsize = (10, 7))
-        plt.pie(data, labels = labels, colors=palette, autopct='%.0f%%')
+        plt.pie(data, labels = labels, autopct='%.0f%%', colors=palette)
         plt.show()
         st.pyplot(fig04)
 
