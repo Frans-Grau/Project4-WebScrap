@@ -1,0 +1,1267 @@
+,Unnamed: 0,Name,Country,Industry,Valuation ($ Billion),score,nb_reviews,classification
+0,0,Bytedance,China,Artificial Intelligence,140.0,3.175,130.0,bad
+1,1,SpaceX,United States,Other,100.3,3.3049999999999997,331.0,good
+2,2,Shein,China,E-commerce & direct-to-consumer,100.0,3.175,130.0,bad
+3,3,Stripe,United States,Fintech,95.0,3.3049999999999997,331.0,good
+4,4,Klarna,Sweden,Fintech,45.6,3.06,752.0,bad
+5,5,Canva,Australia,Internet software & services,40.0,3.1849999999999996,786.0,bad
+6,6,Checkout.Com,United Kingdom,Fintech,40.0,3.09,2499.0,bad
+7,7,Instacart,United States,"Supply chain, logistics, & delivery",39.0,3.3049999999999997,331.0,good
+8,8,Databricks,United States,Data management & analytics,38.0,3.3049999999999997,331.0,good
+9,9,Revolut,United Kingdom,Fintech,33.0,3.09,2499.0,bad
+10,10,Epic Games,United States,Other,31.5,3.3049999999999997,331.0,good
+11,11,Ftx,The Bahamas,Fintech,32.0,2.23,96.0,bad
+12,12,Fanatics,United States,E-commerce & direct-to-consumer,27.0,3.3049999999999997,331.0,good
+13,13,Chime,United States,Fintech,25.0,3.3049999999999997,331.0,good
+14,14,Byju'S,India,Edtech,22.0,3.49,428.0,good
+15,15,Xiaohongshu,China,E-commerce & direct-to-consumer,20.0,3.175,130.0,bad
+16,16,J&T Express,Indonesia,"Supply chain, logistics, & delivery",20.0,3.7199999999999998,2250.0,good
+17,17,Miro,United States,Internet software & services,17.5,3.3049999999999997,331.0,good
+18,18,Yuanfudao,China,Edtech,15.5,3.175,130.0,bad
+19,19,Dji Innovations,China,Hardware,15.0,3.175,130.0,bad
+20,20,Discord,United States,Internet software & services,15.0,3.3049999999999997,331.0,good
+21,21,Gopuff,United States,E-commerce & direct-to-consumer,15.0,3.3049999999999997,331.0,good
+22,22,Yuanqi Senlin,China,Consumer & retail,15.0,3.175,130.0,bad
+23,23,Ripple,United States,Fintech,15.0,3.3049999999999997,331.0,good
+24,24,Blockchain.Com,United Kingdom,Fintech,14.0,3.09,2499.0,bad
+25,25,Plaid,United States,Fintech,13.5,3.3049999999999997,331.0,good
+26,26,Opensea,United States,E-commerce & direct-to-consumer,13.3,3.3049999999999997,331.0,good
+27,27,Grammarly,United States,Internet software & services,13.0,3.3049999999999997,331.0,good
+28,28,Devoted Health,United States,Health,12.6,3.3049999999999997,331.0,good
+29,29,Faire,United States,Artificial Intelligence,12.4,3.3049999999999997,331.0,good
+30,30,Brex,United States,Fintech,12.3,3.3049999999999997,331.0,good
+31,31,Juul Labs,United States,Consumer & retail,12.0,3.3049999999999997,331.0,good
+32,32,Bitmain Technologies,China,Hardware,12.0,3.175,130.0,bad
+33,33,Biosplice Therapeutics,United States,Health,12.0,3.3049999999999997,331.0,good
+34,34,Goodleap,United States,Internet software & services,12.0,3.3049999999999997,331.0,good
+35,35,Xingsheng Selected,China,E-commerce & direct-to-consumer,12.0,3.175,130.0,bad
+36,36,Getir,Turkey,E-commerce & direct-to-consumer,11.8,3.3049999999999997,1527.0,good
+37,37,Airtable,United States,Internet software & services,11.7,3.3049999999999997,331.0,good
+38,38,Zongmu Technology,China,Auto & transportation,11.4,3.175,130.0,bad
+39,39,Global Switch,United Kingdom,Hardware,11.1,3.09,2499.0,bad
+40,40,Celonis,Germany,Data management & analytics,11.0,3.44,2050.0,good
+41,41,Bolt,United States,Fintech,11.0,3.3049999999999997,331.0,good
+42,42,Alchemy,United States,Fintech,10.2,3.3049999999999997,331.0,good
+43,43,Weilong,China,Consumer & retail,10.88,3.175,130.0,bad
+44,44,Swiggy,India,"Supply chain, logistics, & delivery",10.7,3.49,428.0,good
+45,45,Lalamove,Hong Kong,"Supply chain, logistics, & delivery",10.0,2.97,717.0,bad
+46,46,Figma,United States,Internet software & services,10.0,3.3049999999999997,331.0,good
+47,47,Gusto,United States,Fintech,10.0,3.3049999999999997,331.0,good
+48,48,Chehaoduo,China,E-commerce & direct-to-consumer,10.0,3.175,130.0,bad
+49,49,Reddit,United States,Internet software & services,10.0,3.3049999999999997,331.0,good
+50,50,Talkdesk,Portugal,Internet software & services,10.0,4.109999999999999,2659.0,good
+51,51,Notion Labs,United States,Internet software & services,10.0,3.3049999999999997,331.0,good
+52,52,Thrasio,United States,Other,10.0,3.3049999999999997,331.0,good
+53,53,Digital Currency Group,United States,Fintech,10.0,3.3049999999999997,331.0,good
+54,54,Outsystems,Portugal,Internet software & services,9.5,4.109999999999999,2659.0,good
+55,55,Servicetitan,United States,Internet software & services,9.5,3.3049999999999997,331.0,good
+56,56,Heytea,China,Other,9.28,3.175,130.0,bad
+57,57,N26,Germany,Fintech,9.23,3.44,2050.0,good
+58,58,Klaviyo,United States,Internet software & services,9.2,3.3049999999999997,331.0,good
+59,59,Northvolt,Sweden,Other,9.08,3.06,752.0,bad
+60,60,Tanium,United States,Cybersecurity,9.0,3.3049999999999997,331.0,good
+61,61,Niantic,United States,Mobile & telecommunications,9.0,3.3049999999999997,331.0,good
+62,62,Oyo Rooms,India,Travel,9.0,3.49,428.0,good
+63,63,Rapyd,United Kingdom,Fintech,8.75,3.09,2499.0,bad
+64,64,Kavak,Mexico,E-commerce & direct-to-consumer,8.7,3.5700000000000003,1546.0,good
+65,65,Snyk,United States,Cybersecurity,8.6,3.3049999999999997,331.0,good
+66,66,Nuro,United States,Auto & transportation,8.6,3.3049999999999997,331.0,good
+67,67,Pony.Ai,United States,Artificial Intelligence,8.5,3.3049999999999997,331.0,good
+68,68,Lacework,United States,Cybersecurity,8.3,3.3049999999999997,331.0,good
+69,69,Tipalti,United States,Fintech,8.3,3.3049999999999997,331.0,good
+70,70,Tempus,United States,Health,8.1,3.3049999999999997,331.0,good
+71,71,Ramp,United States,Fintech,8.1,3.3049999999999997,331.0,good
+72,72,Dream11,India,Internet software & services,8.0,3.49,428.0,good
+73,73,Fireblocks,United States,Fintech,8.0,3.3049999999999997,331.0,good
+74,74,Flexport,United States,"Supply chain, logistics, & delivery",8.0,3.3049999999999997,331.0,good
+75,75,Caris Life Sciences,United States,Health,7.83,3.3049999999999997,331.0,good
+76,76,Dapper Labs,Canada,Fintech,7.6,3.0599999999999996,1221.0,bad
+77,77,Hopin,United Kingdom,Internet software & services,7.75,3.09,2499.0,bad
+78,78,Netskope,United States,Cybersecurity,7.5,3.3049999999999997,331.0,good
+79,79,Razorpay,India,Fintech,7.5,3.49,428.0,good
+80,80,Automattic,United States,Internet software & services,7.5,3.3049999999999997,331.0,good
+81,81,Toss,South Korea,Fintech,7.4,3.17,775.0,bad
+82,82,Carta,United States,Fintech,7.4,3.3049999999999997,331.0,good
+83,83,Scale Ai,United States,Artificial Intelligence,7.3,3.3049999999999997,331.0,good
+84,84,Argo Ai,United States,Artificial Intelligence,7.25,3.3049999999999997,331.0,good
+85,85,Gong,United States,Artificial Intelligence,7.25,3.3049999999999997,331.0,good
+86,86,Tripactions,United States,Travel,7.25,3.3049999999999997,331.0,good
+87,87,Gemini,United States,Fintech,7.1,3.3049999999999997,331.0,good
+88,88,We Doctor,China,Health,7.0,3.175,130.0,bad
+89,89,Ro,United States,Health,7.0,3.3049999999999997,331.0,good
+90,90,Consensys,United States,Fintech,7.0,3.3049999999999997,331.0,good
+91,91,Automation Anywhere,United States,Artificial Intelligence,6.8,3.3049999999999997,331.0,good
+92,92,1Password,Canada,Cybersecurity,6.8,3.0599999999999996,1221.0,bad
+93,93,Ziroom,China,E-commerce & direct-to-consumer,6.6,3.175,130.0,bad
+94,94,Svolt,China,Auto & transportation,6.51,3.175,130.0,bad
+95,95,National Stock Exchange Of India,India,Fintech,6.5,3.49,428.0,good
+96,96,Mollie,Netherlands,Fintech,6.5,3.085,1784.0,bad
+97,97,Rippling,United States,Internet software & services,6.5,3.3049999999999997,331.0,good
+98,98,Ola Cabs,India,Auto & transportation,7.5,3.49,428.0,good
+99,99,Doctolib,France,Health,6.4,2.8,171.0,bad
+100,100,Datarobot,United States,Artificial Intelligence,6.3,3.3049999999999997,331.0,good
+101,101,Personio,Germany,Internet software & services,6.3,3.44,2050.0,good
+102,102,Upgrade,United States,Fintech,6.28,3.3049999999999997,331.0,good
+103,103,Hinge Health,United States,Health,6.2,3.3049999999999997,331.0,good
+104,104,Black Unicorn Factory,United States,Other,6.1,3.3049999999999997,331.0,good
+105,105,Benchling,United States,Internet software & services,6.1,3.3049999999999997,331.0,good
+106,106,Royole Corporation,China,Hardware,6.0,3.175,130.0,bad
+107,107,Better.Com,United States,Fintech,6.0,3.3049999999999997,331.0,good
+108,108,Wiz,Israel,Cybersecurity,6.0,2.5700000000000003,385.0,bad
+109,109,Icapital Network,United States,Fintech,6.0,3.3049999999999997,331.0,good
+110,110,6Sense,United States,Artificial Intelligence,5.2,3.3049999999999997,331.0,good
+111,111,Attentive,United States,Mobile & telecommunications,5.99,3.3049999999999997,331.0,good
+112,112,Easyhome,China,Consumer & retail,5.78,3.175,130.0,bad
+113,113,Lianjia,China,E-commerce & direct-to-consumer,5.77,3.175,130.0,bad
+114,114,Vice Media,United States,Internet software & services,5.7,3.3049999999999997,331.0,good
+115,115,Cityblock Health,United States,Health,5.7,3.3049999999999997,331.0,good
+116,116,Workato,United States,Internet software & services,5.7,3.3049999999999997,331.0,good
+117,117,Back Market,France,E-commerce & direct-to-consumer,5.7,2.8,171.0,bad
+118,118,Relex Solutions,Finland,"Supply chain, logistics, & delivery",5.7,2.975,42.0,bad
+119,119,The Boring Company,United States,Other,5.7,3.3049999999999997,331.0,good
+120,120,Postman,United States,Internet software & services,5.6,3.3049999999999997,331.0,good
+121,121,Fivetran,United States,Data management & analytics,5.6,3.3049999999999997,331.0,good
+122,122,Trade Republic,Germany,Fintech,5.3,3.44,2050.0,good
+123,123,Rappi,Colombia,"Supply chain, logistics, & delivery",5.25,3.255,1471.0,bad
+124,124,Collibra,Belgium,Data management & analytics,5.25,2.585,740.0,bad
+125,125,Onetrust,United States,Internet software & services,5.1,3.3049999999999997,331.0,good
+126,126,Quintoandar,Brazil,E-commerce & direct-to-consumer,5.1,3.1399999999999997,608.0,bad
+127,127,C6 Bank,Brazil,Fintech,5.05,3.1399999999999997,608.0,bad
+128,128,United Imaging Healthcare,China,Health,5.0,3.175,130.0,bad
+129,129,Hello Transtech,China,Auto & transportation,5.0,3.175,130.0,bad
+130,130,Deel,United States,Fintech,5.5,3.3049999999999997,331.0,good
+131,131,Airwallex,Australia,Fintech,5.5,3.1849999999999996,786.0,bad
+132,132,Mambu,Netherlands,Fintech,5.5,3.085,1784.0,bad
+133,133,Horizon Robotics,China,Artificial Intelligence,5.0,3.175,130.0,bad
+134,134,Wm Motor,China,Auto & transportation,5.0,3.175,130.0,bad
+135,135,Howden Group Holdings,United Kingdom,Other,5.0,3.09,2499.0,bad
+136,136,Sambanova Systems,United States,Data management & analytics,5.0,3.3049999999999997,331.0,good
+137,137,Zepz,United Kingdom,Fintech,5.0,3.09,2499.0,bad
+138,138,Oaknorth Bank,United Kingdom,Fintech,5.0,3.09,2499.0,bad
+139,139,Moon Active,Israel,Mobile & telecommunications,5.0,2.5700000000000003,385.0,bad
+140,140,Ofbusiness,India,E-commerce & direct-to-consumer,5.0,3.49,428.0,good
+141,141,Cockroach Labs,United States,Data management & analytics,5.0,3.3049999999999997,331.0,good
+142,142,Pine Labs,India,Fintech,5.0,3.49,428.0,good
+143,143,Qonto,France,Fintech,5.0,2.8,171.0,bad
+144,144,Ola Electric Mobility,India,Auto & transportation,5.0,3.49,428.0,good
+145,145,Icertis,United States,Artificial Intelligence,5.0,3.3049999999999997,331.0,good
+146,146,Hopper,Canada,Travel,5.0,3.0599999999999996,1221.0,bad
+147,147,Verse Innovation(Dailyhunt),India,Internet software & services,5.0,3.49,428.0,good
+148,148,Meesho,India,Internet software & services,4.9,3.49,428.0,good
+149,149,Cerebral,United States,Health,4.8,3.3049999999999997,331.0,good
+150,150,Creditas,Brazil,Fintech,4.8,3.1399999999999997,608.0,bad
+151,151,Reify Health,United States,Health,4.8,3.3049999999999997,331.0,good
+152,152,Chipone,China,Hardware,4.73,3.175,130.0,bad
+153,153,Pleo,Denmark,Fintech,4.7,2.8099999999999996,686.0,bad
+154,154,Sonarsource,Switzerland,Internet software & services,4.7,2.68,746.0,bad
+155,155,Anduril,United States,Artificial Intelligence,4.6,3.3049999999999997,331.0,good
+156,156,Lyra Health,United States,Health,5.85,3.3049999999999997,331.0,good
+157,157,Dataiku,United States,Internet software & services,4.6,3.3049999999999997,331.0,good
+158,158,Checkr,United States,Internet software & services,4.6,3.3049999999999997,331.0,good
+159,159,Color,United States,Health,4.6,3.3049999999999997,331.0,good
+160,160,Meizu Technology,China,Hardware,4.58,3.175,130.0,bad
+161,161,Lendable,United Kingdom,Fintech,4.58,3.09,2499.0,bad
+162,162,Vinted,Lithuania,E-commerce & direct-to-consumer,4.53,2.8099999999999996,279.0,bad
+163,163,Vipkid,China,Edtech,4.5,3.175,130.0,bad
+164,164,Socure,United States,Cybersecurity,4.5,3.3049999999999997,331.0,good
+165,165,Monzo,United Kingdom,Fintech,4.5,3.09,2499.0,bad
+166,166,Ubtech Robotics,China,Hardware,4.58,3.175,130.0,bad
+167,167,Outreach,United States,Internet software & services,4.4,3.3049999999999997,331.0,good
+168,168,Weride,China,Auto & transportation,4.4,3.175,130.0,bad
+169,169,Betterup,United States,Internet software & services,4.7,3.3049999999999997,331.0,good
+170,170,Arctic Wolf Networks,United States,Cybersecurity,4.3,3.3049999999999997,331.0,good
+171,171,Sorare,France,E-commerce & direct-to-consumer,4.3,2.8,171.0,bad
+172,172,Relativity Space,United States,Other,4.2,3.3049999999999997,331.0,good
+173,173,Miaoshou Doctor,China,E-commerce & direct-to-consumer,4.25,3.175,130.0,bad
+174,174,Chainalysis,United States,Fintech,4.2,3.3049999999999997,331.0,good
+175,175,Thoughtspot,United States,Internet software & services,4.2,3.3049999999999997,331.0,good
+176,176,Globalization Partners,United States,Internet software & services,4.2,3.3049999999999997,331.0,good
+177,177,Dbt Labs,United States,Data management & analytics,4.2,3.3049999999999997,331.0,good
+178,178,Ssense,Canada,E-commerce & direct-to-consumer,4.15,3.0599999999999996,1221.0,bad
+179,179,Dataminr,United States,Artificial Intelligence,4.1,3.3049999999999997,331.0,good
+180,180,Bitpanda,Austria,Fintech,4.11,2.71,954.0,bad
+181,181,Weee!,United States,"Supply chain, logistics, & delivery",4.1,3.3049999999999997,331.0,good
+182,182,Houzz,United States,E-commerce & direct-to-consumer,4.0,3.3049999999999997,331.0,good
+183,183,Cred,India,Fintech,4.01,3.49,428.0,good
+184,184,Yello Mobile,South Korea,Mobile & telecommunications,4.0,3.17,775.0,bad
+185,185,Megvii,China,Artificial Intelligence,4.0,3.175,130.0,bad
+186,186,Greensill,United Kingdom,Fintech,4.0,3.09,2499.0,bad
+187,187,Impossible Foods,United States,Consumer & retail,4.0,3.3049999999999997,331.0,good
+188,188,Radiology Partners,United States,Health,4.0,3.3049999999999997,331.0,good
+189,189,Next Insurance,United States,Fintech,4.0,3.3049999999999997,331.0,good
+190,190,Patreon,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+191,191,Pointclickcare,Canada,Internet software & services,4.0,3.0599999999999996,1221.0,bad
+192,192,Zapier,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+193,193,Clubhouse,United States,Mobile & telecommunications,4.0,3.3049999999999997,331.0,good
+194,194,Browserstack,Ireland,Internet software & services,4.0,2.685,722.0,bad
+195,195,Olive,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+196,196,Rubrik,United States,Data management & analytics,4.0,3.3049999999999997,331.0,good
+197,197,Melio,United States,Fintech,4.0,3.3049999999999997,331.0,good
+198,198,Vuori,United States,E-commerce & direct-to-consumer,4.0,3.3049999999999997,331.0,good
+199,199,Clickup,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+200,200,Cerebras Systems,United States,Hardware,4.0,3.3049999999999997,331.0,good
+201,201,Farmers Business Network,United States,Other,4.0,3.3049999999999997,331.0,good
+202,202,Branch,United States,Mobile & telecommunications,4.0,3.3049999999999997,331.0,good
+203,203,Aurora Solar,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+204,204,Webflow,United States,Internet software & services,4.0,3.3049999999999997,331.0,good
+205,205,Yuga Labs,United States,Fintech,4.0,3.3049999999999997,331.0,good
+206,206,Digit Insurance,India,Fintech,4.0,3.49,428.0,good
+207,207,Medlinker,China,Health,3.92,3.175,130.0,bad
+208,208,Intarcia Therapeutics,United States,Health,3.8,3.3049999999999997,331.0,good
+209,209,Stockx,United States,E-commerce & direct-to-consumer,3.8,3.3049999999999997,331.0,good
+210,210,Messagebird,Netherlands,Mobile & telecommunications,3.8,3.085,1784.0,bad
+211,211,Convoy,United States,"Supply chain, logistics, & delivery",3.8,3.3049999999999997,331.0,good
+212,212,Guild Education,United States,Internet software & services,3.75,3.3049999999999997,331.0,good
+213,213,Articulate,United States,Edtech,3.75,3.3049999999999997,331.0,good
+214,214,Falconx,United States,Fintech,3.75,3.3049999999999997,331.0,good
+215,215,Dutchie,United States,E-commerce & direct-to-consumer,3.75,3.3049999999999997,331.0,good
+216,216,Cohesity,United States,Data management & analytics,3.7,3.3049999999999997,331.0,good
+217,217,Vast Data,United States,Data management & analytics,3.7,3.3049999999999997,331.0,good
+218,218,Goat,United States,E-commerce & direct-to-consumer,3.7,3.3049999999999997,331.0,good
+219,219,Noom,United States,Health,3.7,3.3049999999999997,331.0,good
+220,220,Redwood Materials,United States,Other,3.7,3.3049999999999997,331.0,good
+221,221,Papaya Global,United States,Internet software & services,3.7,3.3049999999999997,331.0,good
+222,222,Sharechat,India,Internet software & services,3.7,3.49,428.0,good
+223,223,Abogen,China,Health,3.7,3.175,130.0,bad
+224,224,Harness,United States,Artificial Intelligence,3.7,3.3049999999999997,331.0,good
+225,225,Relativity,United States,Internet software & services,3.6,3.3049999999999997,331.0,good
+226,226,Whoop,United States,E-commerce & direct-to-consumer,3.6,3.3049999999999997,331.0,good
+227,227,Applied Intuition,United States,Data management & analytics,3.6,3.3049999999999997,331.0,good
+228,228,Course Hero,United States,Edtech,3.6,3.3049999999999997,331.0,good
+229,229,Otto Bock Healthcare,Germany,Health,3.52,3.44,2050.0,good
+230,230,Indigo Ag,United States,Artificial Intelligence,3.5,3.3049999999999997,331.0,good
+231,231,Hyalroute,Singapore,Mobile & telecommunications,3.5,3.01,1260.0,bad
+232,232,Rec Room,United States,Internet software & services,3.5,3.3049999999999997,331.0,good
+233,233,Commure,United States,Internet software & services,3.5,3.3049999999999997,331.0,good
+234,234,Mirakl,France,E-commerce & direct-to-consumer,3.5,2.8,171.0,bad
+235,235,Coalition,United States,Cybersecurity,3.5,3.3049999999999997,331.0,good
+236,236,Tekion,United States,Internet software & services,3.5,3.3049999999999997,331.0,good
+237,237,Celsius Network,United States,Fintech,3.5,3.3049999999999997,331.0,good
+238,238,Gostudent,Austria,Edtech,3.5,2.71,954.0,bad
+239,239,Highspot,United States,Internet software & services,3.5,3.3049999999999997,331.0,good
+240,240,Handshake,United States,Internet software & services,3.5,3.3049999999999997,331.0,good
+241,241,Chargebee Technologies,United States,Fintech,3.5,3.3049999999999997,331.0,good
+242,242,Flock Safety,United States,Hardware,3.5,3.3049999999999997,331.0,good
+243,243,Unacademy,India,Edtech,3.44,3.49,428.0,good
+244,244,Moonpay,United States,Fintech,3.4,3.3049999999999997,331.0,good
+245,245,Upstox,India,Fintech,3.4,3.49,428.0,good
+246,246,Youxia Motors,China,Auto & transportation,3.35,3.175,130.0,bad
+247,247,Ownbackup,United States,Data management & analytics,3.35,3.3049999999999997,331.0,good
+248,248,Starburst,United States,Data management & analytics,3.35,3.3049999999999997,331.0,good
+249,249,Starling Bank,United Kingdom,Fintech,3.34,3.09,2499.0,bad
+250,250,Cloudwalk,China,Artificial Intelligence,3.32,3.175,130.0,bad
+251,251,Ecarx,China,Auto & transportation,3.31,3.175,130.0,bad
+252,252,Sila Nanotechnologies,United States,Other,3.3,3.3049999999999997,331.0,good
+253,253,Scopely,United States,Mobile & telecommunications,3.3,3.3049999999999997,331.0,good
+254,254,Komodo Health,United States,Health,3.3,3.3049999999999997,331.0,good
+255,255,Kurly,South Korea,"Supply chain, logistics, & delivery",3.3,3.17,775.0,bad
+256,256,Cars24,India,E-commerce & direct-to-consumer,3.3,3.49,428.0,good
+257,257,Blockdaemon,United States,Fintech,3.25,3.3049999999999997,331.0,good
+258,258,Dadi Cinema,China,Other,3.24,3.175,130.0,bad
+259,259,Thumbtack,United States,E-commerce & direct-to-consumer,3.2,3.3049999999999997,331.0,good
+260,260,Cedar,United States,Fintech,3.2,3.3049999999999997,331.0,good
+261,261,Eruditus Executive Education,India,Edtech,3.2,3.49,428.0,good
+262,262,Blockstream,Canada,Fintech,3.2,3.0599999999999996,1221.0,bad
+263,263,Innovaccer,United States,Health,3.2,3.3049999999999997,331.0,good
+264,264,Ironclad,United States,Internet software & services,3.2,3.3049999999999997,331.0,good
+265,265,Skims,United States,E-commerce & direct-to-consumer,3.2,3.3049999999999997,331.0,good
+266,266,Psiquantum,United States,Hardware,3.15,3.3049999999999997,331.0,good
+267,267,Spoton,United States,Fintech,3.15,3.3049999999999997,331.0,good
+268,268,Udaan,India,"Supply chain, logistics, & delivery",3.1,3.49,428.0,good
+269,269,Highradius,United States,Fintech,3.1,3.3049999999999997,331.0,good
+270,270,Nuvemshop,Brazil,E-commerce & direct-to-consumer,3.1,3.1399999999999997,608.0,bad
+271,271,Yixia,China,Mobile & telecommunications,3.0,3.175,130.0,bad
+272,272,Traveloka,Indonesia,Travel,3.0,3.7199999999999998,2250.0,good
+273,273,Souche Holdings,China,E-commerce & direct-to-consumer,3.0,3.175,130.0,bad
+274,274,Bgl Group,United Kingdom,Fintech,3.0,3.09,2499.0,bad
+275,275,Circle,United States,Fintech,3.0,3.3049999999999997,331.0,good
+276,276,Zuoyebang,China,Edtech,3.0,3.175,130.0,bad
+277,277,Delhivery,India,"Supply chain, logistics, & delivery",3.0,3.49,428.0,good
+278,278,Flixmobility,Germany,Auto & transportation,3.0,3.44,2050.0,good
+279,279,Wildlife Studios,Brazil,Other,3.0,3.1399999999999997,608.0,bad
+280,280,Applyboard,Canada,Edtech,3.2,3.0599999999999996,1221.0,bad
+281,281,Forter,United States,Cybersecurity,3.0,3.3049999999999997,331.0,good
+282,282,Calendly,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+283,283,Blockfi,United States,Fintech,3.0,3.3049999999999997,331.0,good
+284,284,Activecampaign,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+285,285,Cmr Surgical,United Kingdom,Health,3.0,3.09,2499.0,bad
+286,286,Lucid Software,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+287,287,Age Of Learning,United States,Edtech,3.0,3.3049999999999997,331.0,good
+288,288,Carbon Health,United States,Health,3.0,3.3049999999999997,331.0,good
+289,289,Contentful,Germany,Internet software & services,3.0,3.44,2050.0,good
+290,290,Launchdarkly,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+291,291,Seismic,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+292,292,Grafana Labs,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+293,293,Gorillas,Germany,E-commerce & direct-to-consumer,3.1,3.44,2050.0,good
+294,294,Sky Mavis,Vietnam,Internet software & services,3.0,3.415,1157.0,good
+295,295,Outschool,United States,Edtech,3.0,3.3049999999999997,331.0,good
+296,296,Tradingview,United States,Fintech,3.0,3.3049999999999997,331.0,good
+297,297,Groww,India,Fintech,3.0,3.49,428.0,good
+298,298,Podium,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+299,299,Via,United States,Auto & transportation,3.3,3.3049999999999997,331.0,good
+300,300,Anchorage Digital,Portugal,Fintech,3.0,4.109999999999999,2659.0,good
+301,301,Inxeption,United States,Fintech,3.0,3.3049999999999997,331.0,good
+302,302,Lattice,United States,Internet software & services,3.0,3.3049999999999997,331.0,good
+303,303,Flutterwave,United States,Fintech,3.0,3.3049999999999997,331.0,good
+304,304,Amber Group,Hong Kong,Fintech,3.0,2.97,717.0,bad
+305,305,Wefox,Germany,Fintech,3.0,3.44,2050.0,good
+306,306,Cross River Bank,United States,Fintech,3.0,3.3049999999999997,331.0,good
+307,307,Remote,Portugal,Fintech,3.0,4.109999999999999,2659.0,good
+308,308,Kraken,United States,Fintech,2.92,3.3049999999999997,331.0,good
+309,309,Openai,United States,Artificial Intelligence,2.92,3.3049999999999997,331.0,good
+310,310,Workrise,United States,Internet software & services,2.9,3.3049999999999997,331.0,good
+311,311,Loft,Brazil,E-commerce & direct-to-consumer,2.9,3.1399999999999997,608.0,bad
+312,312,Bharatpe,India,Fintech,2.85,3.49,428.0,good
+313,313,Drivewealth,United States,Fintech,2.85,3.3049999999999997,331.0,good
+314,314,Flink,Germany,E-commerce & direct-to-consumer,2.85,3.44,2050.0,good
+315,315,Meicai,China,Mobile & telecommunications,2.8,3.175,130.0,bad
+316,316,Contentsquare,France,Internet software & services,2.8,2.8,171.0,bad
+317,317,Zipline,United States,"Supply chain, logistics, & delivery",2.8,3.3049999999999997,331.0,good
+318,318,Graphcore,United Kingdom,Artificial Intelligence,2.77,3.09,2499.0,bad
+319,319,Illumio,United States,Cybersecurity,2.75,3.3049999999999997,331.0,good
+320,320,Masterclass,United States,Edtech,2.75,3.3049999999999997,331.0,good
+321,321,Dream Games,Turkey,Mobile & telecommunications,2.75,3.3049999999999997,1527.0,good
+322,322,Transmit Security,Israel,Cybersecurity,2.74,2.5700000000000003,385.0,bad
+323,323,Hozon Auto,China,Auto & transportation,3.95,3.175,130.0,bad
+324,324,Tradeshift,United States,Fintech,2.7,3.3049999999999997,331.0,good
+325,325,Nextiva,United States,Internet software & services,2.7,3.3049999999999997,331.0,good
+326,326,O9 Solutions,United States,Artificial Intelligence,2.7,3.3049999999999997,331.0,good
+327,327,Manomano,France,E-commerce & direct-to-consumer,2.6,2.8,171.0,bad
+328,328,Sourcegraph,United States,Internet software & services,2.62,3.3049999999999997,331.0,good
+329,329,Pendo,United States,Internet software & services,2.6,3.3049999999999997,331.0,good
+330,330,Plume,United States,Internet software & services,2.6,3.3049999999999997,331.0,good
+331,331,Moglix,Singapore,E-commerce & direct-to-consumer,2.6,3.01,1260.0,bad
+332,332,Axonius,United States,Cybersecurity,2.6,3.3049999999999997,331.0,good
+333,333,Xinchao Media,China,Internet software & services,2.0,3.175,130.0,bad
+334,334,Jumpcloud,United States,Data management & analytics,2.62,3.3049999999999997,331.0,good
+335,335,Unico,Brazil,Artificial Intelligence,2.6,3.1399999999999997,608.0,bad
+336,336,Oura,Finland,Health,2.55,2.975,42.0,bad
+337,337,Eat Just,United States,Consumer & retail,2.59,3.3049999999999997,331.0,good
+338,338,Vista Global,United Arab Emirates,Other,2.5,2.69,921.0,bad
+339,339,Byton,China,Auto & transportation,2.5,3.175,130.0,bad
+340,340,Acronis,Switzerland,Cybersecurity,2.5,2.68,746.0,bad
+341,341,Side,United States,Internet software & services,2.5,3.3049999999999997,331.0,good
+342,342,Lenskart,India,E-commerce & direct-to-consumer,2.5,3.49,428.0,good
+343,343,Infra.Market,India,E-commerce & direct-to-consumer,2.5,3.49,428.0,good
+344,344,Varo Bank,United States,Fintech,2.5,3.3049999999999997,331.0,good
+345,345,Cato Networks,Israel,Cybersecurity,2.5,2.5700000000000003,385.0,bad
+346,346,Aura,United States,Cybersecurity,2.5,3.3049999999999997,331.0,good
+347,347,Vercel,United States,Internet software & services,2.5,3.3049999999999997,331.0,good
+348,348,Sysdig,United States,Cybersecurity,2.5,3.3049999999999997,331.0,good
+349,349,Zetwerk,India,Internet software & services,2.68,3.49,428.0,good
+350,350,Uniphore,United States,Artificial Intelligence,2.5,3.3049999999999997,331.0,good
+351,351,Somatus,United States,Health,2.5,3.3049999999999997,331.0,good
+352,352,Immutable,Australia,Fintech,2.5,3.1849999999999996,786.0,bad
+353,353,A24 Films,United States,Other,2.5,3.3049999999999997,331.0,good
+354,354,Sifive,United States,Hardware,2.5,3.3049999999999997,331.0,good
+355,355,Games24X7,India,Internet software & services,2.5,3.49,428.0,good
+356,356,Fetch Rewards,United States,E-commerce & direct-to-consumer,2.5,3.3049999999999997,331.0,good
+357,357,Coda Payments,Singapore,Fintech,2.5,3.01,1260.0,bad
+358,358,Uala,Argentina,Fintech,2.45,3.465,927.0,good
+359,359,Mobile Premier League,India,Internet software & services,2.45,3.49,428.0,good
+360,360,Cybereason,United States,Cybersecurity,2.44,3.3049999999999997,331.0,good
+361,361,Cgtz,China,Fintech,2.41,3.175,130.0,bad
+362,362,Star Charge,China,Auto & transportation,2.41,3.175,130.0,bad
+363,363,Carbon,United States,Hardware,2.4,3.3049999999999997,331.0,good
+364,364,Policybazaar,India,Fintech,2.4,3.49,428.0,good
+365,365,Paxos,United States,Fintech,2.4,3.3049999999999997,331.0,good
+366,366,Exabeam,United States,Cybersecurity,2.4,3.3049999999999997,331.0,good
+367,367,Bitsight Technologies,United States,Cybersecurity,2.4,3.3049999999999997,331.0,good
+368,368,Trumid,United States,Fintech,2.4,3.3049999999999997,331.0,good
+369,369,Abl Space Systems,United States,Other,2.4,3.3049999999999997,331.0,good
+370,370,Honeybook,United States,Internet software & services,2.4,3.3049999999999997,331.0,good
+371,371,Beta Technologies,United States,Other,2.4,3.3049999999999997,331.0,good
+372,372,Project44,United States,"Supply chain, logistics, & delivery",2.62,3.3049999999999997,331.0,good
+373,373,Bought By Many,United Kingdom,Fintech,2.35,3.09,2499.0,bad
+374,374,Jobandtalent,Spain,Internet software & services,2.35,3.57,625.0,good
+375,375,Wemakeprice,South Korea,E-commerce & direct-to-consumer,2.34,3.17,775.0,bad
+376,376,Biren Technology,China,Hardware,2.32,3.175,130.0,bad
+377,377,Voodoo,France,Other,2.31,2.8,171.0,bad
+378,378,Uptake,United States,Artificial Intelligence,2.3,3.3049999999999997,331.0,good
+379,379,Keeptruckin,United States,"Supply chain, logistics, & delivery",2.3,3.3049999999999997,331.0,good
+380,380,Skydance Media,United States,Other,2.3,3.3049999999999997,331.0,good
+381,381,Greenlight,United States,Fintech,2.3,3.3049999999999997,331.0,good
+382,382,Bowery Farming,United States,Other,2.3,3.3049999999999997,331.0,good
+383,383,Odoo,Belgium,Internet software & services,2.3,2.585,740.0,bad
+384,384,Momo,Vietnam,Fintech,2.27,3.415,1157.0,good
+385,385,Zume,United States,Consumer & retail,2.25,3.3049999999999997,331.0,good
+386,386,Algolia,United States,Internet software & services,2.25,3.3049999999999997,331.0,good
+387,387,Pattern,United States,Internet software & services,2.25,3.3049999999999997,331.0,good
+388,388,Newfront Insurance,United States,Fintech,2.2,3.3049999999999997,331.0,good
+389,389,Nucom Group,Germany,Other,2.2,3.44,2050.0,good
+390,390,Musinsa,South Korea,E-commerce & direct-to-consumer,2.2,3.17,775.0,bad
+391,391,Current,United States,Fintech,2.2,3.3049999999999997,331.0,good
+392,392,Bitso,Mexico,Fintech,2.2,3.5700000000000003,1546.0,good
+393,393,Gympass,United States,Internet software & services,2.2,3.3049999999999997,331.0,good
+394,394,Dialpad,United States,Internet software & services,2.2,3.3049999999999997,331.0,good
+395,395,G7 Networks,China,"Supply chain, logistics, & delivery",2.2,3.175,130.0,bad
+396,396,Bloomreach,United States,Artificial Intelligence,2.2,3.3049999999999997,331.0,good
+397,397,Huaqin Telecom Technology,China,Mobile & telecommunications,2.19,3.175,130.0,bad
+398,398,Accelerant,United Kingdom,Other,2.19,3.09,2499.0,bad
+399,399,Hesai Tech,China,Artificial Intelligence,2.18,3.175,130.0,bad
+400,400,Yitu Technology,China,Artificial Intelligence,2.17,3.175,130.0,bad
+401,401,Addepar,United States,Fintech,2.17,3.3049999999999997,331.0,good
+402,402,Qualia,United States,Fintech,2.17,3.3049999999999997,331.0,good
+403,403,Neo4J,United States,Data management & analytics,2.0,3.3049999999999997,331.0,good
+404,404,Coindcx,India,Fintech,2.15,3.49,428.0,good
+405,405,Firstcry,India,E-commerce & direct-to-consumer,2.1,3.49,428.0,good
+406,406,Eightfold.Ai,United States,Internet software & services,2.1,3.3049999999999997,331.0,good
+407,407,Urban Company,India,E-commerce & direct-to-consumer,2.1,3.49,428.0,good
+408,408,Recharge,United States,Fintech,2.1,3.3049999999999997,331.0,good
+409,409,Moveworks,United States,Artificial Intelligence,2.1,3.3049999999999997,331.0,good
+410,410,Medable,United States,Internet software & services,2.1,3.3049999999999997,331.0,good
+411,411,Gocardless,United Kingdom,Fintech,2.1,3.09,2499.0,bad
+412,412,Forto,Germany,"Supply chain, logistics, & delivery",2.1,3.44,2050.0,good
+413,413,Jeeves,United States,Fintech,2.1,3.3049999999999997,331.0,good
+414,414,Trendy Group International,Hong Kong,Consumer & retail,2.0,2.97,717.0,bad
+415,415,Avant,United States,Artificial Intelligence,2.0,3.3049999999999997,331.0,good
+416,416,Tubatu.Com,China,E-commerce & direct-to-consumer,2.0,3.175,130.0,bad
+417,417,Blablacar,France,Auto & transportation,2.0,2.8,171.0,bad
+418,418,Huimin,China,E-commerce & direct-to-consumer,2.0,3.175,130.0,bad
+419,419,Quora,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+420,420,Improbable,United Kingdom,Other,1.0,3.09,2499.0,bad
+421,421,Preferred Networks,Japan,Artificial Intelligence,2.0,2.865,1134.0,bad
+422,422,Formlabs,United States,Hardware,2.0,3.3049999999999997,331.0,good
+423,423,4Paradigm,China,Artificial Intelligence,2.0,3.175,130.0,bad
+424,424,Calm,United States,Consumer & retail,2.0,3.3049999999999997,331.0,good
+425,425,Kaseya,United States,Cybersecurity,2.0,3.3049999999999997,331.0,good
+426,426,Mafengwo,China,Travel,2.0,3.175,130.0,bad
+427,427,Druva,United States,Data management & analytics,2.0,3.3049999999999997,331.0,good
+428,428,Kujiale,China,Internet software & services,2.0,3.175,130.0,bad
+429,429,Appsflyer,United States,Mobile & telecommunications,2.0,3.3049999999999997,331.0,good
+430,430,Keep,China,Mobile & telecommunications,2.0,3.175,130.0,bad
+431,431,Redis Labs,United States,Data management & analytics,2.0,3.3049999999999997,331.0,good
+432,432,Xingyun Group,China,E-commerce & direct-to-consumer,2.0,3.175,130.0,bad
+433,433,Unqork,United States,Fintech,2.0,3.3049999999999997,331.0,good
+434,434,Virta Health,United States,Health,2.0,3.3049999999999997,331.0,good
+435,435,Isn,United States,"Supply chain, logistics, & delivery",2.0,3.3049999999999997,331.0,good
+436,436,Earnix,Israel,Fintech,2.0,2.5700000000000003,385.0,bad
+437,437,Guoquan Shihui,China,Consumer & retail,2.0,3.175,130.0,bad
+438,438,Clearco,Canada,Fintech,2.0,3.0599999999999996,1221.0,bad
+439,439,Hive,United States,Artificial Intelligence,2.0,3.3049999999999997,331.0,good
+440,440,Kry,Sweden,Health,2.0,3.06,752.0,bad
+441,441,Kajabi,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+442,442,Ethos,United States,Fintech,2.7,3.3049999999999997,331.0,good
+443,443,Payfit,United Kingdom,Fintech,2.1,3.09,2499.0,bad
+444,444,Beisen,China,Internet software & services,2.0,3.175,130.0,bad
+445,445,Pipe,United States,Fintech,2.0,3.3049999999999997,331.0,good
+446,446,Iterable,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+447,447,Bunq,Netherlands,Fintech,2.0,3.085,1784.0,bad
+448,448,Clip,Mexico,Fintech,2.0,3.5700000000000003,1546.0,good
+449,449,Loggi,Brazil,"Supply chain, logistics, & delivery",2.0,3.1399999999999997,608.0,bad
+450,450,Mural,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+451,451,Pagaya,Israel,Fintech,2.0,2.5700000000000003,385.0,bad
+452,452,Ocsial,Luxembourg,Other,2.0,2.26,147.0,bad
+453,453,Xtalpi,China,Artificial Intelligence,2.0,3.175,130.0,bad
+454,454,Divvy Homes,United States,Fintech,2.0,3.3049999999999997,331.0,good
+455,455,Apeel Sciences,United States,Other,2.0,3.3049999999999997,331.0,good
+456,456,Opay,Nigeria,Fintech,2.0,2.895,2.0,bad
+457,457,Aviatrix,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+458,458,Smartnews,Japan,Mobile & telecommunications,2.0,2.865,1134.0,bad
+459,459,Misfits Market,United States,E-commerce & direct-to-consumer,2.0,3.3049999999999997,331.0,good
+460,460,Spring Health,United States,Health,2.0,3.3049999999999997,331.0,good
+461,461,Black Sesame Technologies,China,Artificial Intelligence,2.0,3.175,130.0,bad
+462,462,Advance Intelligence Group,Singapore,Artificial Intelligence,2.0,3.01,1260.0,bad
+463,463,Modern Treasury,United States,Fintech,2.0,3.3049999999999997,331.0,good
+464,464,Magic Leap,United States,Hardware,2.0,3.3049999999999997,331.0,good
+465,465,Tier,Germany,Travel,2.0,3.44,2050.0,good
+466,466,Aiven,Finland,Internet software & services,2.0,2.975,42.0,bad
+467,467,Clickhouse,United States,Data management & analytics,2.0,3.3049999999999997,331.0,good
+468,468,Mynt,Philippines,Fintech,2.0,3.3600000000000003,198.0,good
+469,469,Everlaw,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+470,470,Zilch,United Kingdom,Fintech,2.0,3.09,2499.0,bad
+471,471,Verbit,United States,Artificial Intelligence,2.0,3.3049999999999997,331.0,good
+472,472,Starkware,Israel,Cybersecurity,2.0,2.5700000000000003,385.0,bad
+473,473,Netlify,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+474,474,Deliverr,United States,"Supply chain, logistics, & delivery",2.0,3.3049999999999997,331.0,good
+475,475,Sword Health,Portugal,Health,2.0,4.109999999999999,2659.0,good
+476,476,Ltk,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+477,477,Trax,Singapore,Artificial Intelligence,2.0,3.01,1260.0,bad
+478,478,Exotec,France,Hardware,2.0,2.8,171.0,bad
+479,479,Dremio,United States,Data management & analytics,2.0,3.3049999999999997,331.0,good
+480,480,Akulaku,Indonesia,E-commerce & direct-to-consumer,2.0,3.7199999999999998,2250.0,good
+481,481,Cloudinary,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+482,482,Lunar,Denmark,Fintech,2.0,2.8099999999999996,686.0,bad
+483,483,Upgrad,India,Edtech,2.0,3.49,428.0,good
+484,484,Salsify,United States,Internet software & services,2.0,3.3049999999999997,331.0,good
+485,485,Certik,United States,Cybersecurity,2.0,3.3049999999999997,331.0,good
+486,486,Rox Motor,China,Auto & transportation,2.0,3.175,130.0,bad
+487,487,Ankorstore,France,E-commerce & direct-to-consumer,1.98,2.8,171.0,bad
+488,488,Fenbi Education,China,Edtech,1.95,3.175,130.0,bad
+489,489,Rokt,United States,Internet software & services,1.95,3.3049999999999997,331.0,good
+490,490,Invision,United States,Internet software & services,1.9,3.3049999999999997,331.0,good
+491,491,Edaili,China,E-commerce & direct-to-consumer,1.9,3.175,130.0,bad
+492,492,Mx Technologies,United States,Fintech,1.9,3.3049999999999997,331.0,good
+493,493,Aledade,United States,Health,1.9,3.3049999999999997,331.0,good
+494,494,Coinswitch Kuber,India,Fintech,1.9,3.49,428.0,good
+495,495,Acorns,United States,Fintech,1.9,3.3049999999999997,331.0,good
+496,496,Roofstock,United States,Fintech,1.94,3.3049999999999997,331.0,good
+497,497,Concertai,United States,Artificial Intelligence,1.9,3.3049999999999997,331.0,good
+498,498,Material Bank,United States,E-commerce & direct-to-consumer,1.9,3.3049999999999997,331.0,good
+499,499,Volocopter,Germany,Auto & transportation,1.87,3.44,2050.0,good
+500,500,Enovate,China,Auto & transportation,1.85,3.175,130.0,bad
+501,501,Cfgi,United States,Fintech,1.85,3.3049999999999997,331.0,good
+502,502,Retool,United States,Internet software & services,1.85,3.3049999999999997,331.0,good
+503,503,Zocdoc,United States,Health,1.8,3.3049999999999997,331.0,good
+504,504,Diamond Foundry,United States,Other,1.8,3.3049999999999997,331.0,good
+505,505,Fullstory,United States,Internet software & services,1.8,3.3049999999999997,331.0,good
+506,506,Lightricks,Israel,Artificial Intelligence,1.8,2.5700000000000003,385.0,bad
+507,507,Opentrons,United States,Hardware,1.8,3.3049999999999997,331.0,good
+508,508,Aiways,China,Auto & transportation,1.78,3.175,130.0,bad
+509,509,Trulioo,Canada,Cybersecurity,1.75,3.0599999999999996,1221.0,bad
+510,510,Spinny,India,E-commerce & direct-to-consumer,1.75,3.49,428.0,good
+511,511,Crusoe,United States,Internet software & services,1.75,3.3049999999999997,331.0,good
+512,512,Orca Security,United States,Cybersecurity,1.8,3.3049999999999997,331.0,good
+513,513,Apus Group,China,Mobile & telecommunications,1.73,3.175,130.0,bad
+514,514,Harry'S,United States,Consumer & retail,1.7,3.3049999999999997,331.0,good
+515,515,Pax,United States,Consumer & retail,1.7,3.3049999999999997,331.0,good
+516,516,Dispatchhealth,United States,Health,1.7,3.3049999999999997,331.0,good
+517,517,Saliogen Therapeutics,United States,Health,1.7,3.3049999999999997,331.0,good
+518,518,Pax8,United States,Internet software & services,1.7,3.3049999999999997,331.0,good
+519,519,Unite Us,United States,Health,1.6,3.3049999999999997,331.0,good
+520,520,Circleci,United States,Internet software & services,1.7,3.3049999999999997,331.0,good
+521,521,Wave,Senegal,Fintech,1.7,2.86,28.0,bad
+522,522,Vestiaire Collective,France,E-commerce & direct-to-consumer,1.7,2.8,171.0,bad
+523,523,Dragos,United States,Cybersecurity,1.7,3.3049999999999997,331.0,good
+524,524,Reltio,United States,Data management & analytics,1.7,3.3049999999999997,331.0,good
+525,525,H2O.Ai,United States,Artificial Intelligence,1.7,3.3049999999999997,331.0,good
+526,526,Zenbusiness,United States,Fintech,1.7,3.3049999999999997,331.0,good
+527,527,Carsome,Malaysia,E-commerce & direct-to-consumer,1.7,3.5250000000000004,1374.0,good
+528,528,Productboard,United States,Internet software & services,1.7,3.3049999999999997,331.0,good
+529,529,Spotter,United States,Fintech,1.7,3.3049999999999997,331.0,good
+530,530,Alan,France,Fintech,1.68,2.8,171.0,bad
+531,531,Hibob,Israel,Internet software & services,1.65,2.5700000000000003,385.0,bad
+532,532,Optimism,United States,Internet software & services,1.65,3.3049999999999997,331.0,good
+533,533,Trader Interactive,United States,Other,1.63,3.3049999999999997,331.0,good
+534,534,Jusfoun Big Data,China,Data management & analytics,1.62,3.175,130.0,bad
+535,535,Transcarent,United States,Health,1.62,3.3049999999999997,331.0,good
+536,536,Dealshare,India,E-commerce & direct-to-consumer,1.7,3.49,428.0,good
+537,537,Zhubajie,China,Internet software & services,1.61,3.175,130.0,bad
+538,538,Solarisbank,Germany,Fintech,1.65,3.44,2050.0,good
+539,539,Infinidat,United States,Hardware,1.6,3.3049999999999997,331.0,good
+540,540,Afiniti,Bermuda,Artificial Intelligence,1.6,2.27,16.0,bad
+541,541,Cao Cao Mobility,China,Auto & transportation,1.6,3.175,130.0,bad
+542,542,Verkada,United States,Cybersecurity,1.6,3.3049999999999997,331.0,good
+543,543,Clari,United States,Internet software & services,2.6,3.3049999999999997,331.0,good
+544,544,Tonal,United States,E-commerce & direct-to-consumer,1.6,3.3049999999999997,331.0,good
+545,545,Clio,Canada,Internet software & services,1.6,3.0599999999999996,1221.0,bad
+546,546,Safetyculture,Australia,Internet software & services,1.6,3.1849999999999996,786.0,bad
+547,547,Cresta,United States,Artificial Intelligence,1.6,3.3049999999999997,331.0,good
+548,548,Extend,United States,Fintech,1.36,3.3049999999999997,331.0,good
+549,549,Cognite,Norway,Data management & analytics,1.5,2.56,441.0,bad
+550,550,Asapp,United States,Artificial Intelligence,1.6,3.3049999999999997,331.0,good
+551,551,Smarthr,Japan,Fintech,1.6,2.865,1134.0,bad
+552,552,Mercury,United States,Fintech,1.6,3.3049999999999997,331.0,good
+553,553,Homelight,United States,Fintech,1.6,3.3049999999999997,331.0,good
+554,554,Truepill,United States,Health,1.6,3.3049999999999997,331.0,good
+555,555,Ezcater,United States,"Supply chain, logistics, & delivery",1.6,3.3049999999999997,331.0,good
+556,556,Wayflyer,Ireland,Fintech,1.6,2.685,722.0,bad
+557,557,Capitolis,United States,Fintech,1.6,3.3049999999999997,331.0,good
+558,558,Nord Security,Lithuania,Cybersecurity,1.6,2.8099999999999996,279.0,bad
+559,559,Promasidor Holdings,South Africa,Consumer & retail,1.59,3.415,627.0,good
+560,560,Baiwang,China,Fintech,1.55,3.175,130.0,bad
+561,561,Iluvatar Corex,China,Hardware,1.55,3.175,130.0,bad
+562,562,Wenheyou,China,Other,1.55,3.175,130.0,bad
+563,563,Loom,United States,Internet software & services,1.53,3.3049999999999997,331.0,good
+564,564,Ximalaya Fm,China,Mobile & telecommunications,1.52,3.175,130.0,bad
+565,565,Carzone,China,E-commerce & direct-to-consumer,1.52,3.175,130.0,bad
+566,566,Mu Sigma,United States,Data management & analytics,1.5,3.3049999999999997,331.0,good
+567,567,Tujia,China,Travel,1.5,3.175,130.0,bad
+568,568,Mofang Living,China,E-commerce & direct-to-consumer,1.5,3.175,130.0,bad
+569,569,Gett,United Kingdom,Auto & transportation,1.5,3.09,2499.0,bad
+570,570,Dt Dream,China,Data management & analytics,1.5,3.175,130.0,bad
+571,571,Changingedu,China,Edtech,1.5,3.175,130.0,bad
+572,572,Xiaozhu,China,Travel,1.5,3.175,130.0,bad
+573,573,Jolly Information Technology,China,E-commerce & direct-to-consumer,1.5,3.175,130.0,bad
+574,574,Yijiupi,China,Consumer & retail,1.5,3.175,130.0,bad
+575,575,Cambridge Mobile Telematics,United States,Mobile & telecommunications,1.5,3.3049999999999997,331.0,good
+576,576,Collective Health,United States,Fintech,1.5,3.3049999999999997,331.0,good
+577,577,Strava,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+578,578,Zenoti,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+579,579,K Health,United States,Health,1.5,3.3049999999999997,331.0,good
+580,580,Uplight,United States,Other,1.5,3.3049999999999997,331.0,good
+581,581,Id.Me,United States,Cybersecurity,1.5,3.3049999999999997,331.0,good
+582,582,Snapdocs,United States,Fintech,1.5,3.3049999999999997,331.0,good
+583,583,Chipper Cash,United States,Fintech,2.0,3.3049999999999997,331.0,good
+584,584,Ledger,France,Hardware,1.5,2.8,171.0,bad
+585,585,Next Silicon,Israel,Hardware,1.5,2.5700000000000003,385.0,bad
+586,586,Yunquna,China,"Supply chain, logistics, & delivery",1.5,3.175,130.0,bad
+587,587,Impact.Com,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+588,588,Smartrecruiters,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+589,589,Notco,Chile,Artificial Intelligence,1.5,2.83,447.0,bad
+590,590,Culture Amp,Australia,Internet software & services,1.5,3.1849999999999996,786.0,bad
+591,591,Taxbit,United States,Fintech,1.5,3.3049999999999997,331.0,good
+592,592,Pacaso,United States,Fintech,1.5,3.3049999999999997,331.0,good
+593,593,1047 Games,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+594,594,Matillion,United Kingdom,Data management & analytics,1.5,3.09,2499.0,bad
+595,595,Persona,United States,Cybersecurity,1.5,3.3049999999999997,331.0,good
+596,596,Whatnot,United States,E-commerce & direct-to-consumer,1.5,3.3049999999999997,331.0,good
+597,597,Ascend Money,Thailand,Fintech,1.5,4.07,3833.0,good
+598,598,Andela,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+599,599,Built,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+600,600,Candy.Com,United States,Fintech,1.5,3.3049999999999997,331.0,good
+601,601,Devo,United States,Data management & analytics,1.5,3.3049999999999997,331.0,good
+602,602,Coinlist,United States,Fintech,1.5,3.3049999999999997,331.0,good
+603,603,Lusha,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+604,604,Curefit,India,Health,1.5,3.49,428.0,good
+605,605,Solugen,United States,Other,1.5,3.3049999999999997,331.0,good
+606,606,Olist,Brazil,E-commerce & direct-to-consumer,1.5,3.1399999999999997,608.0,bad
+607,607,Paradox,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+608,608,Airbyte,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+609,609,Storedot,Israel,Other,1.5,2.5700000000000003,385.0,bad
+610,610,Il Makiage,United States,E-commerce & direct-to-consumer,1.5,3.3049999999999997,331.0,good
+611,611,Spendesk,France,Fintech,1.5,2.8,171.0,bad
+612,612,Veriff,Estonia,Artificial Intelligence,1.5,2.87,448.0,bad
+613,613,Athelas,United States,Health,1.5,3.3049999999999997,331.0,good
+614,614,Elasticrun,India,"Supply chain, logistics, & delivery",1.5,3.49,428.0,good
+615,615,Veho,United States,"Supply chain, logistics, & delivery",1.5,3.3049999999999997,331.0,good
+616,616,Temporal,United States,Internet software & services,1.5,3.3049999999999997,331.0,good
+617,617,Fabric,United States,E-commerce & direct-to-consumer,1.5,3.3049999999999997,331.0,good
+618,618,Zeta,United States,Fintech,1.5,3.3049999999999997,331.0,good
+619,619,Boba,United States,Fintech,1.5,3.3049999999999997,331.0,good
+620,620,Upside,United States,Mobile & telecommunications,1.5,3.3049999999999997,331.0,good
+621,621,Yipin Shengxian,China,E-commerce & direct-to-consumer,1.49,3.175,130.0,bad
+622,622,Bordrin Motors,China,Auto & transportation,1.48,3.175,130.0,bad
+623,623,Shukun Technology,China,Artificial Intelligence,1.46,3.175,130.0,bad
+624,624,Coocaa,China,Hardware,1.45,3.175,130.0,bad
+625,625,Juma Peisong,China,"Supply chain, logistics, & delivery",1.45,3.175,130.0,bad
+626,626,Ouyeel,China,Internet software & services,1.45,3.175,130.0,bad
+627,627,Gymshark,United Kingdom,E-commerce & direct-to-consumer,1.45,3.09,2499.0,bad
+628,628,M1 Finance,United States,Fintech,1.45,3.3049999999999997,331.0,good
+629,629,Aleo,United States,Cybersecurity,1.45,3.3049999999999997,331.0,good
+630,630,Einride,Sweden,Auto & transportation,1.44,3.06,752.0,bad
+631,631,Justworks,United States,Internet software & services,1.43,3.3049999999999997,331.0,good
+632,632,Valgen Medtech,China,Health,1.43,3.175,130.0,bad
+633,633,Sondermind,United States,Health,1.42,3.3049999999999997,331.0,good
+634,634,Papa,United States,Health,1.4,3.3049999999999997,331.0,good
+635,635,Figment,Canada,Internet software & services,1.4,3.0599999999999996,1221.0,bad
+636,636,Envoy,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+637,637,Deliverect,Belgium,Fintech,1.4,2.585,740.0,bad
+638,638,Sparkcognition,United States,Artificial Intelligence,1.4,3.3049999999999997,331.0,good
+639,639,Firebolt,Israel,Data management & analytics,1.4,2.5700000000000003,385.0,bad
+640,640,Koudai,China,E-commerce & direct-to-consumer,1.4,3.175,130.0,bad
+641,641,Symphony,United States,Fintech,1.4,3.3049999999999997,331.0,good
+642,642,Yidian Zixun,China,Mobile & telecommunications,1.4,3.175,130.0,bad
+643,643,Cabify,Spain,Auto & transportation,1.4,3.57,625.0,good
+644,644,Hive Box,China,"Supply chain, logistics, & delivery",1.4,3.175,130.0,bad
+645,645,Deezer,France,Internet software & services,1.4,2.8,171.0,bad
+646,646,Away,United States,E-commerce & direct-to-consumer,1.4,3.3049999999999997,331.0,good
+647,647,Kong,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+648,648,Epidemic Sound,Sweden,Internet software & services,1.4,3.06,752.0,bad
+649,649,Yotpo,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+650,650,Rebel Foods,India,E-commerce & direct-to-consumer,1.4,3.49,428.0,good
+651,651,Coda,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+652,652,Five Star Business Finance,India,Other,1.4,3.49,428.0,good
+653,653,Stash,United States,Fintech,1.4,3.3049999999999997,331.0,good
+654,654,Rad Power Bikes,United States,Auto & transportation,1.4,3.3049999999999997,331.0,good
+655,655,Clarify Health,United States,Health,1.4,3.3049999999999997,331.0,good
+656,656,Phenom People,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+657,657,Gupshup,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+658,658,Degreed,United States,Edtech,1.4,3.3049999999999997,331.0,good
+659,659,Astranis Space Technologies,United States,Mobile & telecommunications,1.4,3.3049999999999997,331.0,good
+660,660,Scalable Capital,Germany,Fintech,1.4,3.44,2050.0,good
+661,661,Videoamp,United States,Internet software & services,1.4,3.3049999999999997,331.0,good
+662,662,Panther Labs,United States,Cybersecurity,1.4,3.3049999999999997,331.0,good
+663,663,Salt Security,United States,Cybersecurity,1.4,3.3049999999999997,331.0,good
+664,664,Tripledot,United Kingdom,Mobile & telecommunications,1.4,3.09,2499.0,bad
+665,665,Veepee,France,E-commerce & direct-to-consumer,1.38,2.8,171.0,bad
+666,666,Neon,Brazil,Fintech,1.38,3.1399999999999997,608.0,bad
+667,667,Movable Ink,United States,Internet Software Services,1.36,3.3049999999999997,331.0,good
+668,668,Deepblue Technology,China,Artificial Intelligence,1.35,3.175,130.0,bad
+669,669,Klook,Hong Kong,Travel,1.35,2.97,717.0,bad
+670,670,Yaoshibang,China,Health,1.35,3.175,130.0,bad
+671,671,Alloy,United States,Fintech,1.35,3.3049999999999997,331.0,good
+672,672,Epirus,United States,Other,1.35,3.3049999999999997,331.0,good
+673,673,Signifyd,United States,Fintech,1.34,3.3049999999999997,331.0,good
+674,674,Motorway,United Kingdom,E-commerce & direct-to-consumer,1.33,3.09,2499.0,bad
+675,675,Ridi,South Korea,E-commerce & direct-to-consumer,1.33,3.17,775.0,bad
+676,676,Flipboard,United States,Internet software & services,1.32,3.3049999999999997,331.0,good
+677,677,Grove Collaborative,United States,E-commerce & direct-to-consumer,1.32,3.3049999999999997,331.0,good
+678,678,Gpclub,South Korea,Other,1.32,3.17,775.0,bad
+679,679,Tongdun Technology,China,Cybersecurity,1.32,3.175,130.0,bad
+680,680,Athletic Greens,United States,Health,1.32,3.3049999999999997,331.0,good
+681,681,Unisound,China,Artificial Intelligence,1.31,3.175,130.0,bad
+682,682,Alzheon,United States,Health,1.31,3.3049999999999997,331.0,good
+683,683,Heartflow,United States,Health,1.3,3.3049999999999997,331.0,good
+684,684,The Brandtech Group,United States,Other,1.3,3.3049999999999997,331.0,good
+685,685,Insightec,Israel,Health,1.3,2.5700000000000003,385.0,bad
+686,686,Everly Health,United States,E-commerce & direct-to-consumer,1.3,3.3049999999999997,331.0,good
+687,687,Manner,China,Other,1.3,3.175,130.0,bad
+688,688,Talkingdata,China,Mobile & telecommunications,1.3,3.175,130.0,bad
+689,689,Distrokid,United States,Internet software & services,1.3,3.3049999999999997,331.0,good
+690,690,Konfio,Mexico,Fintech,1.3,3.5700000000000003,1546.0,good
+691,691,Betterment,United States,Fintech,1.3,3.3049999999999997,331.0,good
+692,692,Flock Freight,United States,"Supply chain, logistics, & delivery",1.3,3.3049999999999997,331.0,good
+693,693,Yugabyte,United States,Data management & analytics,1.3,3.3049999999999997,331.0,good
+694,694,Lukka,United States,Fintech,1.3,3.3049999999999997,331.0,good
+695,695,Travelperk,Spain,Travel,1.3,3.57,625.0,good
+696,696,Itrustcapital,United States,Fintech,1.3,3.3049999999999997,331.0,good
+697,697,Domestika,United States,Internet software & services,1.3,3.3049999999999997,331.0,good
+698,698,Cointracker,United States,Fintech,1.3,3.3049999999999997,331.0,good
+699,699,Loadsmart,United States,"Supply chain, logistics, & delivery",1.3,3.3049999999999997,331.0,good
+700,700,Tungee,China,Artificial Intelligence,1.3,3.175,130.0,bad
+701,701,Credavenue,India,Fintech,1.3,3.49,428.0,good
+702,702,Linktree,Australia,Internet software & services,1.3,3.1849999999999996,786.0,bad
+703,703,Island,United States,Internet software & services,1.3,3.3049999999999997,331.0,good
+704,704,Clipboard Health,United States,Internet software & services,1.3,3.3049999999999997,331.0,good
+705,705,Biofourmis,United States,Health,1.3,3.3049999999999997,331.0,good
+706,706,Intercom,United States,Internet software & services,1.28,3.3049999999999997,331.0,good
+707,707,Ovo Energy,United Kingdom,Other,1.28,3.09,2499.0,bad
+708,708,Huisuanzhang,China,Fintech,1.28,3.175,130.0,bad
+709,709,Wtoip,China,Internet software & services,1.27,3.175,130.0,bad
+710,710,Bigid,United States,Cybersecurity,1.25,3.3049999999999997,331.0,good
+711,711,Kuaikan Manhua,China,Internet software & services,1.25,3.175,130.0,bad
+712,712,Marshmallow,United Kingdom,Fintech,1.25,3.09,2499.0,bad
+713,713,Honor Technology,United States,Internet software & services,1.25,3.3049999999999997,331.0,good
+714,714,Mythical Games,United States,Internet software & services,1.25,3.3049999999999997,331.0,good
+715,715,Incode Technologies,United States,Cybersecurity,1.25,3.3049999999999997,331.0,good
+716,716,Tackle.Io,United States,Internet software & services,1.25,3.3049999999999997,331.0,good
+717,717,Flipdish,Ireland,Internet software & services,1.25,2.685,722.0,bad
+718,718,Route,United States,"Supply chain, logistics, & delivery",1.25,3.3049999999999997,331.0,good
+719,719,Captivateiq,United States,Fintech,1.25,3.3049999999999997,331.0,good
+720,720,Brewdog,United Kingdom,Consumer & retail,1.24,3.09,2499.0,bad
+721,721,Enflame,China,Hardware,1.24,3.175,130.0,bad
+722,722,Shulan Health,China,Health,1.24,3.175,130.0,bad
+723,723,Eqrx,United States,Health,1.23,3.3049999999999997,331.0,good
+724,724,Nexii,Canada,Other,1.23,3.0599999999999996,1221.0,bad
+725,725,Galaxyspace,China,Mobile & telecommunications,1.22,3.175,130.0,bad
+726,726,Spiber,Japan,Other,1.22,2.865,1134.0,bad
+727,727,Insider,Turkey,Internet software & services,1.22,3.3049999999999997,1527.0,good
+728,728,Yiguo,China,"Supply chain, logistics, & delivery",1.2,3.175,130.0,bad
+729,729,Fair,United States,Auto & transportation,1.2,3.3049999999999997,331.0,good
+730,730,Glossier,United States,Consumer & retail,1.65,3.3049999999999997,331.0,good
+731,731,Workhuman,Ireland,Internet software & services,1.2,2.685,722.0,bad
+732,732,Qumulo,United States,Data management & analytics,1.2,3.3049999999999997,331.0,good
+733,733,Tealium,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+734,734,Public,United States,Fintech,1.2,3.3049999999999997,331.0,good
+735,735,Pipa Coding,China,Edtech,1.2,3.175,130.0,bad
+736,736,Pilot.Com,United States,Fintech,1.2,3.3049999999999997,331.0,good
+737,737,Aibee,China,Artificial Intelligence,1.0,3.175,130.0,bad
+738,738,Cava Group,United States,Other,1.3,3.3049999999999997,331.0,good
+739,739,Vectra Networks,United States,Artificial Intelligence,1.2,3.3049999999999997,331.0,good
+740,740,Ada Support,Canada,Artificial Intelligence,1.2,3.0599999999999996,1221.0,bad
+741,741,Inari,United States,Other,1.2,3.3049999999999997,331.0,good
+742,742,Alation,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+743,743,Smartmore,China,Artificial Intelligence,1.2,3.175,130.0,bad
+744,744,Rohlik,Czechia,"Supply chain, logistics, & delivery",1.2,3.25,1349.0,bad
+745,745,Prime Medicine,United States,Health,1.2,3.3049999999999997,331.0,good
+746,746,Floqast,United States,Fintech,1.2,3.3049999999999997,331.0,good
+747,747,Mindtickle,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+748,748,Dailypay,United States,Fintech,1.2,3.3049999999999997,331.0,good
+749,749,Oda,Norway,E-commerce & direct-to-consumer,1.2,2.56,441.0,bad
+750,750,Offchain Labs,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+751,751,Copado,United States,Data management & analytics,1.2,3.3049999999999997,331.0,good
+752,752,Gem,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+753,753,Cardekho,India,E-commerce & direct-to-consumer,1.2,3.49,428.0,good
+754,754,Myglamm,India,E-commerce & direct-to-consumer,1.2,3.49,428.0,good
+755,755,Agentsync,United States,Fintech,1.2,3.3049999999999997,331.0,good
+756,756,Pristyn Care,India,Health,1.4,3.49,428.0,good
+757,757,Jokr,United States,E-commerce & direct-to-consumer,1.2,3.3049999999999997,331.0,good
+758,758,Merama,Mexico,E-commerce & direct-to-consumer,1.2,3.5700000000000003,1546.0,good
+759,759,Seekout,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+760,760,Bigpanda,United States,Artificial Intelligence,1.2,3.3049999999999997,331.0,good
+761,761,Phantom,United States,Fintech,1.2,3.3049999999999997,331.0,good
+762,762,Livspace,India,E-commerce & direct-to-consumer,1.2,3.49,428.0,good
+763,763,Xpressbees,India,"Supply chain, logistics, & delivery",1.2,3.49,428.0,good
+764,764,Helium Systems,United States,Internet software & services,1.2,3.3049999999999997,331.0,good
+765,765,Choco,Germany,E-commerce & direct-to-consumer,1.2,3.44,2050.0,good
+766,766,Viz.Ai,United States,Artificial Intelligence,1.2,3.3049999999999997,331.0,good
+767,767,Cloudbees,United States,Data management & analytics,1.15,3.3049999999999997,331.0,good
+768,768,L&P Cosmetic,South Korea,Consumer & retail,1.19,3.17,775.0,bad
+769,769,Mininglamp Technology,China,Artificial Intelligence,1.19,3.175,130.0,bad
+770,770,Luoji Siwei,China,Edtech,1.18,3.175,130.0,bad
+771,771,Yimidida,China,"Supply chain, logistics, & delivery",1.17,3.175,130.0,bad
+772,772,Modern Health,United States,Health,1.17,3.3049999999999997,331.0,good
+773,773,Irl,United States,Internet software & services,1.17,3.3049999999999997,331.0,good
+774,774,Tuhu,China,Auto & transportation,1.16,3.175,130.0,bad
+775,775,Lifemiles,Colombia,Other,1.15,3.255,1471.0,bad
+776,776,Venafi,United States,Cybersecurity,1.15,3.3049999999999997,331.0,good
+777,777,Guideline,United States,Fintech,1.15,3.3049999999999997,331.0,good
+778,778,Rebellion Defense,United States,Artificial Intelligence,1.15,3.3049999999999997,331.0,good
+779,779,Elemy,United States,Health,1.15,3.3049999999999997,331.0,good
+780,780,Happy Money,United States,Fintech,1.15,3.3049999999999997,331.0,good
+781,781,Stord,United States,"Supply chain, logistics, & delivery",1.13,3.3049999999999997,331.0,good
+782,782,Teld,China,Fintech,1.12,3.175,130.0,bad
+783,783,At-Bay,United States,Fintech,1.12,3.3049999999999997,331.0,good
+784,784,Tangome,United States,Mobile & telecommunications,1.1,3.3049999999999997,331.0,good
+785,785,Appdirect,United States,E-commerce & direct-to-consumer,1.1,3.3049999999999997,331.0,good
+786,786,Juanpi,China,E-commerce & direct-to-consumer,1.1,3.175,130.0,bad
+787,787,Ovh,France,Other,1.1,2.8,171.0,bad
+788,788,Getyourguide,Germany,Travel,1.1,3.44,2050.0,good
+789,789,Ivalua,United States,Fintech,1.1,3.3049999999999997,331.0,good
+790,790,Sisense,United States,Data management & analytics,1.1,3.3049999999999997,331.0,good
+791,791,Pharmapacks,United States,E-commerce & direct-to-consumer,1.1,3.3049999999999997,331.0,good
+792,792,Sennder,Germany,"Supply chain, logistics, & delivery",1.1,3.44,2050.0,good
+793,793,Nexthink,Switzerland,Data management & analytics,1.1,2.68,746.0,bad
+794,794,Zego,United Kingdom,Fintech,1.1,3.09,2499.0,bad
+795,795,Rightway,United States,Health,1.1,3.3049999999999997,331.0,good
+796,796,Sunbit,United States,Fintech,1.1,3.3049999999999997,331.0,good
+797,797,Qingting Fm,China,Internet software & services,1.1,3.175,130.0,bad
+798,798,G2,United States,Internet software & services,1.1,3.3049999999999997,331.0,good
+799,799,Hailo,Israel,Artificial Intelligence,1.0,2.5700000000000003,385.0,bad
+800,800,People.Ai,United States,Internet software & services,1.1,3.3049999999999997,331.0,good
+801,801,Carousell,Singapore,E-commerce & direct-to-consumer,1.1,3.01,1260.0,bad
+802,802,Apna,India,Internet software & services,1.1,3.49,428.0,good
+803,803,Karat,United States,Internet software & services,1.1,3.3049999999999997,331.0,good
+804,804,Enpal,Germany,Internet software & services,1.1,3.44,2050.0,good
+805,805,Acko General Insurance,India,Fintech,1.1,3.49,428.0,good
+806,806,Daily Harvest,United States,E-commerce & direct-to-consumer,1.1,3.3049999999999997,331.0,good
+807,807,The Bank Of London,United Kingdom,Fintech,1.1,3.09,2499.0,bad
+808,808,Fundbox,United States,Fintech,1.1,3.3049999999999997,331.0,good
+809,809,Turing,United States,Internet software & services,1.1,3.3049999999999997,331.0,good
+810,810,Globalbees,India,E-commerce & direct-to-consumer,1.1,3.49,428.0,good
+811,811,Lead School,India,Edtech,1.1,3.49,428.0,good
+812,812,Esentire,Canada,Cybersecurity,1.1,3.0599999999999996,1221.0,bad
+813,813,Beyond Identity,United States,Cybersecurity,1.1,3.3049999999999997,331.0,good
+814,814,Staffbase,Germany,Internet software & services,1.1,3.44,2050.0,good
+815,815,Chief,United States,Other,1.1,3.3049999999999997,331.0,good
+816,816,Intelycare,United States,Health,1.1,3.3049999999999997,331.0,good
+817,817,Teleport,United States,Cybersecurity,1.1,3.3049999999999997,331.0,good
+818,818,Nxin,China,Internet software & services,1.08,3.175,130.0,bad
+819,819,Uisee Technology,China,"Supply chain, logistics, & delivery",1.08,3.175,130.0,bad
+820,820,56Pingtai,China,"Supply chain, logistics, & delivery",1.08,3.175,130.0,bad
+821,821,Rubicon,United States,Other,1.07,3.3049999999999997,331.0,good
+822,822,Radius Payment Solutions,United Kingdom,Fintech,1.07,3.09,2499.0,bad
+823,823,Rivigo,India,"Supply chain, logistics, & delivery",1.07,3.49,428.0,good
+824,824,Mamaearth,India,E-commerce & direct-to-consumer,1.07,3.49,428.0,good
+825,825,Jiuxian,China,E-commerce & direct-to-consumer,1.05,3.175,130.0,bad
+826,826,Instabase,United States,Data management & analytics,1.05,3.3049999999999997,331.0,good
+827,827,Sendbird,United States,Mobile & telecommunications,1.05,3.3049999999999997,331.0,good
+828,828,Density,United States,Hardware,1.05,3.3049999999999997,331.0,good
+829,829,Mixpanel,United States,Internet software & services,1.05,3.3049999999999997,331.0,good
+830,830,Aprogen,South Korea,Health,1.04,3.17,775.0,bad
+831,831,Orcam Technologies,Israel,Artificial Intelligence,1.03,2.5700000000000003,385.0,bad
+832,832,Leap Motor,China,Auto & transportation,1.01,3.175,130.0,bad
+833,833,Lookout,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+834,834,Snapdeal,India,E-commerce & direct-to-consumer,1.0,3.49,428.0,good
+835,835,Techstyle Fashion Group,United States,E-commerce & direct-to-consumer,1.0,3.3049999999999997,331.0,good
+836,836,Inmobi,India,Mobile & telecommunications,1.0,3.49,428.0,good
+837,837,Linksure Network,China,Mobile & telecommunications,1.0,3.175,130.0,bad
+838,838,Red Ventures,United States,Other,1.0,3.3049999999999997,331.0,good
+839,839,Beibei,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+840,840,Lamabang,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+841,841,Jimubox,China,Fintech,1.0,3.175,130.0,bad
+842,842,Fxiaoke,China,Mobile & telecommunications,1.0,3.175,130.0,bad
+843,843,Vox Media,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+844,844,Mia.Com,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+845,845,58 Daojia,China,Internet software & services,1.0,3.175,130.0,bad
+846,846,Womai,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+847,847,Hujiang,China,Edtech,1.0,3.175,130.0,bad
+848,848,Itutorgroup,China,Edtech,1.0,3.175,130.0,bad
+849,849,Mindmaze,Switzerland,Health,1.0,2.68,746.0,bad
+850,850,Icarbonx,China,Artificial Intelligence,1.0,3.175,130.0,bad
+851,851,Sms Assist,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+852,852,Kendra Scott,United States,Consumer & retail,1.0,3.3049999999999997,331.0,good
+853,853,Mobvoi,China,Consumer & retail,1.0,3.175,130.0,bad
+854,854,Zhuan Zhuan,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+855,855,Modernizing Medicine,United States,Health,1.0,3.3049999999999997,331.0,good
+856,856,Zhaogang,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+857,857,Dianrong,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+858,858,Cell C,South Africa,Mobile & telecommunications,1.0,3.415,627.0,good
+859,859,Yh Global,China,"Supply chain, logistics, & delivery",1.0,3.175,130.0,bad
+860,860,Revolution Precrafted,Philippines,Other,1.0,3.3600000000000003,198.0,good
+861,861,Welab,Hong Kong,Fintech,1.0,2.97,717.0,bad
+862,862,Maimai,China,Mobile & telecommunications,1.0,3.175,130.0,bad
+863,863,Dxy.Cn,China,Health,1.0,3.175,130.0,bad
+864,864,Orbbec Technology,China,Hardware,1.0,3.175,130.0,bad
+865,865,Hmd Global,Finland,Mobile & telecommunications,1.0,2.975,42.0,bad
+866,866,Huike Group,China,Edtech,1.0,3.175,130.0,bad
+867,867,China Cloud,China,Hardware,1.0,3.175,130.0,bad
+868,868,Soundhound,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+869,869,Linkdoc Technology,China,Health,1.0,3.175,130.0,bad
+870,870,Mediamath,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+871,871,Movile,Brazil,Mobile & telecommunications,1.0,3.1399999999999997,608.0,bad
+872,872,Kuaigou Dache,China,"Supply chain, logistics, & delivery",1.0,3.175,130.0,bad
+873,873,Pat Mcgrath Labs,United States,Consumer & retail,1.0,3.3049999999999997,331.0,good
+874,874,Wacai,China,Mobile & telecommunications,1.0,3.175,130.0,bad
+875,875,Flashex,China,"Supply chain, logistics, & delivery",1.0,3.175,130.0,bad
+876,876,Banma Network Technologies,China,Auto & transportation,1.0,3.175,130.0,bad
+877,877,Tresata,United States,Fintech,1.0,3.3049999999999997,331.0,good
+878,878,Momenta,China,Artificial Intelligence,1.0,3.175,130.0,bad
+879,879,Hosjoy,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+880,880,Omio,Germany,Travel,1.0,3.44,2050.0,good
+881,881,Terminus Technology,China,Hardware,1.0,3.175,130.0,bad
+882,882,Bitfury,Netherlands,Hardware,1.0,3.085,1784.0,bad
+883,883,Ifood,Brazil,"Supply chain, logistics, & delivery",1.0,3.1399999999999997,608.0,bad
+884,884,Geek+,China,Hardware,1.0,3.175,130.0,bad
+885,885,Reef Technology,United States,"Supply chain, logistics, & delivery",1.0,3.3049999999999997,331.0,good
+886,886,Globality,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+887,887,Ynsect,France,Other,1.0,2.8,171.0,bad
+888,888,Intellifusion,China,Artificial Intelligence,1.0,3.175,130.0,bad
+889,889,Poizon,China,Mobile & telecommunications,1.0,3.175,130.0,bad
+890,890,Vts,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+891,891,Sitech Dev,China,Other,1.0,3.175,130.0,bad
+892,892,Knowbox,China,Edtech,1.0,3.175,130.0,bad
+893,893,Yanolja,South Korea,Travel,1.0,3.17,775.0,bad
+894,894,Meero,France,Artificial Intelligence,1.0,2.8,171.0,bad
+895,895,Sumup,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+896,896,Ibotta,United States,Fintech,1.0,3.3049999999999997,331.0,good
+897,897,C2Fo,United States,Fintech,1.0,3.3049999999999997,331.0,good
+898,898,Numbrs,Switzerland,Fintech,1.0,2.68,746.0,bad
+899,899,Ebanx,Brazil,Fintech,1.0,3.1399999999999997,608.0,bad
+900,900,Kk Group,China,E-commerce & direct-to-consumer,3.0,3.175,130.0,bad
+901,901,Alto Pharmacy,United States,Health,1.0,3.3049999999999997,331.0,good
+902,902,Hotmart,Netherlands,E-commerce & direct-to-consumer,1.0,3.085,1784.0,bad
+903,903,Emerging Markets Property Group,United Arab Emirates,Other,1.0,2.69,921.0,bad
+904,904,Quizlet,United States,Edtech,1.0,3.3049999999999997,331.0,good
+905,905,Orca Bio,United States,Health,1.0,3.3049999999999997,331.0,good
+906,906,Newlink Group,China,E-commerce & direct-to-consumer,1.0,3.175,130.0,bad
+907,907,Infobip,Croatia,Mobile & telecommunications,1.0,3.285,520.0,bad
+908,908,Zwift,United States,E-commerce & direct-to-consumer,1.0,3.3049999999999997,331.0,good
+909,909,Playco,Japan,Other,1.0,2.865,1134.0,bad
+910,910,Socar,South Korea,Auto & transportation,1.07,3.17,775.0,bad
+911,911,Gousto,United Kingdom,"Supply chain, logistics, & delivery",1.7,3.09,2499.0,bad
+912,912,Boom Supersonic,United States,Other,1.0,3.3049999999999997,331.0,good
+913,913,Quantum Metric,United States,Data management & analytics,1.0,3.3049999999999997,331.0,good
+914,914,News Break,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+915,915,Madeiramadeira,Brazil,E-commerce & direct-to-consumer,1.0,3.1399999999999997,608.0,bad
+916,916,Ppro,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+917,917,Splashtop,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+918,918,Drivenets,Israel,Internet software & services,1.0,2.5700000000000003,385.0,bad
+919,919,Flash Express,Thailand,"Supply chain, logistics, & delivery",1.0,4.07,3833.0,good
+920,920,Axiom Space,United States,Other,1.0,3.3049999999999997,331.0,good
+921,921,Locus Robotics,United States,Hardware,1.0,3.3049999999999997,331.0,good
+922,922,Standard,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+923,923,Sentry,United States,Other,1.0,3.3049999999999997,331.0,good
+924,924,Webull,China,Fintech,1.0,3.175,130.0,bad
+925,925,Skydio,United States,"Supply chain, logistics, & delivery",1.0,3.3049999999999997,331.0,good
+926,926,Newsela,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+927,927,Aqua Security,Israel,Cybersecurity,1.0,2.5700000000000003,385.0,bad
+928,928,Patsnap,Singapore,Internet software & services,1.0,3.01,1260.0,bad
+929,929,Evidation,United States,Health,1.0,3.3049999999999997,331.0,good
+930,930,Sidecar Health,United States,Fintech,1.0,3.3049999999999997,331.0,good
+931,931,Feedzai,Portugal,Artificial Intelligence,1.0,4.109999999999999,2659.0,good
+932,932,Yunxuetang,China,Edtech,1.0,3.175,130.0,bad
+933,933,Cameo,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+934,934,Hyperchain,China,Fintech,1.0,3.175,130.0,bad
+935,935,The Zebra,United States,E-commerce & direct-to-consumer,1.0,3.3049999999999997,331.0,good
+936,936,Clearcover,United States,Fintech,1.0,3.3049999999999997,331.0,good
+937,937,Groq,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+938,938,Fiture,China,Health,1.0,3.175,130.0,bad
+939,939,Injective Protocol,United States,Fintech,1.0,3.3049999999999997,331.0,good
+940,940,Sift,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+941,941,Saltpay,Portugal,Fintech,1.0,4.109999999999999,2659.0,good
+942,942,Capsule,United States,Health,1.0,3.3049999999999997,331.0,good
+943,943,Moloco,United States,Artificial Intelligence,1.5,3.3049999999999997,331.0,good
+944,944,Mux,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+945,945,Xforceplus,China,Internet software & services,1.0,3.175,130.0,bad
+946,946,Firefly Aerospace,United States,Other,1.1,3.3049999999999997,331.0,good
+947,947,Shift Technology,France,Artificial Intelligence,1.0,2.8,171.0,bad
+948,948,Tenstorrent,Canada,Artificial Intelligence,1.0,3.0599999999999996,1221.0,bad
+949,949,Zihaiguo,China,Consumer & retail,1.0,3.175,130.0,bad
+950,950,Forte Labs,United States,Fintech,1.73,3.3049999999999997,331.0,good
+951,951,Axtria,United States,Data management & analytics,1.0,3.3049999999999997,331.0,good
+952,952,Amount,United States,Fintech,1.0,3.3049999999999997,331.0,good
+953,953,Vise,United States,Fintech,1.0,3.3049999999999997,331.0,good
+954,954,Printful,United States,Other,1.0,3.3049999999999997,331.0,good
+955,955,Matrixport,Singapore,Fintech,1.05,3.01,1260.0,bad
+956,956,Shippo,United States,"Supply chain, logistics, & delivery",1.0,3.3049999999999997,331.0,good
+957,957,Thirty Madison,United States,Health,1.0,3.3049999999999997,331.0,good
+958,958,Letsgetchecked,Ireland,Health,1.0,2.685,722.0,bad
+959,959,Ecoflow,China,Hardware,1.0,3.175,130.0,bad
+960,960,Carro,Singapore,E-commerce & direct-to-consumer,1.0,3.01,1260.0,bad
+961,961,Tractable,United Kingdom,Artificial Intelligence,1.0,3.09,2499.0,bad
+962,962,Xiaoe Tech,China,Internet software & services,1.0,3.175,130.0,bad
+963,963,Bringg,Israel,"Supply chain, logistics, & delivery",1.0,2.5700000000000003,385.0,bad
+964,964,Claroty,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+965,965,Joytunes,Israel,Edtech,1.0,2.5700000000000003,385.0,bad
+966,966,Aircall,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+967,967,Worldcoin,United States,Fintech,1.0,3.3049999999999997,331.0,good
+968,968,Smartasset,United States,Fintech,1.0,3.3049999999999997,331.0,good
+969,969,Morning Consult,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+970,970,Visier,Canada,Internet software & services,1.0,3.0599999999999996,1221.0,bad
+971,971,Shipbob,United States,"Supply chain, logistics, & delivery",1.0,3.3049999999999997,331.0,good
+972,972,Kitopi,United Arab Emirates,"Supply chain, logistics, & delivery",1.0,2.69,921.0,bad
+973,973,Bolttech,Singapore,Fintech,1.0,3.01,1260.0,bad
+974,974,Mobilecoin,United States,Fintech,1.06,3.3049999999999997,331.0,good
+975,975,Amperity,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+976,976,Pantheon Systems,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+977,977,Xiaobing,China,Fintech,1.0,3.175,130.0,bad
+978,978,Dmed Biopharmaceutical,China,Health,1.0,3.175,130.0,bad
+979,979,Carson Group,United States,Fintech,1.0,3.3049999999999997,331.0,good
+980,980,Go1,Australia,Internet software & services,1.0,3.1849999999999996,786.0,bad
+981,981,Interos,United States,Fintech,1.0,3.3049999999999997,331.0,good
+982,982,Blackbuck,India,"Supply chain, logistics, & delivery",1.0,3.49,428.0,good
+983,983,Nium,Singapore,Fintech,1.0,3.01,1260.0,bad
+984,984,Human Interest,United States,Fintech,1.0,3.3049999999999997,331.0,good
+985,985,Bluecore,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+986,986,Freshbooks,Canada,Fintech,1.0,3.0599999999999996,1221.0,bad
+987,987,Snorkel Ai,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+988,988,Gelato,Norway,E-commerce & direct-to-consumer,1.0,2.56,441.0,bad
+989,989,Maven Clinic,United States,Health,1.0,3.3049999999999997,331.0,good
+990,990,Dunamu,South Korea,Fintech,1.0,3.17,775.0,bad
+991,991,Shield Ai,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+992,992,Picsart,United States,Mobile & telecommunications,1.0,3.3049999999999997,331.0,good
+993,993,1Kmxc,China,Hardware,1.0,3.175,130.0,bad
+994,994,Cider,Hong Kong,E-commerce & direct-to-consumer,1.0,2.97,717.0,bad
+995,995,Berlin Brands Group,Germany,E-commerce & direct-to-consumer,1.0,3.44,2050.0,good
+996,996,Agile Robots,Germany,Hardware,1.0,3.44,2050.0,good
+997,997,Grubmarket,United States,E-commerce & direct-to-consumer,1.2,3.3049999999999997,331.0,good
+998,998,Mammoth Biosciences,United States,Health,1.0,3.3049999999999997,331.0,good
+999,999,Orchard,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1000,1000,Xendit,Indonesia,Fintech,1.0,3.7199999999999998,2250.0,good
+1001,1001,Truelayer,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+1002,1002,Assembly,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1003,1003,Pandadoc,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1004,1004,Keenon Robotics,China,"Supply chain, logistics, & delivery",1.0,3.175,130.0,bad
+1005,1005,Haydon,China,Consumer & retail,1.0,3.175,130.0,bad
+1006,1006,Ninja Van,Singapore,"Supply chain, logistics, & delivery",1.0,3.01,1260.0,bad
+1007,1007,Vedantu,India,Edtech,1.0,3.49,428.0,good
+1008,1008,Trialspark,United States,Health,1.0,3.3049999999999997,331.0,good
+1009,1009,Ajaib,Indonesia,Fintech,1.0,3.7199999999999998,2250.0,good
+1010,1010,Licious,India,E-commerce & direct-to-consumer,1.0,3.49,428.0,good
+1011,1011,Masterworks,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1012,1012,Chronosphere,United States,Data management & analytics,1.0,3.3049999999999997,331.0,good
+1013,1013,Solo.Io,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1014,1014,Savage X Fenty,United States,E-commerce & direct-to-consumer,1.0,3.3049999999999997,331.0,good
+1015,1015,Swile,France,Fintech,1.0,2.8,171.0,bad
+1016,1016,Mobikwik,India,Fintech,1.0,3.49,428.0,good
+1017,1017,Weights & Biases,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1018,1018,Zopa,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+1019,1019,Dental Monitoring,France,Health,1.0,2.8,171.0,bad
+1020,1020,Cargox,Brazil,"Supply chain, logistics, & delivery",1.0,3.1399999999999997,608.0,bad
+1021,1021,Augury,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+1022,1022,Moka,China,Internet software & services,1.0,3.175,130.0,bad
+1023,1023,Tezign,China,Internet software & services,1.0,3.175,130.0,bad
+1024,1024,Vagaro,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1025,1025,Drata,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1026,1026,Razor,Germany,Consumer & retail,1.0,3.44,2050.0,good
+1027,1027,Openweb,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1028,1028,Contrast Security,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1029,1029,Wrapbook,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1030,1030,Gaussian Robotics,China,Hardware,1.1,3.175,130.0,bad
+1031,1031,Mensa Brands,India,Other,1.0,3.49,428.0,good
+1032,1032,Heyday,United States,E-commerce & direct-to-consumer,1.0,3.3049999999999997,331.0,good
+1033,1033,Place,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1034,1034,Stytch,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1035,1035,Owkin,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+1036,1036,Expel,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1037,1037,Nobroker,India,Internet software & services,1.0,3.49,428.0,good
+1038,1038,Slice,India,Fintech,1.0,3.49,428.0,good
+1039,1039,Thought Machine,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+1040,1040,Lessen,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1041,1041,Clara,Mexico,Fintech,1.0,3.5700000000000003,1546.0,good
+1042,1042,Yipitdata,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1043,1043,Anyscale,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+1044,1044,Iodine Software,United States,Data management & analytics,1.0,3.3049999999999997,331.0,good
+1045,1045,Reliaquest,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1046,1046,Pet Circle,Australia,E-commerce & direct-to-consumer,1.0,3.1849999999999996,786.0,bad
+1047,1047,Nature'S Fynd,United States,Other,1.0,3.3049999999999997,331.0,good
+1048,1048,Lydia,France,Fintech,1.0,2.8,171.0,bad
+1049,1049,Sellerx,Germany,E-commerce & direct-to-consumer,1.0,3.44,2050.0,good
+1050,1050,Snaplogic,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1051,1051,Cadence,United States,Health,1.0,3.3049999999999997,331.0,good
+1052,1052,Noname Security,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1053,1053,Rothy'S,United States,Consumer & retail,1.0,3.3049999999999997,331.0,good
+1054,1054,Voi,Sweden,Travel,1.0,3.06,752.0,bad
+1055,1055,Haomao.Ai,China,Artificial Intelligence,1.0,3.175,130.0,bad
+1056,1056,Kopi Kenangan,Indonesia,Consumer & retail,1.0,3.7199999999999998,2250.0,good
+1057,1057,Infarm,Germany,Other,1.0,3.44,2050.0,good
+1058,1058,One,Singapore,Internet software & services,1.0,3.01,1260.0,bad
+1059,1059,Fractal Analytics,India,Data management & analytics,1.0,3.49,428.0,good
+1060,1060,Assent,Canada,"Supply chain, logistics, & delivery",1.0,3.0599999999999996,1221.0,bad
+1061,1061,Cais,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1062,1062,Placer.Ai,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+1063,1063,Pentera,Israel,Cybersecurity,1.0,2.5700000000000003,385.0,bad
+1064,1064,Darwinbox,India,Internet software & services,1.0,3.49,428.0,good
+1065,1065,Minio,United States,Data management & analytics,1.0,3.3049999999999997,331.0,good
+1066,1066,Fever Labs,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1067,1067,Esusu,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1068,1068,Betterfly,Chile,Artificial Intelligence,1.0,2.83,447.0,bad
+1069,1069,Dune Analytics,Norway,Data management & analytics,1.0,2.56,441.0,bad
+1070,1070,Scandit,Switzerland,"Supply chain, logistics, & delivery",1.0,2.68,746.0,bad
+1071,1071,Payhawk,United Kingdom,Fintech,1.0,3.09,2499.0,bad
+1072,1072,Watershed,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1073,1073,Axelar,Canada,Internet software & services,1.0,3.0599999999999996,1221.0,bad
+1074,1074,Cheq,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1075,1075,Hasura,India,Internet software & services,1.0,3.49,428.0,good
+1076,1076,Timescale,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1077,1077,Scalapay,Italy,Fintech,1.0,2.615,641.0,bad
+1078,1078,Omada Health,United States,Health,1.0,3.3049999999999997,331.0,good
+1079,1079,Bluevoyant,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1080,1080,Veev,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1081,1081,Gauntlet Networks,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1082,1082,Aptos,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1083,1083,Amagi,India,Internet software & services,1.0,3.49,428.0,good
+1084,1084,Glia,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1085,1085,Commerceiq,United States,Artificial Intelligence,1.0,3.3049999999999997,331.0,good
+1086,1086,Rapidapi,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1087,1087,Tarana Wireless,United States,Mobile & telecommunications,1.0,3.3049999999999997,331.0,good
+1088,1088,Flash,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1089,1089,Electric,United States,Cybersecurity,1.0,3.3049999999999997,331.0,good
+1090,1090,Layerzero Labs,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1091,1091,Bostongene,United States,Health,1.0,3.3049999999999997,331.0,good
+1092,1092,Grover,Germany,E-commerce & direct-to-consumer,1.0,3.44,2050.0,good
+1093,1093,Genies,United States,Internet software & services,1.0,3.3049999999999997,331.0,good
+1094,1094,Oyster,United States,Fintech,1.0,3.3049999999999997,331.0,good
+1095,1095,Nexhealth,United States,Health,1.0,3.3049999999999997,331.0,good
+1096,1096,Instabox,Sweden,"Supply chain, logistics, & delivery",1.0,3.06,752.0,bad
+1097,1097,Upside Foods,United States,Other,1.0,3.3049999999999997,331.0,good
+1098,1098,Divergent 3D,United States,Auto & transportation,1.0,3.3049999999999997,331.0,good
+1099,1099,Taxfix,Germany,Fintech,1.0,3.44,2050.0,good
+1100,1100,Open,India,Fintech,1.0,3.49,428.0,good
+1101,1101,Polarium,Sweden,Other,1.0,3.06,752.0,bad
+1102,1102,Telegram,United Kingdom,Internet,30.0,3.09,2499.0,bad
+1103,1103,Trendyol,Turkey,E-commerce,16.5,3.3049999999999997,1527.0,good
+1104,1104,Dji,China,Technology,15.0,3.175,130.0,bad
+1105,1105,Bitmain,China,Cryptocurrency,12.0,3.175,130.0,bad
+1106,1106,Sensetime,China,Artificial Intelligence,12.0,3.175,130.0,bad
+1107,1107,Bolt Financial,United States,Financial technology,11.0,3.3049999999999997,331.0,good
+1108,1108,Aurora,United States,Self-driving cars,10.0,3.3049999999999997,331.0,good
+1109,1109,Kucoin,Seychelles,Cryptocurrency,10.0,,,
+1110,1110,Oyo,India,Hospitality,9.6,3.49,428.0,good
+1111,1111,Starkware Industries,Israel,Blockchain,8.0,2.5700000000000003,385.0,bad
+1112,1112,Wedoctor,China,Healthcare,6.8,3.175,130.0,bad
+1113,1113,Lianjia (Homelink),China,Real estate,6.04,3.175,130.0,bad
+1114,1114,Xingsheng Youxuan,China,Retail,6.0,3.175,130.0,bad
+1115,1115,Pharmeasy,India,Health technology,5.6,3.49,428.0,good
+1116,1116,Phonepe,India,Financial technology,5.5,3.49,428.0,good
+1117,1117,Viva Republica (Toss),South Korea,Financial technology,5.48,3.17,775.0,bad
+1118,1118,Sambanova,United States,Artificial Intelligence,5.1,3.3049999999999997,331.0,good
+1119,1119,Cloudkitchens,United States,Ghost kitchen,5.0,3.3049999999999997,331.0,good
+1120,1120,Ola Electric,India,Electric vehicles,5.0,3.49,428.0,good
+1121,1121,Royole,China,Flexible electronics,5.0,3.175,130.0,bad
+1122,1122,Animoca Brands,Hong Kong,Blockchain gaming,5.0,2.97,717.0,bad
+1123,1123,Octopus Energy,United Kingdom,Energy,5.0,3.09,2499.0,bad
+1124,1124,Anduril Industries,United States,Defense technology,4.6,3.3049999999999997,331.0,good
+1125,1125,Zenefits,United States,Human resource management,4.5,3.3049999999999997,331.0,good
+1126,1126,Meizu,China,Consumer electronics,4.4,3.175,130.0,bad
+1127,1127,Branch Metrics,United States,Marketing,4.0,3.3049999999999997,331.0,good
+1128,1128,Quintoandar [Pt],Brazil,Real estate,4.0,3.1399999999999997,608.0,bad
+1129,1129,Shouqi,China,Transportation,3.55,3.175,130.0,bad
+1130,1130,Plus.Ai,United States,Self-driving trucks,3.3,3.3049999999999997,331.0,good
+1131,1131,Starburst Data,United States,Data analytics,3.3,3.3049999999999997,331.0,good
+1132,1132,Eruditus,India,Educational technology,3.2,3.49,428.0,good
+1133,1133,Tiendanube,Argentina,E-commerce,3.1,3.465,927.0,good
+1134,1134,Sentinelone,United States,Cybersecurity,3.1,3.3049999999999997,331.0,good
+1135,1135,Wildlife,Brazil,Mobile gaming,3.0,3.1399999999999997,608.0,bad
+1136,1136,"Age Of Learning, Inc.",United States,Education,3.0,3.3049999999999997,331.0,good
+1137,1137,Souche,China,Marketplace,3.0,3.175,130.0,bad
+1138,1138,Vancl,China,E-commerce,3.0,3.175,130.0,bad
+1139,1139,Warby Parker,United States,Retail,3.0,3.3049999999999997,331.0,good
+1140,1140,Yixia Technology,China,Internet media,3.0,3.175,130.0,bad
+1141,1141,"New York General Group, Inc.",United States,"Superintelligence, Quantum computing, Metaverse",3.0,3.3049999999999997,331.0,good
+1142,1142,Ovo,Indonesia,Financial technology,2.9,3.7199999999999998,2250.0,good
+1143,1143,Oaknorth,United Kingdom,Finance,2.8,3.09,2499.0,bad
+1144,1144,Unionpay,China,Finance,2.8,3.175,130.0,bad
+1145,1145,Bird,United States,Transportation,2.78,3.3049999999999997,331.0,good
+1146,1146,Daangn Market,South Korea,E-commerce,2.7,3.17,775.0,bad
+1147,1147,Tridge,South Korea,Software as a service,2.7,3.17,775.0,bad
+1148,1148,Amwins Group,United States,Insurance,2.6,3.3049999999999997,331.0,good
+1149,1149,Etoro,Israel,Financial technology,2.5,2.5700000000000003,385.0,bad
+1150,1150,Ualá,Argentina,Personal finance,2.45,3.465,927.0,good
+1151,1151,Bitsight,United States,Cybersecurity,2.4,3.3049999999999997,331.0,good
+1152,1152,Mozido,United States,E-commerce,2.39,3.3049999999999997,331.0,good
+1153,1153,Mpl,India,Mobile gaming,2.3,3.49,428.0,good
+1154,1154,Via Transportation,United States,Transportation,2.25,3.3049999999999997,331.0,good
+1155,1155,C6 Bank [Pt],Brazil,Financial services,2.1,3.1399999999999997,608.0,bad
+1156,1156,Nextdoor,United States,Social network,2.1,3.3049999999999997,331.0,good
+1157,1157,Bkash,Bangladesh,Fintech,2.0,2.885,2.0,bad
+1158,1158,Babylon Health,United Kingdom,Healthcare,2.0,3.09,2499.0,bad
+1159,1159,Beijing Weiying Technology,China,E-commerce,2.0,3.175,130.0,bad
+1160,1160,Firstp2P,China,Financial services,2.0,3.175,130.0,bad
+1161,1161,Huimin.Cn,China,E-commerce,2.0,3.175,130.0,bad
+1162,1162,Meicai.Cn,China,E-commerce,2.0,3.175,130.0,bad
+1163,1163,Oxford Nanopore Technologies,United Kingdom,Nanopore sequencing,2.0,3.09,2499.0,bad
+1164,1164,Taopiaopiao,China,E-commerce,2.0,3.175,130.0,bad
+1165,1165,Trendy International Group,China,"Fashion, Retail",2.0,3.175,130.0,bad
+1166,1166,Zerodha,India,Financial technology,2.0,3.49,428.0,good
+1167,1167,Yinlong Group,China,Energy,1.95,3.175,130.0,bad
+1168,1168,Sanpower Group,China,Holding company,1.93,3.175,130.0,bad
+1169,1169,Zigbang,South Korea,Property technology,1.93,3.17,775.0,bad
+1170,1170,Dfinity,Switzerland,Cloud computing,1.9,2.68,746.0,bad
+1171,1171,Prosper Marketplace,United States,Financial technology,1.9,3.3049999999999997,331.0,good
+1172,1172,Benevolentai,United Kingdom,Drug discovery,1.85,3.09,2499.0,bad
+1173,1173,Megazone,South Korea,Cloud computing,1.83,3.17,775.0,bad
+1174,1174,Billdesk,India,Financial technology,1.8,3.49,428.0,good
+1175,1175,Landa Digital Printing,Israel,Printing,1.8,2.5700000000000003,385.0,bad
+1176,1176,Nantomics,United States,Biotechnology,1.8,3.3049999999999997,331.0,good
+1177,1177,Creditas [Pt],Brazil,Financial services,1.75,3.1399999999999997,608.0,bad
+1178,1178,Alphasense,United States,Software,1.7,3.3049999999999997,331.0,good
+1179,1179,Pax Labs,United States,Cannabis,1.7,3.3049999999999997,331.0,good
+1180,1180,Taihe Music Group,China,,1.7,3.175,130.0,bad
+1181,1181,Vtex [Pt],Brazil,Technology,1.7,3.1399999999999997,608.0,bad
+1182,1182,Caocao Zhuanche,China,,1.6,3.175,130.0,bad
+1183,1183,Judo Bank,Australia,Financial services,1.6,3.1849999999999996,786.0,bad
+1184,1184,Aihuishou,China,,1.5,3.175,130.0,bad
+1185,1185,Devo Inc,Spain,Software,1.5,3.57,625.0,good
+1186,1186,Nextsilicon,Israel,Semiconductors,1.5,2.5700000000000003,385.0,bad
+1187,1187,Spring Rain Software,China,,1.5,3.175,130.0,bad
+1188,1188,Tujia.Com,China,,1.5,3.175,130.0,bad
+1189,1189,Zbj.Com,China,,1.5,3.175,130.0,bad
+1190,1190,Hellobike,China,,1.47,3.175,130.0,bad
+1191,1191,Suning Sports,China,Holding company,1.47,3.175,130.0,bad
+1192,1192,Koudai Gouwu,China,,1.45,3.175,130.0,bad
+1193,1193,Bucketplace,South Korea,Interior design,1.4,3.17,775.0,bad
+1194,1194,Chargebee,India,Financial technology,1.4,3.49,428.0,good
+1195,1195,Fiscalnote,United States,Data analytics,1.4,3.3049999999999997,331.0,good
+1196,1196,Five Star Finance,India,Financial services,1.4,3.49,428.0,good
+1197,1197,Iad,France,Real estate,1.4,2.8,171.0,bad
+1198,1198,Netdocuments,United States,Software,1.4,3.3049999999999997,331.0,good
+1199,1199,"Panther Labs, Inc.",United States,Computer security,1.4,3.3049999999999997,331.0,good
+1200,1200,"Qomplx, Inc.",United States,Computer security,1.4,3.3049999999999997,331.0,good
+1201,1201,Voyager,Philippines,Financial technology,1.4,3.3600000000000003,198.0,good
+1202,1202,Etcp,China,,1.3,3.175,130.0,bad
+1203,1203,Knotel,United States,,1.3,3.3049999999999997,331.0,good
+1204,1204,Kr Space,China,,1.3,3.175,130.0,bad
+1205,1205,Incode,Mexico,Technology,1.25,3.5700000000000003,1546.0,good
+1206,1206,Iwjw,China,,1.25,3.175,130.0,bad
+1207,1207,Ada,Canada,Software,1.2,3.0599999999999996,1221.0,bad
+1208,1208,Apotea,Sweden,E-commerce,1.2,3.06,752.0,bad
+1209,1209,Dada,China,,1.2,3.175,130.0,bad
+1210,1210,Deutsche Health,Germany,,1.2,3.44,2050.0,good
+1211,1211,Droom,India,Marketplace,1.2,3.49,428.0,good
+1212,1212,Kyriba,France,Cloud computing,1.2,2.8,171.0,bad
+1213,1213,Acko,India,Insurance,1.1,3.49,428.0,good
+1214,1214,Benevity,Canada,Software as a service,1.1,3.0599999999999996,1221.0,bad
+1215,1215,Emplifi,United States,Technology,1.0,3.3049999999999997,331.0,good
+1216,1216,Asia First Media,Japan,Media,1.0,2.865,1134.0,bad
+1217,1217,Assent Compliance,Canada,Supply chain management,1.0,3.0599999999999996,1221.0,bad
+1218,1218,"Cadence Solutions, Inc.",United States,Healthcare,1.0,3.3049999999999997,331.0,good
+1219,1219,Calabrio,United States,Software,1.0,3.3049999999999997,331.0,good
+1220,1220,Chubao Technology,China,,1.0,3.175,130.0,bad
+1221,1221,Dxy,China,,1.0,3.175,130.0,bad
+1222,1222,Empg,United Arab Emirates,Real estate technology,1.0,2.69,921.0,bad
+1223,1223,Flexe,United States,Logistics,1.0,3.3049999999999997,331.0,good
+1224,1224,Fractal,India,Artificial Intelligence,1.0,3.49,428.0,good
+1225,1225,Frontline Education,United States,,1.0,3.3049999999999997,331.0,good
+1226,1226,Geocomply,Canada,Cybersecurity,1.0,3.0599999999999996,1221.0,bad
+1227,1227,Glance,India,Artificial Intelligence,1.0,3.49,428.0,good
+1228,1228,Gogovan,Hong Kong,Technology,1.0,2.97,717.0,bad
+1229,1229,Blinkit,India,Retail,1.0,3.49,428.0,good
+1230,1230,Jd.Id,Indonesia,E-commerce,1.0,3.7199999999999998,2250.0,good
+1231,1231,Huikedu Group,China,,1.0,3.175,130.0,bad
+1232,1232,Igaworks,South Korea,Advertising technology,1.0,3.17,775.0,bad
+1233,1233,Injective,United States,Financial technology,1.0,3.3049999999999997,331.0,good
+1234,1234,Jollychic,China,,1.0,3.175,130.0,bad
+1235,1235,Lilium Gmbh,Germany,Transportation,1.0,3.44,2050.0,good
+1236,1236,Linksure Network (Wifi Master Key),China,,1.0,3.175,130.0,bad
+1237,1237,Liquid Group,Japan,Cryptocurrency,1.0,2.865,1134.0,bad
+1238,1238,Lmax Group,United Kingdom,Financial technology,1.0,3.09,2499.0,bad
+1239,1239,Loft Brazil Technology [Pt],Brazil,Real estate,1.0,3.1399999999999997,608.0,bad
+1240,1240,Loggi [Pt],Brazil,Logistics,1.0,3.1399999999999997,608.0,bad
+1241,1241,Tiket.Com,Indonesia,Travel,1.0,3.7199999999999998,2250.0,good
+1242,1242,Madeiramadeira [Pt],Brazil,Furniture,1.0,3.1399999999999997,608.0,bad
+1243,1243,Mofang Apartment,China,,1.0,3.175,130.0,bad
+1244,1244,Kredivo,Indonesia,Financial technology,1.0,3.7199999999999998,2250.0,good
+1245,1245,Opn (Synqa),Japan,Financial technology,1.0,2.865,1134.0,bad
+1246,1246,Orcam,Israel,Health,1.0,2.5700000000000003,385.0,bad
+1247,1247,Pantheon,United States,WebOps,1.0,3.3049999999999997,331.0,good
+1248,1248,Perimeter 81,Israel,Network security,1.0,2.5700000000000003,385.0,bad
+1249,1249,Pipedrive,Estonia,CRM,1.0,2.87,448.0,bad
+1250,1250,Rubicon Global,United States,Waste management,1.0,3.3049999999999997,331.0,good
+1251,1251,Trustly,Sweden,Financial technology,1.0,3.06,752.0,bad
+1252,1252,Turo,United States,Car sharing,1.0,3.3049999999999997,331.0,good
+1253,1253,Udacity,United States,Education,1.0,3.3049999999999997,331.0,good
+1254,1254,Blibli,Indonesia,E-commerce,1.0,3.7199999999999998,2250.0,good
+1255,1255,Verse Innovation,India,Technology,1.0,3.49,428.0,good
+1256,1256,Wacai.Com,China,,1.0,3.175,130.0,bad
+1257,1257,Xiaozhu.Com,China,,1.0,3.175,130.0,bad
+1258,1258,Zhaogang.Com,China,,1.0,3.175,130.0,bad
+1259,1259,Zhuanzhuan,China,,1.0,3.175,130.0,bad
+1260,1260,Bitkub,Thailand,Financial technology,1.0,4.07,3833.0,good
+1261,1261,Dana,Indonesia,Financial technology,1.0,3.7199999999999998,2250.0,good
+1262,1262,Neo Financial,Canada,Financial technology,1.0,3.0599999999999996,1221.0,bad
+1263,1263,Physicswallah,India,Educational technology,1.1,3.49,428.0,good
+1264,1264,Onecard,India,Financial technology,1.4,3.49,428.0,good
+1265,1265,5Ire,India,Technology,1.5,3.49,428.0,good
