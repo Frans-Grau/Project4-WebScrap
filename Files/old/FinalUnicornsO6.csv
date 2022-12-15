@@ -10,7 +10,7 @@
 8,Databricks,United States,Data management & analytics,38.0
 9,Revolut,United Kingdom,Fintech,33.0
 10,Epic Games,United States,Other,31.5
-11,Ftx,Bahamas,Fintech,32.0
+11,Ftx,The Bahamas,Fintech,32.0
 12,Fanatics,United States,E-commerce & direct-to-consumer,27.0
 13,Chime,United States,Fintech,25.0
 14,Byju'S,India,Edtech,22.0
@@ -743,7 +743,7 @@
 741,Inari,United States,Other,1.2
 742,Alation,United States,Internet software & services,1.2
 743,Smartmore,China,Artificial Intelligence,1.2
-744,Rohlik,Czech Republic,"Supply chain, logistics, & delivery",1.2
+744,Rohlik,Czechia,"Supply chain, logistics, & delivery",1.2
 745,Prime Medicine,United States,Health,1.2
 746,Floqast,United States,Fintech,1.2
 747,Mindtickle,United States,Internet software & services,1.2
@@ -1101,13 +1101,13 @@
 1099,Taxfix,Germany,Fintech,1.0
 1100,Open,India,Fintech,1.0
 1101,Polarium,Sweden,Other,1.0
-1102,Telegram,UK / UAE,Internet,30.0
+1102,Telegram,United Kingdom,Internet,30.0
 1103,Trendyol,Turkey,E-commerce,16.5
 1104,Dji,China,Technology,15.0
 1105,Bitmain,China,Cryptocurrency,12.0
-1106,Sensetime,China / Hong Kong,Artificial Intelligence,12.0
-1107,Bolt Financial,US,Financial technology,11.0
-1108,Aurora,US,Self-driving cars,10.0
+1106,Sensetime,China,Artificial Intelligence,12.0
+1107,Bolt Financial,United States,Financial technology,11.0
+1108,Aurora,United States,Self-driving cars,10.0
 1109,Kucoin,Seychelles,Cryptocurrency,10.0
 1110,Oyo,India,Hospitality,9.6
 1111,Starkware Industries,Israel,Blockchain,8.0
@@ -1117,68 +1117,68 @@
 1115,Pharmeasy,India,Health technology,5.6
 1116,Phonepe,India,Financial technology,5.5
 1117,Viva Republica (Toss),South Korea,Financial technology,5.48
-1118,Sambanova,US,Artificial Intelligence,5.1
-1119,Cloudkitchens,US,Ghost kitchen,5.0
+1118,Sambanova,United States,Artificial Intelligence,5.1
+1119,Cloudkitchens,United States,Ghost kitchen,5.0
 1120,Ola Electric,India,Electric vehicles,5.0
-1121,Royole,China / US,Flexible electronics,5.0
+1121,Royole,China,Flexible electronics,5.0
 1122,Animoca Brands,Hong Kong,Blockchain gaming,5.0
-1123,Octopus Energy,UK,Energy,5.0
-1124,Anduril Industries,US,Defense technology,4.6
-1125,Zenefits,US,Human resource management,4.5
+1123,Octopus Energy,United Kingdom,Energy,5.0
+1124,Anduril Industries,United States,Defense technology,4.6
+1125,Zenefits,United States,Human resource management,4.5
 1126,Meizu,China,Consumer electronics,4.4
-1127,Branch Metrics,US,Marketing,4.0
+1127,Branch Metrics,United States,Marketing,4.0
 1128,Quintoandar [Pt],Brazil,Real estate,4.0
 1129,Shouqi,China,Transportation,3.55
-1130,Plus.Ai,US,Self-driving trucks,3.3
-1131,Starburst Data,US,Data analytics,3.3
+1130,Plus.Ai,United States,Self-driving trucks,3.3
+1131,Starburst Data,United States,Data analytics,3.3
 1132,Eruditus,India,Educational technology,3.2
 1133,Tiendanube,Argentina,E-commerce,3.1
-1134,Sentinelone,US,Cybersecurity,3.1
+1134,Sentinelone,United States,Cybersecurity,3.1
 1135,Wildlife,Brazil,Mobile gaming,3.0
-1136,"Age Of Learning, Inc.",US,Education,3.0
+1136,"Age Of Learning, Inc.",United States,Education,3.0
 1137,Souche,China,Marketplace,3.0
 1138,Vancl,China,E-commerce,3.0
-1139,Warby Parker,US,Retail,3.0
+1139,Warby Parker,United States,Retail,3.0
 1140,Yixia Technology,China,Internet media,3.0
-1141,"New York General Group, Inc.",US,"Superintelligence, Quantum computing, Metaverse",3.0
+1141,"New York General Group, Inc.",United States,"Superintelligence, Quantum computing, Metaverse",3.0
 1142,Ovo,Indonesia,Financial technology,2.9
-1143,Oaknorth,UK,Finance,2.8
+1143,Oaknorth,United Kingdom,Finance,2.8
 1144,Unionpay,China,Finance,2.8
-1145,Bird,US,Transportation,2.78
+1145,Bird,United States,Transportation,2.78
 1146,Daangn Market,South Korea,E-commerce,2.7
 1147,Tridge,South Korea,Software as a service,2.7
-1148,Amwins Group,US,Insurance,2.6
+1148,Amwins Group,United States,Insurance,2.6
 1149,Etoro,Israel,Financial technology,2.5
 1150,Ualá,Argentina,Personal finance,2.45
-1151,Bitsight,US,Cybersecurity,2.4
-1152,Mozido,US,E-commerce,2.39
+1151,Bitsight,United States,Cybersecurity,2.4
+1152,Mozido,United States,E-commerce,2.39
 1153,Mpl,India,Mobile gaming,2.3
-1154,Via Transportation,US,Transportation,2.25
+1154,Via Transportation,United States,Transportation,2.25
 1155,C6 Bank [Pt],Brazil,Financial services,2.1
-1156,Nextdoor,US,Social network,2.1
+1156,Nextdoor,United States,Social network,2.1
 1157,Bkash,Bangladesh,Fintech,2.0
-1158,Babylon Health,UK,Healthcare,2.0
+1158,Babylon Health,United Kingdom,Healthcare,2.0
 1159,Beijing Weiying Technology,China,E-commerce,2.0
 1160,Firstp2P,China,Financial services,2.0
 1161,Huimin.Cn,China,E-commerce,2.0
 1162,Meicai.Cn,China,E-commerce,2.0
-1163,Oxford Nanopore Technologies,UK,Nanopore sequencing,2.0
+1163,Oxford Nanopore Technologies,United Kingdom,Nanopore sequencing,2.0
 1164,Taopiaopiao,China,E-commerce,2.0
-1165,Trendy International Group,China / Hong Kong,"Fashion, Retail",2.0
+1165,Trendy International Group,China,"Fashion, Retail",2.0
 1166,Zerodha,India,Financial technology,2.0
 1167,Yinlong Group,China,Energy,1.95
 1168,Sanpower Group,China,Holding company,1.93
 1169,Zigbang,South Korea,Property technology,1.93
 1170,Dfinity,Switzerland,Cloud computing,1.9
-1171,Prosper Marketplace,US,Financial technology,1.9
-1172,Benevolentai,UK,Drug discovery,1.85
+1171,Prosper Marketplace,United States,Financial technology,1.9
+1172,Benevolentai,United Kingdom,Drug discovery,1.85
 1173,Megazone,South Korea,Cloud computing,1.83
 1174,Billdesk,India,Financial technology,1.8
 1175,Landa Digital Printing,Israel,Printing,1.8
-1176,Nantomics,US,Biotechnology,1.8
+1176,Nantomics,United States,Biotechnology,1.8
 1177,Creditas [Pt],Brazil,Financial services,1.75
-1178,Alphasense,US,Software,1.7
-1179,Pax Labs,US,Cannabis,1.7
+1178,Alphasense,United States,Software,1.7
+1179,Pax Labs,United States,Cannabis,1.7
 1180,Taihe Music Group,China,,1.7
 1181,Vtex [Pt],Brazil,Technology,1.7
 1182,Caocao Zhuanche,China,,1.6
@@ -1193,51 +1193,51 @@
 1191,Suning Sports,China,Holding company,1.47
 1192,Koudai Gouwu,China,,1.45
 1193,Bucketplace,South Korea,Interior design,1.4
-1194,Chargebee,India / US,Financial technology,1.4
-1195,Fiscalnote,US,Data analytics,1.4
+1194,Chargebee,India,Financial technology,1.4
+1195,Fiscalnote,United States,Data analytics,1.4
 1196,Five Star Finance,India,Financial services,1.4
 1197,Iad,France,Real estate,1.4
-1198,Netdocuments,US,Software,1.4
-1199,"Panther Labs, Inc.",US,Computer security,1.4
-1200,"Qomplx, Inc.",US,Computer security,1.4
+1198,Netdocuments,United States,Software,1.4
+1199,"Panther Labs, Inc.",United States,Computer security,1.4
+1200,"Qomplx, Inc.",United States,Computer security,1.4
 1201,Voyager,Philippines,Financial technology,1.4
 1202,Etcp,China,,1.3
-1203,Knotel,US,,1.3
+1203,Knotel,United States,,1.3
 1204,Kr Space,China,,1.3
 1205,Incode,Mexico,Technology,1.25
 1206,Iwjw,China,,1.25
 1207,Ada,Canada,Software,1.2
 1208,Apotea,Sweden,E-commerce,1.2
 1209,Dada,China,,1.2
-1210,Deutsche Health,Germany / Russia,,1.2
+1210,Deutsche Health,Germany,,1.2
 1211,Droom,India,Marketplace,1.2
 1212,Kyriba,France,Cloud computing,1.2
 1213,Acko,India,Insurance,1.1
 1214,Benevity,Canada,Software as a service,1.1
-1215,Emplifi,"US, UK and Europe",Technology,1.0
+1215,Emplifi,United States,Technology,1.0
 1216,Asia First Media,Japan,Media,1.0
 1217,Assent Compliance,Canada,Supply chain management,1.0
-1218,"Cadence Solutions, Inc.",US,Healthcare,1.0
-1219,Calabrio,US,Software,1.0
+1218,"Cadence Solutions, Inc.",United States,Healthcare,1.0
+1219,Calabrio,United States,Software,1.0
 1220,Chubao Technology,China,,1.0
 1221,Dxy,China,,1.0
-1222,Empg,UAE,Real estate technology,1.0
-1223,Flexe,US,Logistics,1.0
-1224,Fractal,India/ US,Artificial Intelligence,1.0
-1225,Frontline Education,US,,1.0
+1222,Empg,United Arab Emirates,Real estate technology,1.0
+1223,Flexe,United States,Logistics,1.0
+1224,Fractal,India,Artificial Intelligence,1.0
+1225,Frontline Education,United States,,1.0
 1226,Geocomply,Canada,Cybersecurity,1.0
 1227,Glance,India,Artificial Intelligence,1.0
 1228,Gogovan,Hong Kong,Technology,1.0
 1229,Blinkit,India,Retail,1.0
-1230,Jd.Id,Indonesia / China,E-commerce,1.0
+1230,Jd.Id,Indonesia,E-commerce,1.0
 1231,Huikedu Group,China,,1.0
 1232,Igaworks,South Korea,Advertising technology,1.0
-1233,Injective,US,Financial technology,1.0
+1233,Injective,United States,Financial technology,1.0
 1234,Jollychic,China,,1.0
 1235,Lilium Gmbh,Germany,Transportation,1.0
 1236,Linksure Network (Wifi Master Key),China,,1.0
 1237,Liquid Group,Japan,Cryptocurrency,1.0
-1238,Lmax Group,UK,Financial technology,1.0
+1238,Lmax Group,United Kingdom,Financial technology,1.0
 1239,Loft Brazil Technology [Pt],Brazil,Real estate,1.0
 1240,Loggi [Pt],Brazil,Logistics,1.0
 1241,Tiket.Com,Indonesia,Travel,1.0
@@ -1246,13 +1246,13 @@
 1244,Kredivo,Indonesia,Financial technology,1.0
 1245,Opn (Synqa),Japan,Financial technology,1.0
 1246,Orcam,Israel,Health,1.0
-1247,Pantheon,US,WebOps,1.0
+1247,Pantheon,United States,WebOps,1.0
 1248,Perimeter 81,Israel,Network security,1.0
-1249,Pipedrive,Estonia / US,CRM,1.0
-1250,Rubicon Global,US,Waste management,1.0
+1249,Pipedrive,Estonia,CRM,1.0
+1250,Rubicon Global,United States,Waste management,1.0
 1251,Trustly,Sweden,Financial technology,1.0
-1252,Turo,US,Car sharing,1.0
-1253,Udacity,US,Education,1.0
+1252,Turo,United States,Car sharing,1.0
+1253,Udacity,United States,Education,1.0
 1254,Blibli,Indonesia,E-commerce,1.0
 1255,Verse Innovation,India,Technology,1.0
 1256,Wacai.Com,China,,1.0
