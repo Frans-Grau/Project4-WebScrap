@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 
 ### Import Data
-unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\FinalUnicornsO3.csv')
-cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\FinalCities.csv')
+unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
+cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Top2Cities.csv')
 
 ### Set Page Format
 base = 'light'
