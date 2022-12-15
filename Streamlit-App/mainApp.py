@@ -2,16 +2,23 @@
 import streamlit as st
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
+from PIL import Image
 
 
 ### Import Data
-unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
-cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Top2Cities.csv')
+#unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
+#cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Top2Cities.csv')
+#coordinates = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\coutry_coord.csv')
+unicorns = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Unicorns&Countries.csv')
+cities = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Top2Cities.csv')
+coordinates = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/coutry_coord.csv')
 
 ### Set Page Format
 base = 'light'
 st.set_page_config(page_title='NomadVsUnicorns', page_icon=None, layout='wide', menu_items=None)
+palette=['lightgreen','mediumseagreen','seagreen']
+
 tab1, tab2 = st.tabs(["Overview", "Country Study"])
 
 with tab1: 
@@ -49,7 +56,7 @@ with tab1:
 
         # Plot
         fig04, ax = plt.subplots(figsize = (10, 7))
-        plt.pie(data, labels = labels, autopct='%.0f%%')
+        plt.pie(data, labels = labels, colors=palette, autopct='%.0f%%')
         plt.show()
         st.pyplot(fig04)
     
@@ -65,6 +72,9 @@ with tab1:
         plt.xticks(fontsize=8.5)
         ax.set_ylabel('Sum of Valuations in USD Billion')
         st.pyplot(fig05)
+    
+    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map.png')
+    st.image(image1)
 
 
 with tab2:
