@@ -109,7 +109,7 @@ with tab2:
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
-        ax.set_yticks(np.arange(0, 110, 10))
+        ax.set_yticks(np.arange(0, 150, 10))
         st.pyplot(fig01)
 
         ### Top Industries x Num of unicorns
@@ -137,7 +137,7 @@ with tab2:
         df2 = pd.concat([df2, new_row])
 
         #plotting -- for comparison left all countries and right 
-        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4))
+        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4), colors=palette)
         plt.show()
         st.pyplot()
         st.empty()
@@ -157,7 +157,7 @@ with tab2:
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
-        ax.set_yticks(np.arange(0, 110, 10))
+        ax.set_yticks(np.arange(0, 150, 10))
         st.pyplot(fig01)
 
         ### Top Industries x Num of unicorns
@@ -185,7 +185,7 @@ with tab2:
         df2 = pd.concat([df2, new_row])
 
         #plotting -- for comparison left all countries and right 
-        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4))
+        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4), colors=palette)
         plt.show()
         st.pyplot()
         st.empty()
