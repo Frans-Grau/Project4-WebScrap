@@ -68,6 +68,7 @@ with tab1:
 
 
 with tab2:
+    st.set_option('deprecation.showPyplotGlobalUse', False)
     col1,col2 = st.columns(2)
     with col1:
         ### Insert Filter 
@@ -92,10 +93,29 @@ with tab2:
         data = TopIxU.values
 
         # Plot
-        fig04, ax = plt.subplots(figsize = (10, 7))
-        plt.pie(data, labels = labels, autopct='%.0f%%')
+        #the full dataframe
+        df = pd.DataFrame(
+            data = {'industry': labels , ' ' : data},
+            ).sort_values(' ', ascending = False)
+
+        #the top 5
+        df2 = df[:5].copy()
+
+        #others
+        new_row = pd.DataFrame(data = {
+            'industry' : ['Others'],
+            ' ' : [df[' '][5:].sum()]
+        })
+
+        #combining top 5 with others
+        df2 = pd.concat([df2, new_row])
+
+        #plotting -- for comparison left all countries and right 
+        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4))
         plt.show()
-        st.pyplot(fig04)
+        st.pyplot()
+        st.empty()
+
 
     with col2:
         ### Insert Filter
@@ -120,7 +140,25 @@ with tab2:
         data = TopIxU.values
 
         # Plot
-        fig04, ax = plt.subplots(figsize = (10, 7))
-        plt.pie(data, labels = labels, autopct='%.0f%%')
+        #the full dataframe
+        df = pd.DataFrame(
+            data = {'industry': labels , ' ' : data},
+            ).sort_values(' ', ascending = False)
+
+        #the top 5
+        df2 = df[:5].copy()
+
+        #others
+        new_row = pd.DataFrame(data = {
+            'industry' : ['Others'],
+            ' ' : [df[' '][5:].sum()]
+        })
+
+        #combining top 5 with others
+        df2 = pd.concat([df2, new_row])
+
+        #plotting -- for comparison left all countries and right 
+        df2.plot(kind = 'pie', y=' ', labels = df2['industry'],autopct='%.0f%%',legend=False,figsize = (9,4))
         plt.show()
-        st.pyplot(fig04)
+        st.pyplot()
+        st.empty()
