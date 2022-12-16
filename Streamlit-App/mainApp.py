@@ -18,7 +18,7 @@ nb_uni_country = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Proje
 ### Set Page Format
 base = 'light'
 st.set_page_config(page_title='NomadVsUnicorns', page_icon=None, layout='wide', menu_items=None)
-palette=['lightgreen','palegreen','mediumseagreen','seagreen', 'forestgreen', 'green']
+palette=['lightblue','skyblue','lightsteelblue','steelblue', 'cornflowerblue', 'royalblue']
 
 tab1, tab2 = st.tabs(["Overview", "Country Study"])
 #st.title('The unicorns of the world')
@@ -27,7 +27,7 @@ with tab1:
     st.title('The unicorns of the world')
 
     st.subheader('*Where are the unicorns?*')
-    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map.png')
+    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map2.png')
     st.image(image1, use_column_width='always')
 
     col1, col2 = st.columns(2)
@@ -38,7 +38,7 @@ with tab1:
         TopUxV = unicorns[['Name','Valuation ($ Billion)']].sort_values(by = 'Valuation ($ Billion)', ascending=False)[:10]
         # Plot
         fig01, ax = plt.subplots(figsize = (10, 7))
-        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'mediumseagreen')
+        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'skyblue')
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
@@ -59,13 +59,36 @@ with tab1:
         ### Top Industries x Num of unicorns
         # Grab the data
         TopIxU = unicorns.Industry.value_counts().sort_values(ascending=False)
-        labels = TopIxU.index
-        data = TopIxU.values
+        labels1 = TopIxU.index
+        data1 = TopIxU.values
         # Plot
-        fig04, ax = plt.subplots(figsize = (10, 7))
-        plt.pie(data, labels = labels, autopct='%.0f%%', colors=palette)
+        #fig04, ax = plt.subplots(figsize = (10, 7))
+        #plt.pie(data, labels = labels, autopct='%.0f%%', colors=palette)
+        #plt.show()
+        #st.pyplot(fig04)
+        
+        
+        df = pd.DataFrame(
+        data = {'industry': labels1 , ' ' : data1},
+            ).sort_values(' ', ascending = False)
+
+        #the top 5
+        df3 = df[:5].copy()
+
+        #others
+        new_row = pd.DataFrame(data = {
+            'industry' : ['Others'],
+            ' ' : [df[' '][5:].sum()]
+        })
+
+        #combining top 5 with others
+        df4 = pd.concat([df3, new_row])
+
+        #plotting -- for comparison left all countries and right 
+        df4.plot(kind = 'pie', y=' ', labels = df4['industry'],autopct='%.0f%%',legend=False,figsize = (9,4), colors=palette)
         plt.show()
-        st.pyplot(fig04)
+        st.pyplot()
+        st.empty()
 
     #col1, col2 = st.columns(2)
     #with col1:
@@ -84,12 +107,25 @@ with tab1:
         #ax.set_ylabel('Sum of Valuations in USD Billion')
         #st.pyplot(fig05)
 
-
-    col1, col2, col3 = st.columns(3)
+    st.subheader('*What are the best cities in the world for nomads?*')
+    col1, col2, col3 = st.columns([1,3,1])
     with col1:
         st.empty()
     with col2:
-        st.table(nb_uni_country[['Country','Number of unicorns']].head(10))
+       
+        cities2 = cities.sort_values(by='score', ascending=False).head(10)
+        cities2.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
+        #st.table(cities2[['Country','City','Score']])
+    
+        fig07, ax = plt.subplots(figsize = (6, 3))
+        sns.barplot(data = cities2, x ='City', y ='Score', color = 'skyblue')
+        ax.set_ylabel('Score')
+        plt.xticks(fontsize=5)
+        plt.yticks(fontsize=5)
+        ax.set_xlabel('City')
+        ax.set_yticks(np.arange(0, 5.5, 0.5))
+        st.pyplot(fig07)
+        #st.table(nb_uni_country[['Country','Number of unicorns']].head(10))
     with col3:
         st.empty()
 
@@ -107,7 +143,7 @@ with tab2:
         TopUxV = TopUxV1[TopUxV1['Country']==ChooseCountry1][:5]
         # Plot
         fig01, ax = plt.subplots(figsize = (10, 7))
-        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'mediumseagreen')
+        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'skyblue')
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
@@ -155,7 +191,7 @@ with tab2:
         TopUxV = TopUxV1[TopUxV1['Country']==ChooseCountry2][:5]
         # Plot
         fig01, ax = plt.subplots(figsize = (10, 7))
-        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'mediumseagreen')
+        sns.barplot(data = TopUxV, x ='Name', y ='Valuation ($ Billion)', color = 'skyblue')
         ax.set_ylabel('Valuation (USD billion)')
         plt.xticks(fontsize=9)
         ax.set_xlabel('Unicorn Name')
@@ -194,8 +230,8 @@ with tab2:
     
     col1,col2 = st.columns(2)
     with col1:
-        st.subheader('*What are the best cities in the country?*')
-        df_country1 = cities[cities['Country']==ChooseCountry1].head(2)
+        st.subheader('*What are the best cities for nomads in the country?*')
+        df_country1 = cities[cities['Country']==ChooseCountry1].sort_values(by='score', ascending=False).head(2)
         df_country1.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
         hide_table_row_index = """
             <style>
@@ -207,7 +243,7 @@ with tab2:
         st.table(df_country1[['Country','City','Score']])
     with col2:
         st.subheader('* *')
-        df_country2 = cities[cities['Country']==ChooseCountry2].head(2)
+        df_country2 = cities[cities['Country']==ChooseCountry2].sort_values(by='score', ascending=False).head(2)
         df_country2.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
         hide_table_row_index = """
             <style>
@@ -218,7 +254,3 @@ with tab2:
         st.markdown(hide_table_row_index, unsafe_allow_html=True)
         st.table(df_country2[['Country','City','Score']])
     
-    st.subheader('*What are the best cities in the world?*')
-    cities2 = cities.sort_values(by='score', ascending=False).head(10)
-    cities2.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
-    st.table(cities2[['Country','City','Score']])
