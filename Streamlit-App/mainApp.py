@@ -12,7 +12,7 @@ import numpy as np
 #coordinates = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\coutry_coord.csv')
 unicorns = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Unicorns&Countries.csv')
 cities = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Top2Cities.csv')
-coordinates = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/coutry_coord.csv')
+#coordinates = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/coutry_coord.csv')
 nb_uni_country = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/nb_uni_per_country.csv')
 
 ### Set Page Format
@@ -25,6 +25,10 @@ tab1, tab2 = st.tabs(["Overview", "Country Study"])
 
 with tab1:
     st.title('The unicorns of the world')
+
+    st.subheader('*Where are the unicorns?*')
+    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map.png')
+    st.image(image1, use_column_width='always')
 
     col1, col2 = st.columns(2)
     with col1:
@@ -79,9 +83,7 @@ with tab1:
         #plt.xticks(fontsize=8.5)
         #ax.set_ylabel('Sum of Valuations in USD Billion')
         #st.pyplot(fig05)
-    st.subheader('*Where are the unicorns?*')
-    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map.png')
-    st.image(image1)
+
 
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -192,7 +194,31 @@ with tab2:
     
     col1,col2 = st.columns(2)
     with col1:
-        st.table(cities)
+        st.subheader('*What are the best cities in the country?*')
+        df_country1 = cities[cities['Country']==ChooseCountry1].head(2)
+        df_country1.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
+        hide_table_row_index = """
+            <style>
+            thead tr th:first-child {display:none}
+            tbody th {display:none}
+            </style>
+            """
+        st.markdown(hide_table_row_index, unsafe_allow_html=True)
+        st.table(df_country1[['Country','City','Score']])
     with col2:
-        st.table(cities)
+        st.subheader('* *')
+        df_country2 = cities[cities['Country']==ChooseCountry2].head(2)
+        df_country2.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
+        hide_table_row_index = """
+            <style>
+            thead tr th:first-child {display:none}
+            tbody th {display:none}
+            </style>
+            """
+        st.markdown(hide_table_row_index, unsafe_allow_html=True)
+        st.table(df_country2[['Country','City','Score']])
     
+    st.subheader('*What are the best cities in the world?*')
+    cities2 = cities.sort_values(by='score', ascending=False).head(10)
+    cities2.rename(columns = {'city':'City', 'score':'Score'}, inplace=True)
+    st.table(cities2[['Country','City','Score']])
