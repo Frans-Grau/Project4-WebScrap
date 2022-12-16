@@ -7,13 +7,15 @@ from PIL import Image
 import numpy as np
 
 ### Import Data
-#unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
-#cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Top2Cities.csv')
+unicorns = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Unicorns&Countries.csv')
+cities = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\Top2Cities.csv')
+nb_uni_country = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\nb_uni_per_country.csv')
+
 #coordinates = pd.read_csv(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\Files\coutry_coord.csv')
-unicorns = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Unicorns&Countries.csv')
-cities = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Top2Cities.csv')
+# unicorns = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Unicorns&Countries.csv')
+# cities = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/Top2Cities.csv')
 #coordinates = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/coutry_coord.csv')
-nb_uni_country = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/nb_uni_per_country.csv')
+# nb_uni_country = pd.read_csv(r'/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/Files/nb_uni_per_country.csv')
 
 ### Set Page Format
 base = 'light'
@@ -27,7 +29,8 @@ with tab1:
     st.title('The unicorns of the world')
 
     st.subheader('*Where are the unicorns?*')
-    image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map2.png')
+    # image1 = Image.open('/Users/anacarolinaquintino/Documents/GitHub/Project4-WebScrap/map2.png')
+    image1 = Image.open(r'C:\Users\frans\Documents\GitHub\Project4-WebScrap\map2.png')
     st.image(image1, use_column_width='always')
 
     col1, col2 = st.columns(2)
@@ -85,6 +88,7 @@ with tab1:
         df4 = pd.concat([df3, new_row])
 
         #plotting -- for comparison left all countries and right 
+        st.set_option('deprecation.showPyplotGlobalUse', False)
         df4.plot(kind = 'pie', y=' ', labels = df4['industry'],autopct='%.0f%%',legend=False,figsize = (9,4), colors=palette)
         plt.show()
         st.pyplot()
